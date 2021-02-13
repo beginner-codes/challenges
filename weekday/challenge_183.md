@@ -70,10 +70,10 @@ class Tests(unittest.TestCase):
         self.assertEqual(is_interesting(89999), 1)
 
     def test_7(self):
-        self.assertEqual(is_interesting(89998), 1)
+        self.assertEqual(is_interesting(59998), 1)
 
     def test_8(self):
-        self.assertEqual(is_interesting(89997), 0)
+        self.assertEqual(is_interesting(59997), 0)
 
     def test_9(self):
         self.assertEqual(is_interesting(7890), 2)
@@ -85,7 +85,7 @@ class Tests(unittest.TestCase):
         self.assertEqual(is_interesting(7888), 1)
 
     def test_12(self):
-        self.assertEqual(is_interesting(7887), 0)
+        self.assertEqual(is_interesting(1231), 0)
 
     def test_13(self):
         self.assertEqual(is_interesting(3210), 2)
@@ -105,7 +105,6 @@ class Tests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
 ```
 ## Credits
 
