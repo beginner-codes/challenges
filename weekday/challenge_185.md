@@ -57,4 +57,4 @@ if __name__ == "__main__":
 ```
 ## Credits
 
-Found on Edabit: [Wash Your Hands :)](https://edabit.com/challenge/7RPtGySfZLkEHB8ac)
+Found on Edabit: [Algebra Sequence — Boxes](https://edabit.com/challenge/baBNZFCozmjNhbp9Q)
