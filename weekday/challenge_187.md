@@ -29,12 +29,6 @@ def factorial(num: int) -> int:
     return 0  # Put your code here!!!
 
 
-def factorial(num: int) -> int:
-    import math
-
-    return math.prod(range(2, num + 1), start=1)
-
-
 class Tests(unittest.TestCase):
     def test_1(self):
         self.assertEqual(factorial(3), 6)
