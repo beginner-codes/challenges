@@ -10,15 +10,9 @@ It's kind of fun to play with the code once you get it working and to try and fi
 
 It's also kind of fun to plot these in 3 dimensions. Here is an example of the sequence `(129,12,155,772,63,4)` turned into 2 sets of lines `(x1, y1, z1, x2, y2, z2)`. https://monkey.org/~jose/graphing/ducci/index2.html
 
-## Input Description
+## Challenge
 
-You'll be given an n-tuple, one per line. Example:
-```python
-(0, 653, 1854, 4063)
-```
-## Output Description
-
-Your program should emit the number of steps taken to get to either an all 0 tuple or when it enters a stable repeating pattern.
+Your function should return the number of steps taken to get to either all 0's or a repeated sequence.
 
 ## Example
 ```
