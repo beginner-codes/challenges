@@ -29,7 +29,7 @@ from __future__ import annotations
 import unittest
 
 
-def tp_checker(home: dict[str:int]) -> str:
+def tp_checker(home: dict[str, int]) -> str:
     return ""  # Put your code here!!!
 
 
