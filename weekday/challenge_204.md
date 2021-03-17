@@ -1,4 +1,4 @@
-# Challenge 204 - C*ns*r*d Str*ngs
+# Challenge 204 - C\*ns\*r\*d Str\*ngs
 
 Someone has attempted to censor my strings by replacing every vowel with a `*`, `l*k* th*s`. Luckily, I've been able to find the vowels that were removed.
 
@@ -26,46 +26,30 @@ We're a community of coders who believe the best way to grow is to help others l
 import unittest
 
 
-def is_disarium(number: int) -> bool:
-    return False  # Put your code here!!!
+def uncensor(censored: str, vowels: str) -> str:
+    return ""  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
-        self.assertEqual(is_disarium(6), True)
+        self.assertEqual(
+            uncensor("Wh*r* d*d my v*w*ls g*?", "eeioeo"), "Where did my vowels go?"
+        )
 
     def test_2(self):
-        self.assertEqual(is_disarium(75), False)
+        self.assertEqual(uncensor("abcd", ""), "abcd")
 
     def test_3(self):
-        self.assertEqual(is_disarium(135), True)
+        self.assertEqual(uncensor("*PP*RC*S*", "UEAE"), "UPPERCASE")
 
     def test_4(self):
-        self.assertEqual(is_disarium(466), False)
+        self.assertEqual(
+            uncensor("Ch**s*, Gr*mm*t -- ch**s*", "eeeoieee"),
+            "Cheese, Grommit -- cheese",
+        )
 
     def test_5(self):
-        self.assertEqual(is_disarium(372), False)
-
-    def test_6(self):
-        self.assertEqual(is_disarium(175), True)
-
-    def test_7(self):
-        self.assertEqual(is_disarium(1), True)
-
-    def test_8(self):
-        self.assertEqual(is_disarium(696), False)
-
-    def test_9(self):
-        self.assertEqual(is_disarium(876), False)
-
-    def test_10(self):
-        self.assertEqual(is_disarium(89), True)
-
-    def test_11(self):
-        self.assertEqual(is_disarium(518), True)
-
-    def test_12(self):
-        self.assertEqual(is_disarium(598), True)
+        self.assertEqual(uncensor("*l*ph*nt", "Eea"), "Elephant")
 
 
 if __name__ == "__main__":
@@ -73,4 +57,4 @@ if __name__ == "__main__":
 ```
 ## Credits
 
-Found on Edabit: [Disarium Number](https://edabit.com/challenge/yvJbdkmKHvCNtcZy9)
+Found on Edabit: [C\*ns\*r\*d Str\*ngs](https://edabit.com/challenge/ehyZvt6AJF4rKFfXT)
