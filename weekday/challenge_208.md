@@ -53,6 +53,7 @@ We're a community of coders who believe the best way to grow is to help others l
 
 ## Challenge Tests
 ```python
+from __future__ import annotations
 import unittest
 
 
