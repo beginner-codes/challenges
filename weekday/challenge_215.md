@@ -8,7 +8,7 @@ word_builder(["g", "e", "o"], [1, 0, 2]) ➞ "ego"
 
 word_builder(["e", "t", "s", "t"], [3, 0, 2, 1]) ➞ "test"
 
-word_builder(["e", "n", "g", "p", "r", "y", ".", "e", "n", "i", "b"], [1, 4, 2, 9, 7, 10, 8, 6, 5, 3, 0]) ➞ "beginner.py"
+word_builder(['e', 'i', 'y', 'n', 'r', 'e', 'g', 'n', '.', 'p', 'b'], [10, 0, 6, 1, 3, 7, 5, 4, 8, 9, 2]) ➞ "beginner.py"
 ```
 ## Notes
 
@@ -24,28 +24,39 @@ from __future__ import annotations
 import unittest
 
 
-def find_fulcrum(numbers: list[int]) -> int:
-    return 0  # Put your code here!!!
+def word_builder(scambled: list[str], corrected_indexes: list[int]) -> str:
+    return ""  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
-        self.assertEqual(find_fulcrum([1, 2, 4, 9, 10, -10, -9, 3]), 4)
+        self.assertEqual(word_builder(["g", "e", "o"], [1, 0, 2]), "ego")
 
     def test_2(self):
-        self.assertEqual(find_fulcrum([9, 1, 9]), 1)
+        self.assertEqual(word_builder(["e", "t", "s", "t"], [3, 0, 2, 1]), "test")
 
     def test_3(self):
-        self.assertEqual(find_fulcrum([7, -1, 0, -1, 1, 1, 2, 3]), 0)
+        self.assertEqual(
+            word_builder(
+                ["e", "i", "y", "n", "r", "e", "g", "n", ".", "p", "b"],
+                [10, 0, 6, 1, 3, 7, 5, 4, 8, 9, 2],
+            ),
+            "beginner.py",
+        )
 
     def test_4(self):
-        self.assertEqual(find_fulcrum([8, 8, 8, 8]), -1)
+        self.assertEqual(
+            word_builder(
+                ["l", "e", "h", "n", "l", "c", "a", "e", "g"],
+                [5, 2, 6, 4, 0, 1, 3, 8, 7],
+            ),
+            "challenge",
+        )
 
     def test_5(self):
-        self.assertEqual(find_fulcrum([9, 3, 4, 8, 1]), -1)
-
-    def test_6(self):
-        self.assertEqual(find_fulcrum([1, -1, 10, 5, -4, -1]), 10)
+        self.assertEqual(
+            word_builder(["s", "o", "r", "t", "e", "d"], [0, 1, 2, 3, 4, 5]), "sorted"
+        )
 
 
 if __name__ == "__main__":
