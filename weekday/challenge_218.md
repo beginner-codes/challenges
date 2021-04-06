@@ -25,46 +25,42 @@ from __future__ import annotations
 import unittest
 
 
-def min_length(values: list[int], min_value: int) -> int:
-    return 0  # Put your code here!!!
+def pluralize(things: list[str]) -> set[str]:
+    return set()  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
-        self.assertEqual(min_length([5, 10, 2, -1, 3, 4], 9), 1)
+        self.assertEqual(pluralize(["cow", "pig", "cow", "cow"]), {"cows", "pig"})
 
     def test_2(self):
-        self.assertEqual(min_length([3, -1, 4, -2, -7, 2], 4), 3)
+        self.assertEqual(pluralize(["table", "table", "table"]), {"tables"})
 
     def test_3(self):
-        self.assertEqual(min_length([-5, 3, 2, 7, 8, 9, -1, 5], 16), 2)
+        self.assertEqual(
+            pluralize(["chair", "pencil", "arm"]), {"chair", "pencil", "arm"}
+        )
 
     def test_4(self):
-        self.assertEqual(min_length([1, 0, -1, 1, 1], 1), 2)
+        self.assertEqual(pluralize(["list"]), {"list"})
 
     def test_5(self):
-        self.assertEqual(min_length([1, 0, 1, 1, -1, 0, 1], 2), 4)
-
-    def test_6(self):
-        self.assertEqual(min_length([1, 0, 0, 0, 1], 1), 5)
-
-    def test_7(self):
-        self.assertEqual(min_length([1, 0, 1, 0, 1], 1), 3)
-
-    def test_8(self):
-        self.assertEqual(min_length([-1, 1, 1, 0, 1, 1], 3), 5)
-
-    def test_9(self):
-        self.assertEqual(min_length([3, -1, 4, 3, 0, 1, 2], 7), 4)
-
-    def test_10(self):
-        self.assertEqual(min_length([0, 1, 1, 0], 2), -1)
-
-    def test_11(self):
-        self.assertEqual(min_length([0, 1, 5, 2, 0], 10), -1)
-
-    def test_12(self):
-        self.assertEqual(min_length([3, -1, 4, -2, -7, 2], 6), -1)
+        self.assertEqual(
+            pluralize(
+                [
+                    "set",
+                    "set",
+                    "tuple",
+                    "tuple",
+                    "string",
+                    "string",
+                    "string",
+                    "string",
+                    "integer",
+                ]
+            ),
+            {"sets", "tuples", "strings", "integer"},
+        )
 
 
 if __name__ == "__main__":
