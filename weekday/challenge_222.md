@@ -1,4 +1,4 @@
-# Challenge 221 - A Long Long Time
+# Challenge 222 - Simplified Fractions
 
 Create a function that returns the simplified version of a fraction.
 
