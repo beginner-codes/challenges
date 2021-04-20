@@ -25,7 +25,7 @@ import unittest
 
 
 def add_suffix(suffix: str) -> Callable[[str], str]:
-    return lambda x: x + suffix  # Put your code here!!!
+    return lambda x: x  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
