@@ -25,13 +25,15 @@ import unittest
 
 
 def add_suffix(suffix: str) -> Callable[[str], str]:
-    return lambda x: x  # Put your code here!!!
+    return lambda x: x + suffix  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
-    add_ing = add_suffix("ing")
-    add_less = add_suffix("less")
-    add_ly = add_suffix("ly")
+    def __init__(self, *args):
+        super().__init__(*args)
+        self.add_ing = add_suffix("ing")
+        self.add_less = add_suffix("less")
+        self.add_ly = add_suffix("ly")
 
     def test_1(self):
         self.assertEqual(self.add_ly("hopeless"), "hopelessly")
