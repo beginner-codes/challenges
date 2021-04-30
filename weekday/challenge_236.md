@@ -33,7 +33,7 @@ class Tests(unittest.TestCase):
         self.assertEqual(sum_odd_and_even([1, 2, 3, 4, 5, 6]), (12, 9))
 
     def test_2(self):
-        self.assertEqual(sum_odd_and_even([-1, -2, -3, -4, -5, -6]), (-1, -9))
+        self.assertEqual(sum_odd_and_even([-1, -2, -3, -4, -5, -6]), (-12, -9))
 
     def test_3(self):
         self.assertEqual(sum_odd_and_even([0, 0]), (0, 0))
