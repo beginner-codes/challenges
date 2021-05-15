@@ -70,53 +70,62 @@ We're a community of coders who believe the best way to grow is to help others l
 ## Challenge Tests
 ```python
 from __future__ import annotations
-from typing import Any
 import unittest
 
 
-def convert_to_number(inventory: dict[str, Any]) -> dict[str, int]:
-    return {}  # Put your code here!!!
+def fiscal_code(person: dict[str, str]) -> str:
+    return ""  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
         self.assertEqual(
-            convert_to_number({"piano": "200", "tv": "300", "stereo": "400"}),
-            {"piano": 200, "tv": 300, "stereo": 400},
+            fiscal_code(
+                {
+                    "name": "Brendan",
+                    "surname": "Eich",
+                    "gender": "M",
+                    "dob": "1/12/1961",
+                }
+            ),
+            "CHEBND61T01",
         )
 
     def test_2(self):
         self.assertEqual(
-            convert_to_number({"piano": "200", "tv": "300"}), {"piano": 200, "tv": 300}
+            fiscal_code(
+                {"name": "Helen", "surname": "Yu", "gender": "F", "dob": "1/12/1950"}
+            ),
+            "YUXHLN50T41",
         )
 
     def test_3(self):
-        self.assertEqual(convert_to_number({"piano": "200"}), {"piano": 200})
+        self.assertEqual(
+            fiscal_code(
+                {"name": "Al", "surname": "Capone", "gender": "M", "dob": "17/1/1899"}
+            ),
+            "CPNLAX99A17",
+        )
 
     def test_4(self):
         self.assertEqual(
-            convert_to_number(
+            fiscal_code(
                 {
-                    "one": "1",
-                    "two": "2",
-                    "three": "3",
-                    "four": "4",
-                    "five": "5",
-                    "six": "6",
-                    "seven": "7",
-                    "eight": "8",
+                    "name": "Mickey",
+                    "surname": "Mouse",
+                    "gender": "M",
+                    "dob": "16/1/1928",
                 }
             ),
-            {
-                "one": 1,
-                "two": 2,
-                "three": 3,
-                "four": 4,
-                "five": 5,
-                "six": 6,
-                "seven": 7,
-                "eight": 8,
-            },
+            "MSOMKY28A16",
+        )
+
+    def test_5(self):
+        self.assertEqual(
+            fiscal_code(
+                {"name": "Marie", "surname": "Curie", "gender": "F", "dob": "7/11/1867"}
+            ),
+            "CRUMRA67S47",
         )
 
 
