@@ -5,7 +5,7 @@ Write a function that takes a number and returns the perimeter of either a circl
 Use the following formulas:
 
 - Perimeter of a square: `4 * side`
-- Perimeter of a circle: `π * radius`
+- Perimeter of a circle: `2 * π * radius`
 - Perimeter of a triangle: `3 * side`
 
 ## Examples
