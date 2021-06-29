@@ -45,20 +45,23 @@ class Tests(unittest.TestCase):
     def test_5(self):
         self.assertTrue(can_build("topshSHP", "SHoP"))
 
-    def test_6(self):
-        self.assertTrue(can_build("DAISIES", "SAID"))
+    def test_16(self):
+        self.assertFalse(can_build("a", "aA"))
 
-    def test_7(self):
-        self.assertTrue(can_build("ToporP", "porT"))
+    def test_17(self):
+        self.assertFalse(can_build("a", "A"))
 
-    def test_8(self):
-        self.assertTrue(can_build("PoTluCK", "PuCK"))
+    def test_18(self):
+        self.assertFalse(can_build("AAAAAA", "AAAAAAa"))
 
-    def test_9(self):
-        self.assertTrue(can_build("pATS", "p"))
+    def test_19(self):
+        self.assertFalse(can_build("apple", "appleY"))
 
-    def test_10(self):
-        self.assertTrue(can_build("blah", ""))
+    def test_20(self):
+        self.assertFalse(can_build("xxYYzZ", "zzZxYxY"))
+
+    def test_21(self):
+        self.assertFalse(can_build("abCD", "aBCD"))
 
 
 if __name__ == "__main__":
