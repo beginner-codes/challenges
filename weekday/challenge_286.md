@@ -30,7 +30,7 @@ class Tests(unittest.TestCase):
     def test_1(self):
         builder = string_builder("My name is ")
         for name in ["John", "Bob", "Jane", "Ann"]:
-            self.assertEqual(builder(name), "My name is {}".format(name))
+            self.assertEqual(builder(name), f"My name is {name}")
 
     def test_2(self):
         builder = string_builder("My cat is bigger than ")
