@@ -23,7 +23,7 @@ import unittest
 
 
 def string_builder(string: str) -> Callable[[str], str]:
-    return lambda s: string + s  # Put your code here!!!
+    return lambda s: ""  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
