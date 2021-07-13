@@ -71,4 +71,4 @@ if __name__ == "__main__":
 ```
 ## Credits
 
-Found on Edabit: [Infection of the Ones](https://edabit.com/challenge/tY5fmSbk85N8digXQ)
+Found on Edabit: [Valid Division](https://edabit.com/challenge/MTGTSJvAi2iwd2Ygs)
