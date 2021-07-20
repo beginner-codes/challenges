@@ -30,11 +30,11 @@ def time(rate: dict[str, int], people: int, minutes: int) -> int:
 
 
 class Tests(unittest.TestCase):
-    def test_(self):
+    def test_1(self):
         rate1 = {"people": 4, "walls": 9, "minutes": 63}
         self.assertEqual(time(rate1, 7, 4), 16)
 
-    def test_(self):
+    def test_2(self):
         rate2 = {"people": 10, "walls": 10, "minutes": 22}
         self.assertEqual(time(rate2, 10, 10), 22)
 
