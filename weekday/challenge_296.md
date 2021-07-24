@@ -32,28 +32,33 @@ We're a community of coders who believe the best way to grow is to help others l
 
 ## Challenge Tests
 ```python
-from __future__ import annotations
-from typing import Union
 import unittest
 
 
-def fizz_buzz(maximum: int) -> list[Union[int, str]]:
-    return []  # Put your code here!!!
+def greeting(name: str) -> str:
+    return ""  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
-        self.assertListEqual(fizz_buzz(10), [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz'])
+        self.assertEqual(greeting("Randy"), "Hi! I'm Randy, and I'm from Germany.")
 
     def test_2(self):
-        self.assertListEqual(
-            fizz_buzz(15),
-            [1, 2, 'Fizz', 4, 'Buzz', 'Fizz', 7, 8, 'Fizz', 'Buzz', 11, 'Fizz', 13, 14, 'FizzBuzz']
-        )
+        self.assertEqual(greeting("Sam"), "Hi! I'm Sam, and I'm from Argentina.")
+
+    def test_3(self):
+        self.assertEqual(greeting("Monti"), "Hi! I'm a guest.")
+
+    def test_4(self):
+        self.assertEqual(greeting("Trudy"), "Hi! I'm a guest.")
+
+    def test_5(self):
+        self.assertEqual(greeting("Wendy"), "Hi! I'm Wendy, and I'm from Japan.")
 
 
 if __name__ == "__main__":
     unittest.main()
+
 ```
 ## Credits
 
