@@ -39,8 +39,9 @@ class Name:
 
 
 class Tests(unittest.TestCase):
-    def __init__(self):
-        super().__init__()
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        
         self.a1 = Name("john", "SMITH")
         self.a2 = Name("sARah", "fRolliE")
 
