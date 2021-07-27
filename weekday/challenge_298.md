@@ -36,6 +36,7 @@ import unittest
 class Name:
     def __init__(self, first: str, last: str):
         """Put your code here!!!"""
+        super().__init__()
 
 
 class Tests(unittest.TestCase):
