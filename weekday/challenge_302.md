@@ -6,17 +6,17 @@ Create a function that takes an integer and returns the identity matrix of `n x 
 
 ## Examples
 ```python
-id_mtrx(2) ➞ [
+get_identity_matrix(2) ➞ [
   [1, 0],
   [0, 1]
 ]
 
-id_mtrx(-2) ➞ [
+get_identity_matrix(-2) ➞ [
   [0, 1],
   [1, 0]
 ]
 
-id_mtrx(0) ➞ []
+get_identity_matrix(0) ➞ []
 ```
 ## Join Us & Share Your Solution
 
