@@ -11,15 +11,15 @@ Create a function that is given a list of numbers and must return a list of the 
 ```
 ## Examples
 ```python
-lst_ele_sum([1, 2, 3, 2, 1]) ➞ [8, 7, 6, 7, 8]
+get_list_of_sums([1, 2, 3, 2, 1]) ➞ [8, 7, 6, 7, 8]
 
-lst_ele_sum([1, 2]) ➞ [2, 1]
+get_list_of_sums([1, 2]) ➞ [2, 1]
 
-lst_ele_sum([1, 2, 3]) ➞ [5, 4, 3]
+get_list_of_sums([1, 2, 3]) ➞ [5, 4, 3]
 
-lst_ele_sum([1, 2, 3, 4, 5]) ➞ [14, 13, 12, 11, 10]
+get_list_of_sums([1, 2, 3, 4, 5]) ➞ [14, 13, 12, 11, 10]
 
-lst_ele_sum([10, 20, 30, 40, 50, 60]) ➞ [200, 190, 180, 170, 160, 150]
+get_list_of_sums([10, 20, 30, 40, 50, 60]) ➞ [200, 190, 180, 170, 160, 150]
 ```
 ## Join Us & Share Your Solution
 
