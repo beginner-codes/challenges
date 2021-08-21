@@ -49,10 +49,10 @@ class Tests(unittest.TestCase):
         self.assertEqual(arithmetic_operation("100 * 12"), 1200)
 
     def test_4(self):
-        self.assertEqual(arithmetic_operation("120 // 10"), 12)
+        self.assertEqual(arithmetic_operation("120 / 10"), 12)
 
     def test_5(self):
-        self.assertEqual(arithmetic_operation("122 // 0"), -1)
+        self.assertEqual(arithmetic_operation("122 / 0"), -1)
 
     def test_6(self):
         self.assertEqual(arithmetic_operation("10 * 20"), 200)
