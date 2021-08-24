@@ -14,8 +14,6 @@ U	    0
 sum_of_vowels("Let\'s test this function.") ➞ 8
 
 sum_of_vowels("Do I get the correct output?") ➞ 10
-
-sum_of_vowels("I love edabit!") ➞ 12
 ```
 ## Notes
 
