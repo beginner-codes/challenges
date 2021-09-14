@@ -10,7 +10,7 @@ gimme_the_letters("h-o") ➞ "hijklmno"
 
 gimme_the_letters("Q-Z") ➞ "QRSTUVWXYZ"
 
-gimme_the_letters("J-J") ➞ J"
+gimme_the_letters("J-J") ➞ "J"
 ```
 ## Notes
 
