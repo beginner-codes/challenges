@@ -6,7 +6,7 @@ Create a function that takes a word and extends all vowels by a number.
 ```python
 extend_vowels("Hello", 5) ➞ "Heeeeeelloooooo"
 
-extend_vowels("Edabit", 3) ➞ "EEEEdaaaabiiiit"
+extend_vowels("Beginner.py", 3) ➞ "Beeeegiiiinneeeer.py"
 
 extend_vowels("Extend", 0) ➞ "Extend"
 ```
@@ -32,7 +32,7 @@ class Tests(unittest.TestCase):
         self.assertEqual(extend_vowels("Hello", 5), "Heeeeeelloooooo")
 
     def test_2(self):
-        self.assertEqual(extend_vowels("Edabit", 3), "EEEEdaaaabiiiit")
+        self.assertEqual(extend_vowels("Beginner.py", 3), "Beeeegiiiinneeeer.py")
 
     def test_3(self):
         self.assertEqual(extend_vowels("Extend", 0), "Extend")
