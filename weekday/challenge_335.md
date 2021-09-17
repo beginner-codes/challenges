@@ -1,59 +1,57 @@
-# Challenge 336 - How Many Days Between Two Dates
+# Challenge 335 - Check if a String is a Mathematical Expression
 
-Create a function that takes two dates and returns the number of days between the first and second date.
+Create a function that takes an input (e.g. `"5 + 4"`) and returns `True` if it's a mathematical expression or `False` if not.
 
 ## Examples
 ```python
-get_days(
-  datetime.date(2019, 6, 14),  # June 14, 2019
-  datetime.date(2019, 6, 20)  # June 20, 2019
-) ➞ 6
+math_expr("4 + 5") ➞ True
 
+math_expr("4*6") ➞ True
 
-get_days(
-  datetime.date(2018, 12, 29),  # December 29, 2018
-  datetime.date(2019, 1, 1)  # January 1, 2019
-) ➞ 3
-# Dates may not all be in the same month/year.
-
-get_days(
-  datetime.date(2020, 5, 24),
-  datetime.date(2019, 5, 24))
-) ➞ -366
-# Backwards dates should return a negative change.
+math_expr("4*no") ➞ False
 ```
+## Notes
+
+- Should only work with the following operations: `+`, `-`, `*`, `/`, `%`
+- You don't need to test for floats
+
 ## Join Us & Share Your Solution
 
 We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!]("https"://discord.gg/sfHykntuGy)**
 
 ## Challenge Tests
 ```python
-from datetime import date
 import unittest
 
 
-def get_days(date_a: date, date_b: date) -> int:
-    return 0  # Put your code here!!!
+def math_expr(string: str) -> bool:
+    return False  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
-        self.assertEqual(get_days(date(2019, 6, 14), date(2019, 6, 20)), 6)
+        self.assertTrue(math_expr("5+4"))
 
     def test_2(self):
-        self.assertEqual(get_days(date(2018, 12, 29), date(2019, 1, 1)), 3)
+        self.assertTrue(math_expr("4 * 5"))
 
     def test_3(self):
-        self.assertEqual(get_days(date(2019, 7, 20), date(2019, 7, 30)), 10)
+        self.assertTrue(math_expr("3*6"))
 
     def test_4(self):
-        self.assertEqual(get_days(date(2020, 5, 24), date(2020, 9, 25)), 124)
+        self.assertTrue(math_expr("4 - 5"))
 
     def test_5(self):
-        self.assertEqual(get_days(date(2020, 5, 24), date(2019, 5, 24)), -366)
+        self.assertTrue(math_expr("6 % 7"))
 
     def test_6(self):
-        self.assertEqual(get_days(date(2020, 4, 30), date(1963, 11, 23)), -20613)
+        self.assertFalse(math_expr("a - b"))
+
+    def test_7(self):
+        self.assertFalse(math_expr("a - 2"))
+
+    def test_8(self):
+        self.assertFalse(math_expr("nope"))
 
 
 if __name__ == "__main__":
@@ -61,4 +59,4 @@ if __name__ == "__main__":
 ```
 ## Credits
 
-Found on Edabit: [How Many Days Between Two Dates](https://edabit.com/challenge/YSikG4DEsnxahg2u4)
+Found on Edabit: [Check if a String is a Mathematical Expression](https://edabit.com/challenge/hgjdb2nm4ZwuCjtHE)
