@@ -1,6 +1,6 @@
 # Challenge 337 - Sort the Dates
 
-In this challenge, create a functino to sort a list containing a series of dates given as strings. Each date is given in the format `DD-MM-YYYY_HH:MM`:
+In this challenge, create a function to sort a list containing a series of dates given as strings. Each date is given in the format `DD-MM-YYYY_HH:MM`:
 ```
 "12-02-2012_13:44"
 ```
