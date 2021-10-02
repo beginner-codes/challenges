@@ -29,7 +29,7 @@ We're a community of coders who believe the best way to grow is to help others l
 import unittest
 
 
-def reversed_binary_integer(integer: int) -> int
+def reversed_binary_integer(integer: int) -> int:
     return 0  # Put your code here!!!
 
 
