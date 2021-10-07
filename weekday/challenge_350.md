@@ -6,7 +6,7 @@ Create a function that capitalizes the last letter of every word.
 ```python
 cap_last("hello") ➞ "hellO"
 
-cap_last("My Name Is Edabit") ➞ "MY NamE IS EdabiT"
+cap_last("My Name Is Beginner Codes") ➞ "MY NamE IS BeginneR CodeS"
 
 cap_last("HELp THe LASt LETTERs CAPITALISe") ➞ "HELP THE LAST LETTERS CAPITALISE"
 ```
@@ -32,7 +32,7 @@ class Tests(unittest.TestCase):
         self.assertEqual(cap_last("hello"), "hellO")
 
     def test_2(self):
-        self.assertEqual(cap_last("My Name Is Edabit"), "MY NamE IS EdabiT")
+        self.assertEqual(cap_last("My Name Is Beginner Codes"), "MY NamE IS BeginneR CodeS")
 
     def test_3(self):
         self.assertEqual(
