@@ -29,69 +29,37 @@ from __future__ import annotations
 import unittest
 
 
-def split_bunches(bunches: list[dict[str, str | int]]) -> list[dict[str, str | int]]:
+def divisible_by_left(number: int) -> list[bool]:
     return []  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
-        self.assertListEqual(
-            split_bunches([{"name": "bananas", "quantity": 1}]),
-            [{"name": "bananas", "quantity": 1}],
-        )
+        self.assertListEqual(divisible_by_left(1), [False])
 
     def test_2(self):
-        self.assertListEqual(
-            split_bunches(
-                [{"name": "bananas", "quantity": 2}, {"name": "grapes", "quantity": 2}]
-            ),
-            [
-                {"name": "bananas", "quantity": 1},
-                {"name": "bananas", "quantity": 1},
-                {"name": "grapes", "quantity": 1},
-                {"name": "grapes", "quantity": 1},
-            ],
-        )
+        self.assertListEqual(divisible_by_left(1248), [False, True, True, True])
 
     def test_3(self):
-        self.assertListEqual(
-            split_bunches(
-                [
-                    {"name": "cherry tomatoes", "quantity": 3},
-                    {"name": "bananas", "quantity": 1},
-                    {"name": "grapes", "quantity": 2},
-                    {"name": "cherry tomatoes", "quantity": 3},
-                ]
-            ),
-            [
-                {"name": "cherry tomatoes", "quantity": 1},
-                {"name": "cherry tomatoes", "quantity": 1},
-                {"name": "cherry tomatoes", "quantity": 1},
-                {"name": "bananas", "quantity": 1},
-                {"name": "grapes", "quantity": 1},
-                {"name": "grapes", "quantity": 1},
-                {"name": "cherry tomatoes", "quantity": 1},
-                {"name": "cherry tomatoes", "quantity": 1},
-                {"name": "cherry tomatoes", "quantity": 1},
-            ],
-        )
+        self.assertListEqual(divisible_by_left(4321), [False, False, False, False])
 
     def test_4(self):
         self.assertListEqual(
-            split_bunches(
-                [
-                    {"name": "currants", "quantity": 1},
-                    {"name": "grapes", "quantity": 2},
-                    {"name": "bananas", "quantity": 2},
-                ]
-            ),
-            [
-                {"name": "currants", "quantity": 1},
-                {"name": "grapes", "quantity": 1},
-                {"name": "grapes", "quantity": 1},
-                {"name": "bananas", "quantity": 1},
-                {"name": "bananas", "quantity": 1},
-            ],
+            divisible_by_left(73312), [False, False, True, False, True]
+        )
+
+    def test_5(self):
+        self.assertListEqual(divisible_by_left(2026), [False, True, False, True])
+
+    def test_6(self):
+        self.assertListEqual(divisible_by_left(635), [False, False, False])
+
+    def test_7(self):
+        self.assertListEqual(divisible_by_left(1337), [False, True, True, False])
+
+    def test_8(self):
+        self.assertListEqual(
+            divisible_by_left(135028), [False, True, False, True, False, True]
         )
 
 
