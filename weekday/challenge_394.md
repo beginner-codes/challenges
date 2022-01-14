@@ -29,8 +29,8 @@ from __future__ import annotations
 import unittest
 
 
-def reverse_complement(numbers: list[int]) -> int:
-    return 0  # Put your code here!!!
+def reverse_complement(rna: str) -> str:
+    return ""  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
