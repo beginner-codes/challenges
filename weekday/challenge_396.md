@@ -3,13 +3,13 @@
 Write a function that returns the first `n` vowels of a string.
 
 ## Examples
-
+```python
 first_n_vowels("sharpening skills", 3) ➞ "aei"
 
 first_n_vowels("major league", 5) ➞ "aoeau"
 
 first_n_vowels("hostess", 5) ➞ "invalid"
-
+```
 ## Notes
 
 - Return `"invalid"` if the `n` exceeds the number of vowels in a string.
