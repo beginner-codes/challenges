@@ -38,95 +38,60 @@ from __future__ import annotations
 import unittest
 
 
-def tallest_building_height(skyline: list[str]) -> str:
-    return ""  # Put your code here!!!
+def golf_score(par: list[int], result: list[str]) -> int:
+    return 0  # Put your code here!!!
 
 
 class Tests(unittest.TestCase):
     def test_1(self):
         self.assertEqual(
-            tallest_building_height(
-                [
-                    "         ",
-                    " ##      ",
-                    " ##      ",
-                    "###   ## ",
-                    "###   ## ",
-                    "###   ###",
-                    "###   ###",
-                ]
+            golf_score(
+                [4, 4, 4, 4, 5, 3, 3, 4, 3, 5, 4, 4, 3, 4, 5, 4, 4, 5],
+                ["double-bogey", "par", "par", "double-bogey", "eagle", "par", "bogey", "birdie", "birdie", "bogey", "par", "birdie", "par", "par", "par", "par", "bogey", "par"],
             ),
-            "120m",
+            74,
         )
 
     def test_2(self):
         self.assertEqual(
-            tallest_building_height(
-                [
-                    "            ## ",
-                    "            ## ",
-                    "            ## ",
-                    "###   ###   ## ",
-                    "###   ###   ###",
-                    "###   ###   ###",
-                    "###   ###   ###",
-                ]
+            golf_score(
+                [5, 4, 4, 4, 4, 4, 5, 4, 3, 3, 4, 5, 3, 4, 4, 3, 5, 4],
+                ["par", "bogey", "birdie", "bogey", "par", "birdie", "par", "bogey", "eagle", "par", "par", "birdie", "par", "eagle", "double-bogey", "birdie", "par", "birdie"],
             ),
-            "140m",
+            68,
         )
 
     def test_3(self):
         self.assertEqual(
-            tallest_building_height(
-                [
-                    "               ",
-                    "               ",
-                    "               ",
-                    "       #    ###",
-                    "      # #   ###",
-                    "###   ###   ###",
-                    "###   ###   ###",
-                ]
+            golf_score(
+                [4, 3, 4, 4, 5, 4, 5, 4, 4, 4, 3, 5, 4, 4, 3, 4, 3, 5],
+                ["bogey", "par", "birdie", "par", "par", "birdie", "bogey", "par", "par", "double-bogey", "par", "double-bogey", "par", "eagle", "par", "par", "par", "par"],
             ),
-            "80m",
+            74,
         )
 
     def test_4(self):
         self.assertEqual(
-            tallest_building_height(
-                [
-                    "               ",
-                    "               ",
-                    "               ",
-                    "               ",
-                    "               ",
-                    "###   ###   ###",
-                    "###   ###   ###",
-                ]
+            golf_score(
+                [4, 5, 4, 4, 4, 5, 5, 3, 4, 5, 4, 3, 4, 3, 3, 4, 4, 4],
+                ["par", "par", "eagle", "bogey", "birdie", "par", "par", "par", "birdie", "eagle", "bogey", "bogey", "par", "par", "par", "par", "birdie", "bogey"],
             ),
-            "40m",
+            69,
         )
 
     def test_5(self):
         self.assertEqual(
-            tallest_building_height(
-                [
-                    "                   ",
-                    " #                 ",
-                    " #     #           ",
-                    "###    #    ###    ",
-                    "###   # #   ###   #",
-                    "###   ###   ###   #",
-                    "###   ###   ###   #",
-                ]
+            golf_score(
+                [5, 5, 3, 5, 4, 4, 3, 4, 4, 4, 3, 3, 4, 4, 4, 5, 4, 4],
+                ["birdie", "par", "par", "par", "bogey", "bogey", "bogey", "double-bogey", "par", "par", "par", "par", "eagle", "par", "double-bogey", "par", "birdie", "par"],
             ),
-            "120m",
+            75,
         )
-
 
 if __name__ == "__main__":
     unittest.main()
+
 ```
 ## Credits
 
-Found on Edabit: [Height of the Tallest Building](https://edabit.com/challenge/LuBtaT9dwStbd7mnK)
+Found on Edabit: [What's My Golf Score?](https://edabit.com/challenge/wZzZ9NtugwsnQEQeM)
