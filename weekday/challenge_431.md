@@ -34,41 +34,81 @@ We're a community of coders who believe the best way to grow is to help others l
 ## Challenge Tests
 ```python
 from __future__ import annotations
+from abc import ABC, abstractmethod
 import unittest
 
 
-def pirates_killed(gold: list[int], thresholds: list[int]) -> bool:
-    return False  # Put your code here!!!
+class AbstractPerson(ABC):
+    @abstractmethod
+    def __init__(self, name: str, likes: list[str], dislikes: list[str]):
+        ...
+
+    @abstractmethod
+    def taste(self, food: str) -> str:
+        ...
+
+
+class Person(AbstractPerson):
+    """Put your code here!!!"""
 
 
 class Tests(unittest.TestCase):
+    def setUp(self):
+        self.p1 = Person(
+            "Sam",
+            ["ice cream", "pie", "apples"],
+            ["carrots", "bananas", "cheese", "lettuce"],
+        )
+        self.p2 = Person(
+            "Mitchell",
+            [],
+            [
+                "brocolli",
+                "lettuce",
+                "cheese",
+                "pie",
+                "apples",
+                "bananas",
+                "ice cream",
+                "carrots",
+            ],
+        )
+
     def test_1(self):
-        self.assertFalse(pirates_killed([3, 5, 8, 3, 4], [10, 4, 2, 5, 5]))
+        self.assertEqual(
+            self.p1.taste("ice cream"), "Sam eats the ice cream and loves it!"
+        )
 
     def test_2(self):
-        self.assertTrue(pirates_killed([3, 5, 8, 3, 4], [10, 4, 2, 5, 1]))
+        self.assertEqual(self.p1.taste("carrots"), "Sam eats the carrots and hates it!")
 
     def test_3(self):
-        self.assertFalse(pirates_killed([3, 3, 10], [7, 7, 0]))
+        self.assertEqual(self.p1.taste("brocolli"), "Sam eats the brocolli!")
 
     def test_4(self):
-        self.assertTrue(pirates_killed([3, 3, 10], [6, 6, 0]))
+        self.assertEqual(self.p1.taste("lettuce"), "Sam eats the lettuce and hates it!")
 
     def test_5(self):
-        self.assertFalse(pirates_killed([3, 3, 3], [0, 0, 0]))
+        self.assertEqual(self.p1.taste("cheese"), "Sam eats the cheese and hates it!")
 
     def test_6(self):
-        self.assertTrue(pirates_killed([3, 3, 4, 4], [0, 0, 1, 1]))
+        self.assertEqual(self.p1.taste("pie"), "Sam eats the pie and loves it!")
 
     def test_7(self):
-        self.assertFalse(pirates_killed([3, 3, 4, 4], [1, 1, 0, 0]))
+        self.assertEqual(self.p1.taste("apples"), "Sam eats the apples and loves it!")
 
     def test_8(self):
-        self.assertTrue(pirates_killed([3, 3, 4, 4], [0, 0, 0, 1]))
+        self.assertEqual(self.p1.taste("bananas"), "Sam eats the bananas and hates it!")
 
     def test_9(self):
-        self.assertTrue(pirates_killed([3, 3, 4, 4, 5], [0, 0, 0, 1, 1]))
+        self.assertEqual(
+            self.p2.taste("ice cream"), "Mitchell eats the ice cream and hates it!"
+        )
 
+    def test_10(self):
+        self.assertEqual(
+            self.p2.taste("carrots"), "Mitchell eats the carrots and hates it!"
+        )
 
 if __name__ == "__main__":
     unittest.main()
