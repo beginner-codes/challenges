@@ -60,4 +60,4 @@ if __name__ == "__main__":
 ```
 ## Credits
 
-Found on Edabit: [A Subtle Switcheroo](https://edabit.com/challenge/o7u9hqTW5AY3SoZgT)
+Found on Edabit: [Merge Lists in Order](https://edabit.com/challenge/zxAXEgpjQ3XrLs2K7)
