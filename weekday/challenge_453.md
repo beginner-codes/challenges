@@ -15,7 +15,7 @@ Given a stamina number and a list of obstacles write a function that returns how
 climb(5, [5, 4.2, 3, 3.5, 6, 4, 6, 8, 1]) ➞ 3
 ```
 - Starting with 5 stamina.
-- Climing down from 5m to 4.2m ➞ 0.8m so we lose 1 stamina (so stamina =4) and we pass 1 obstacle.
+- Climbing down from 5m to 4.2m ➞ 0.8m so we lose 1 stamina (so stamina =4) and we pass 1 obstacle.
 - From 4.2m to 3m we climb down 1.2m so we lose 2 stamina (so stamina = 2) and we pass 2 obstacles in total.
 - From 3m to 3.5m we climb up 0.5m so we lose 2 stamina (stamina=0 - exhaustion!) and we pass 3 obstacles in total.
 - We can't go further because we don't have stamina to do so.
