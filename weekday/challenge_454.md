@@ -46,86 +46,55 @@ Here are a series of tests in JSON format that you can use to test your code. Ea
 [
     {
         "args": [
-            5,
             [
-                5,
-                4.2,
-                3,
-                3.5,
-                6,
-                4,
-                6,
-                8,
-                1
+                "#    #    #    #",
+                "#    #    #    #",
+                "#    #    #    #",
+                "#    #    #    #"
             ]
         ],
-        "return": 3
+        "return": true
     },
     {
         "args": [
-            10,
             [
-                5,
-                4.2,
-                3,
-                3.5,
-                6,
-                4,
-                6,
-                8,
-                1
+                "#  #  #  #",
+                "#  #  #  #",
+                "#  #  #  #"
             ]
         ],
-        "return": 3
+        "return": true
     },
     {
         "args": [
-            20,
             [
-                5,
-                4.2,
-                3,
-                3.5,
-                6,
-                4,
-                6,
-                8,
-                1
+                "#    #    #    #",
+                "#    #    #    #",
+                "#    #    #    #"
             ]
         ],
-        "return": 6
+        "return": false
     },
     {
         "args": [
-            100,
             [
-                5,
-                4.2,
-                3,
-                3.5,
-                6,
-                4,
-                6,
-                8,
-                1
+                "#    #    #    #",
+                "#    #    #    #"
             ]
         ],
-        "return": 8
+        "return": false
     },
     {
         "args": [
-            5,
             [
-                0,
-                1,
-                2.5,
-                0.8
+                "#      #      #      #",
+                "#      #      #      #"
             ]
         ],
-        "return": 1
+        "return": false
     }
 ]
 ```
 ## Credits
 
-Found on Edabit: [Climbing Competition](https://edabit.com/challenge/Q7oecYfjkq7tHwPoA)
+Found on Edabit: [Unfair Hurdles](https://edabit.com/challenge/dqJYvDRTyXzQPGimc)
