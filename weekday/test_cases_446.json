@@ -1,0 +1,58 @@
+[
+  {
+    "args": [
+      ["s", "t", "v"],
+      ["stamina", "television", "vindaloo"]
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      ["mo", "ma", "me"],
+      ["moment", "many", "mean"]
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      ["at", "o", "abe"],
+      ["atom", "original", "abet"]
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      ["rh", "par", "re"],
+      ["rhino", "parry", "residue"]
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      ["ho", "h", "ha"],
+      ["house", "hope", "happy"]
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      ["bi", "ba", "bat"],
+      ["big", "bard", "battery"]
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      ["b", "c", "ch"],
+      ["broth", "chap", "cardigan"]
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      ["to", "too", "t"],
+      ["topology", "took", "torrent"]
+    ],
+    "return": false
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 90
+        },
+        {
+          "name": "lime",
+          "price": 432
+        },
+        {
+          "name": "peach",
+          "price": 23
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "peach",
+        "price": 23
+      },
+      {
+        "name": "lemonade",
+        "price": 90
+      },
+      {
+        "name": "lime",
+        "price": 432
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 266
+        },
+        {
+          "name": "cola",
+          "price": 71
+        },
+        {
+          "name": "lime",
+          "price": 467
+        },
+        {
+          "name": "peach",
+          "price": 203
+        },
+        {
+          "name": "water",
+          "price": 216
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "cola",
+        "price": 71
+      },
+      {
+        "name": "peach",
+        "price": 203
+      },
+      {
+        "name": "water",
+        "price": 216
+      },
+      {
+        "name": "lemonade",
+        "price": 266
+      },
+      {
+        "name": "lime",
+        "price": 467
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 467
+        },
+        {
+          "name": "cola",
+          "price": 486
+        },
+        {
+          "name": "lime",
+          "price": 469
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "lemonade",
+        "price": 467
+      },
+      {
+        "name": "lime",
+        "price": 469
+      },
+      {
+        "name": "cola",
+        "price": 486
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 373
+        },
+        {
+          "name": "cola",
+          "price": 459
+        },
+        {
+          "name": "lime",
+          "price": 461
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "lemonade",
+        "price": 373
+      },
+      {
+        "name": "cola",
+        "price": 459
+      },
+      {
+        "name": "lime",
+        "price": 461
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 16
+        },
+        {
+          "name": "cola",
+          "price": 284
+        },
+        {
+          "name": "lime",
+          "price": 233
+        },
+        {
+          "name": "peach",
+          "price": 87
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "lemonade",
+        "price": 16
+      },
+      {
+        "name": "peach",
+        "price": 87
+      },
+      {
+        "name": "lime",
+        "price": 233
+      },
+      {
+        "name": "cola",
+        "price": 284
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 213
+        },
+        {
+          "name": "cola",
+          "price": 42
+        },
+        {
+          "name": "lime",
+          "price": 478
+        },
+        {
+          "name": "peach",
+          "price": 450
+        },
+        {
+          "name": "water",
+          "price": 256
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "cola",
+        "price": 42
+      },
+      {
+        "name": "lemonade",
+        "price": 213
+      },
+      {
+        "name": "water",
+        "price": 256
+      },
+      {
+        "name": "peach",
+        "price": 450
+      },
+      {
+        "name": "lime",
+        "price": 478
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 115
+        },
+        {
+          "name": "cola",
+          "price": 164
+        },
+        {
+          "name": "lime",
+          "price": 88
+        },
+        {
+          "name": "peach",
+          "price": 57
+        },
+        {
+          "name": "water",
+          "price": 407
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "peach",
+        "price": 57
+      },
+      {
+        "name": "lime",
+        "price": 88
+      },
+      {
+        "name": "lemonade",
+        "price": 115
+      },
+      {
+        "name": "cola",
+        "price": 164
+      },
+      {
+        "name": "water",
+        "price": 407
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 382
+        },
+        {
+          "name": "cola",
+          "price": 363
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "cola",
+        "price": 363
+      },
+      {
+        "name": "lemonade",
+        "price": 382
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 13
+        },
+        {
+          "name": "cola",
+          "price": 184
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "lemonade",
+        "price": 13
+      },
+      {
+        "name": "cola",
+        "price": 184
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 147
+        },
+        {
+          "name": "cola",
+          "price": 289
+        },
+        {
+          "name": "lime",
+          "price": 42
+        },
+        {
+          "name": "peach",
+          "price": 486
+        },
+        {
+          "name": "water",
+          "price": 87
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "lime",
+        "price": 42
+      },
+      {
+        "name": "water",
+        "price": 87
+      },
+      {
+        "name": "lemonade",
+        "price": 147
+      },
+      {
+        "name": "cola",
+        "price": 289
+      },
+      {
+        "name": "peach",
+        "price": 486
+      }
+    ]
+  },
+  {
+    "args": [
+      [
+        {
+          "name": "lemonade",
+          "price": 422
+        },
+        {
+          "name": "cola",
+          "price": 43
+        }
+      ]
+    ],
+    "return": [
+      {
+        "name": "cola",
+        "price": 43
+      },
+      {
+        "name": "lemonade",
+        "price": 422
+      }
+    ]
+  }
+]

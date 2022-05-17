@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "legolas"
+        ],
+        "return": "l"
+    },
+    {
+        "args": [
+            "Balrog"
+        ],
+        "return": "-1"
+    },
+    {
+        "args": [
+            "Isildur"
+        ],
+        "return": "-1"
+    },
+    {
+        "args": [
+            "Gollum"
+        ],
+        "return": "l"
+    },
+    {
+        "args": [
+            "Galadriel"
+        ],
+        "return": "a"
+    },
+    {
+        "args": [
+            "pippin"
+        ],
+        "return": "p"
+    },
+    {
+        "args": [
+            "Saruman"
+        ],
+        "return": "a"
+    }
+]

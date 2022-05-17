@@ -1,0 +1,62 @@
+[
+  {
+    "args": [
+      "9"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "0"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "6090609"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "9669"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "69069069"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "60906096090609"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "966909669"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "6000000009"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "6666660999999"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "96666660999999"
+    ],
+    "return": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+    {"args": [3, "x", 7], "return": 21},
+    {"args": [5, "+", 7], "return": 12},
+    {"args": [10, "-", 9], "return": 1},
+    {"args": [10, "/", 0], "return": null},
+    {"args": [10, "/", 3], "return": 3.33},
+    {"args": [2, "x", 0], "return": 0},
+    {"args": [0, "/", 5], "return": 0},
+    {"args": [0, "+", 0], "return": 0},
+    {"args": [0, "-", 0], "return": 0},
+    {"args": [8, "-", 0], "return": 8},
+    {"args": [0, "/", 0], "return": null},
+    {"args": [3, "/", 8], "return": 0.38}
+]
