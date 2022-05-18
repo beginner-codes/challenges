@@ -1,0 +1,74 @@
+[
+    {
+        "args": [
+            "HSSN"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "ON"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "OS IS UPDATED"
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            "WHO IS WHO"
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            "JS"
+        ],
+        "return": 0
+    },
+    {
+        "args": [
+            "I III I III"
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            "SOS IN THE SEA"
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            "WHO IS rotated_words AND WHO IS NO"
+        ],
+        "return": 3
+    },
+    {
+        "args": [
+            "SIN AND COS"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "I HAVE A GOOD JOB"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "HAVE A GOOD DAY"
+        ],
+        "return": 0
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": 0
+    }
+]
