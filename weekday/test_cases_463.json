@@ -1,0 +1,74 @@
+[
+    {
+        "args": [
+            "dLROW YM sI HsEt"
+        ],
+        "return": "TeSh iS my worlD"
+    },
+    {
+        "args": [
+            "This string is CASE and INDEX reversed"
+        ],
+        "return": "DESREVER xedni DNA esac SI GNIRTS SIHt"
+    },
+    {
+        "args": [
+            "ReVeRsIbLe"
+        ],
+        "return": "ElBiSrEvEr"
+    },
+    {
+        "args": [
+            "rAmIfIcAtIoN"
+        ],
+        "return": "nOiTaCiFiMaR"
+    },
+    {
+        "args": [
+            "IntellectualS"
+        ],
+        "return": "sLAUTCELLETNi"
+    },
+    {
+        "args": [
+            "DESREVER xedni DNA esac SI GNIRTS SIHt"
+        ],
+        "return": "This string is CASE and INDEX reversed"
+    },
+    {
+        "args": [
+            "ElBiSrEvEr"
+        ],
+        "return": "ReVeRsIbLe"
+    },
+    {
+        "args": [
+            "nOiTaCiFiMaR"
+        ],
+        "return": "rAmIfIcAtIoN"
+    },
+    {
+        "args": [
+            "sLAUTCELLETNi"
+        ],
+        "return": "IntellectualS"
+    },
+    {
+        "args": [
+            "CoNSaGuiNiTY"
+        ],
+        "return": "ytInIUgAsnOc"
+    },
+    {
+        "args": [
+            "step on NO PETS"
+        ],
+        "return": "step on NO PETS"
+    },
+    {
+        "args": [
+            "dExtErIty cOmplEx"
+        ],
+        "return": "XeLPMoC YTiReTXeD"
+    }
+]
