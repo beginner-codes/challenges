@@ -1,74 +1,128 @@
 [
     {
         "args": [
-            "dLROW YM sI HsEt"
+            [
+                ":)",
+                ";(",
+                ";}",
+                ":-D"
+            ]
         ],
-        "return": "TeSh iS my worlD"
+        "return": 2
     },
     {
         "args": [
-            "This string is CASE and INDEX reversed"
+            [
+                ";D",
+                ":-(",
+                ":-)",
+                ";~)"
+            ]
         ],
-        "return": "DESREVER xedni DNA esac SI GNIRTS SIHt"
+        "return": 3
     },
     {
         "args": [
-            "ReVeRsIbLe"
+            [
+                ";]",
+                ":[",
+                ";*",
+                ":$",
+                ";-D"
+            ]
         ],
-        "return": "ElBiSrEvEr"
+        "return": 1
     },
     {
         "args": [
-            "rAmIfIcAtIoN"
+            [
+                ";(",
+                ":>",
+                ":}",
+                ":]"
+            ]
         ],
-        "return": "nOiTaCiFiMaR"
+        "return": 0
     },
     {
         "args": [
-            "IntellectualS"
+            [
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)",
+                ":)"
+            ]
         ],
-        "return": "sLAUTCELLETNi"
+        "return": 13
     },
     {
         "args": [
-            "DESREVER xedni DNA esac SI GNIRTS SIHt"
+            [
+                ":)",
+                ":(",
+                ":D",
+                ":O",
+                ":;"
+            ]
         ],
-        "return": "This string is CASE and INDEX reversed"
+        "return": 2
     },
     {
         "args": [
-            "ElBiSrEvEr"
+            [
+                ":-)",
+                ";~D",
+                ":-D",
+                ":_D"
+            ]
         ],
-        "return": "ReVeRsIbLe"
+        "return": 3
     },
     {
         "args": [
-            "nOiTaCiFiMaR"
+            [
+                ":---)",
+                "))",
+                ";~~D",
+                ";D"
+            ]
         ],
-        "return": "rAmIfIcAtIoN"
+        "return": 1
     },
     {
         "args": [
-            "sLAUTCELLETNi"
+            [
+                ";~)",
+                ":)",
+                ":-)",
+                ":--)"
+            ]
         ],
-        "return": "IntellectualS"
+        "return": 3
     },
     {
         "args": [
-            "CoNSaGuiNiTY"
+            [
+                ":o)",
+                ":--D",
+                ";-~)"
+            ]
         ],
-        "return": "ytInIUgAsnOc"
+        "return": 0
     },
     {
         "args": [
-            "step on NO PETS"
+            []
         ],
-        "return": "step on NO PETS"
-    },
-    {
-        "args": [
-            "dExtErIty cOmplEx"
-        ],
-        "return": "XeLPMoC YTiReTXeD"
+        "return": 0
     }
 ]
