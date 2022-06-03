@@ -42,8 +42,8 @@ If you're writing your solution in Python you can also use the `beginner.codes` 
 from beginnercodes.challenges import test
 
 
-def bill_split(food: list[str], prices: list[int]) -> tuple[int, int]:
-    return 0, 0  # Put your code here!!!
+def bill_split(food: list[str], prices: list[int]) -> list[int, int]:
+    return [0, 0]  # Put your code here!!!
 
 
 test(469, bill_split)  # Tell it which challenge to test against
