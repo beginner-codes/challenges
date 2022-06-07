@@ -1,0 +1,80 @@
+[
+    {
+        "args": [
+            243
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            12
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            3
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            5
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            4
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            3453
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            0
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            123456789
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            987654321
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            13
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            37
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            182
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            133331
+        ],
+        "return": false
+    }
+]
