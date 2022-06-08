@@ -1,0 +1,134 @@
+[
+    {
+        "args": [
+            "abcdefgpqrstuvwxyz"
+        ],
+        "return": "hijklmno"
+    },
+    {
+        "args": [
+            "zyxwvutsrq"
+        ],
+        "return": "abcdefghijklmnop"
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": "abcdefghijklmnopqrstuvwxyz"
+    },
+    {
+        "args": [
+            "abcdefghijklmnopqrstuvwxyz"
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            "qinjwm"
+        ],
+        "return": "abcdefghkloprstuvxyz"
+    },
+    {
+        "args": [
+            "luiqtkgwzheapr"
+        ],
+        "return": "bcdfjmnosvxy"
+    },
+    {
+        "args": [
+            "qankj"
+        ],
+        "return": "bcdefghilmoprstuvwxyz"
+    },
+    {
+        "args": [
+            "bawgeuskmfcrpodnxztviy"
+        ],
+        "return": "hjlq"
+    },
+    {
+        "args": [
+            "gdpna"
+        ],
+        "return": "bcefhijklmoqrstuvwxyz"
+    },
+    {
+        "args": [
+            "hbi"
+        ],
+        "return": "acdefgjklmnopqrstuvwxyz"
+    },
+    {
+        "args": [
+            "djxifockvwhaqbnmstzpylu"
+        ],
+        "return": "egr"
+    },
+    {
+        "args": [
+            "gastzwjcnvoprfmxd"
+        ],
+        "return": "behiklquy"
+    },
+    {
+        "args": [
+            "xuti"
+        ],
+        "return": "abcdefghjklmnopqrsvwyz"
+    },
+    {
+        "args": [
+            "abc"
+        ],
+        "return": "defghijklmnopqrstuvwxyz"
+    },
+    {
+        "args": [
+            "kchiatvmbqrdsyopwju"
+        ],
+        "return": "efglnxz"
+    },
+    {
+        "args": [
+            "xbkj"
+        ],
+        "return": "acdefghilmnopqrstuvwyz"
+    },
+    {
+        "args": [
+            "cbvkyroes"
+        ],
+        "return": "adfghijlmnpqtuwxz"
+    },
+    {
+        "args": [
+            "s"
+        ],
+        "return": "abcdefghijklmnopqrtuvwxyz"
+    },
+    {
+        "args": [
+            "idvgzujmswloefcthb"
+        ],
+        "return": "aknpqrxy"
+    },
+    {
+        "args": [
+            "fmoraygevhkxzutcjd"
+        ],
+        "return": "bilnpqsw"
+    },
+    {
+        "args": [
+            "vuynqpaf"
+        ],
+        "return": "bcdeghijklmorstwxz"
+    },
+    {
+        "args": [
+            "j"
+        ],
+        "return": "abcdefghiklmnopqrstuvwxyz"
+    }
+]
