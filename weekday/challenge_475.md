@@ -2,7 +2,7 @@
 
 Given an English description of an integer in the range `0` to `999`, devise a function that returns the integer in numeric form.
 
-# Examples
+## Examples
 ```python
 eng2nums("four") ➞  4
 
