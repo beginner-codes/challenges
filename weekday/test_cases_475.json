@@ -1,0 +1,86 @@
+[
+    {
+        "args": [
+            "one"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "ninety"
+        ],
+        "return": 90
+    },
+    {
+        "args": [
+            "one hundred ten"
+        ],
+        "return": 110
+    },
+    {
+        "args": [
+            "sixty two"
+        ],
+        "return": 62
+    },
+    {
+        "args": [
+            "four hundred thirty"
+        ],
+        "return": 430
+    },
+    {
+        "args": [
+            "zero"
+        ],
+        "return": 0
+    },
+    {
+        "args": [
+            "four hundred fifty six"
+        ],
+        "return": 456
+    },
+    {
+        "args": [
+            "six hundred nine"
+        ],
+        "return": 609
+    },
+    {
+        "args": [
+            "seven hundred"
+        ],
+        "return": 700
+    },
+    {
+        "args": [
+            "thirty seven"
+        ],
+        "return": 37
+    },
+    {
+        "args": [
+            "nine hundred ninety nine"
+        ],
+        "return": 999
+    },
+    {
+        "args": [
+            "three hundred twelve"
+        ],
+        "return": 312
+    },
+    {
+        "args": [
+            "eighteen"
+        ],
+        "return": 18
+    },
+    {
+        "args": [
+            "five hundred eleven"
+        ],
+        "return": 511
+    }
+]
