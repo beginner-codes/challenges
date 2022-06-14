@@ -1,0 +1,56 @@
+[
+    {
+        "args": [
+            "a1"
+        ],
+        "return": "black"
+    },
+    {
+        "args": [
+            "e5"
+        ],
+        "return": "black"
+    },
+    {
+        "args": [
+            "d1"
+        ],
+        "return": "white"
+    },
+    {
+        "args": [
+            "c7"
+        ],
+        "return": "black"
+    },
+    {
+        "args": [
+            "h5"
+        ],
+        "return": "white"
+    },
+    {
+        "args": [
+            "g2"
+        ],
+        "return": "white"
+    },
+    {
+        "args": [
+            "b3"
+        ],
+        "return": "white"
+    },
+    {
+        "args": [
+            "f6"
+        ],
+        "return": "black"
+    },
+    {
+        "args": [
+            "g5"
+        ],
+        "return": "black"
+    }
+]
