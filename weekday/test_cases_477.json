@@ -1,0 +1,94 @@
+[
+    {
+        "args": [
+            [
+                "az16",
+                "by35",
+                "cx24"
+            ],
+            1
+        ],
+        "return": [
+            "az16",
+            "by35",
+            "cx24"
+        ]
+    },
+    {
+        "args": [
+            [
+                "az16",
+                "by35",
+                "cx24"
+            ],
+            2
+        ],
+        "return": [
+            "cx24",
+            "by35",
+            "az16"
+        ]
+    },
+    {
+        "args": [
+            [
+                "az16",
+                "by35",
+                "cx24"
+            ],
+            3
+        ],
+        "return": [
+            "az16",
+            "cx24",
+            "by35"
+        ]
+    },
+    {
+        "args": [
+            [
+                "az16",
+                "by35",
+                "cx24"
+            ],
+            4
+        ],
+        "return": [
+            "cx24",
+            "by35",
+            "az16"
+        ]
+    },
+    {
+        "args": [
+            [
+                "apple",
+                "mayor",
+                "bendy",
+                "petal"
+            ],
+            5
+        ],
+        "return": [
+            "apple",
+            "petal",
+            "mayor",
+            "bendy"
+        ]
+    },
+    {
+        "args": [
+            [
+                "team",
+                "mate",
+                "bade"
+            ],
+            3
+        ],
+        "return": [
+            "team",
+            "bade",
+            "mate"
+        ]
+    }
+]
