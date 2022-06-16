@@ -1,0 +1,50 @@
+[
+    {
+        "args": [
+            "he headed to the store",
+            "h",
+            "e"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "i found an ounce with my hound",
+            "o",
+            "u"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "those were their thorns they said",
+            "t",
+            "h"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "we found your dynamite",
+            "d",
+            "y"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "look they took the cookies",
+            "o",
+            "o"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "go to edabit and meditate",
+            "e",
+            "d"
+        ],
+        "return": false
+    }
+]
