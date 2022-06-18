@@ -1,0 +1,79 @@
+[
+    {
+        "args": [
+            [
+                "AB",
+                "CA"
+            ]
+        ],
+        "return": "C"
+    },
+    {
+        "args": [
+            [
+                "AB",
+                "CA",
+                "AB"
+            ]
+        ],
+        "return": "C"
+    },
+    {
+        "args": [
+            [
+                "AC",
+                "CA",
+                "CA",
+                "AC"
+            ]
+        ],
+        "return": "B"
+    },
+    {
+        "args": [
+            [
+                "BA",
+                "AC",
+                "CA",
+                "BC"
+            ]
+        ],
+        "return": "A"
+    },
+    {
+        "args": [
+            [
+                "BC",
+                "CB",
+                "CA",
+                "BA"
+            ]
+        ],
+        "return": "A"
+    },
+    {
+        "args": [
+            [
+                "BC"
+            ]
+        ],
+        "return": "C"
+    },
+    {
+        "args": [
+            [
+                "BA",
+                "CA",
+                "CB",
+                "CA"
+            ]
+        ],
+        "return": "B"
+    },
+    {
+        "args": [
+            []
+        ],
+        "return": "B"
+    }
+]
