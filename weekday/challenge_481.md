@@ -98,11 +98,11 @@ And here's the JSON.
     {
         "args": [
             [
-                true,
-                false,
-                true,
-                false,
-                false
+                "true",
+                "false",
+                "true",
+                "false",
+                "false"
             ]
         ],
         "return": {
