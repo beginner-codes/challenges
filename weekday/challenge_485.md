@@ -2,7 +2,7 @@
 
 Write a function that receives a list of words and a mask. Return a list of words, sorted alphabetically, that match the given mask.
 
-The `*` is a wildcard and will match any character. Any other character in the mask must be an exact match.
+The `*` is a wildcard and will match any character. Any other character in the mask must be an exact match. If there are more characters in the string than in the mask, it is not a match.
 
 ## Examples
 ```python
