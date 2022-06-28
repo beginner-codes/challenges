@@ -1,0 +1,113 @@
+[
+    {
+        "args": [
+            [
+                "John",
+                "Taylor",
+                "John"
+            ]
+        ],
+        "return": [
+            "John",
+            "Taylor"
+        ]
+    },
+    {
+        "args": [
+            [
+                "John",
+                "Taylor",
+                "John",
+                "john"
+            ]
+        ],
+        "return": [
+            "John",
+            "Taylor",
+            "john"
+        ]
+    },
+    {
+        "args": [
+            [
+                "javascript",
+                "python",
+                "python",
+                "ruby",
+                "javascript",
+                "c",
+                "ruby"
+            ]
+        ],
+        "return": [
+            "javascript",
+            "python",
+            "ruby",
+            "c"
+        ]
+    },
+    {
+        "args": [
+            [
+                1,
+                2,
+                2,
+                2,
+                3,
+                2,
+                5,
+                2,
+                6,
+                6,
+                3,
+                7,
+                1,
+                2,
+                5
+            ]
+        ],
+        "return": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "args": [
+            [
+                "#",
+                "#",
+                "%",
+                "&",
+                "#",
+                "$",
+                "&"
+            ]
+        ],
+        "return": [
+            "#",
+            "%",
+            "&",
+            "$"
+        ]
+    },
+    {
+        "args": [
+            [
+                3,
+                "Apple",
+                3,
+                "Orange",
+                "Apple"
+            ]
+        ],
+        "return": [
+            3,
+            "Apple",
+            "Orange"
+        ]
+    }
+]
