@@ -28,7 +28,7 @@ def filter_words(words: list[str], mask: str) -> list[str]:
     return []  # Put your code here!!!
 
 
-test(485, filter_words())  # Tell it which challenge to test against
+test(485, filter_words)  # Tell it which challenge to test against
 ```
 And here's the JSON.
 ```json
