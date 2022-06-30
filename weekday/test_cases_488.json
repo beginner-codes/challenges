@@ -1,0 +1,121 @@
+[
+    {
+        "args": [
+            [
+                "at",
+                "be",
+                "th",
+                "au"
+            ],
+            [
+                "beautiful",
+                "the",
+                "hat"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "bo",
+                "ta",
+                "el",
+                "st",
+                "ca"
+            ],
+            [
+                "books",
+                "table",
+                "cap",
+                "hostel"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "la",
+                "te"
+            ],
+            [
+                "latte"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "th",
+                "fo",
+                "ma",
+                "or"
+            ],
+            [
+                "the",
+                "many",
+                "for",
+                "forest"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "ay",
+                "be",
+                "ta",
+                "cu"
+            ],
+            [
+                "maybe",
+                "beta",
+                "abet",
+                "course"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "oo",
+                "mi",
+                "ki",
+                "la"
+            ],
+            [
+                "milk",
+                "chocolate",
+                "cooks"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "la"
+            ],
+            []
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "la",
+                "at",
+                "te",
+                "ea"
+            ],
+            [
+                "latte"
+            ]
+        ],
+        "return": false
+    }
+]
