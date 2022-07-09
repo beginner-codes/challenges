@@ -1,0 +1,206 @@
+[
+    {
+        "args": [
+            [
+                "10h",
+                "Jh",
+                "Qh",
+                "Ah",
+                "Kh"
+            ]
+        ],
+        "return": "Royal Flush"
+    },
+    {
+        "args": [
+            [
+                "3h",
+                "5h",
+                "Qs",
+                "9h",
+                "Ad"
+            ]
+        ],
+        "return": "High Card"
+    },
+    {
+        "args": [
+            [
+                "10s",
+                "10c",
+                "8d",
+                "10d",
+                "10h"
+            ]
+        ],
+        "return": "Four of a Kind"
+    },
+    {
+        "args": [
+            [
+                "4h",
+                "9s",
+                "2s",
+                "2d",
+                "Ad"
+            ]
+        ],
+        "return": "Pair"
+    },
+    {
+        "args": [
+            [
+                "10s",
+                "9s",
+                "8s",
+                "6s",
+                "7s"
+            ]
+        ],
+        "return": "Straight Flush"
+    },
+    {
+        "args": [
+            [
+                "10c",
+                "9c",
+                "9s",
+                "10s",
+                "9h"
+            ]
+        ],
+        "return": "Full House"
+    },
+    {
+        "args": [
+            [
+                "8h",
+                "2h",
+                "8s",
+                "3s",
+                "3c"
+            ]
+        ],
+        "return": "Two Pair"
+    },
+    {
+        "args": [
+            [
+                "Jh",
+                "9h",
+                "7h",
+                "5h",
+                "2h"
+            ]
+        ],
+        "return": "Flush"
+    },
+    {
+        "args": [
+            [
+                "Ac",
+                "Qc",
+                "As",
+                "Ah",
+                "2d"
+            ]
+        ],
+        "return": "Three of a Kind"
+    },
+    {
+        "args": [
+            [
+                "Ad",
+                "Kd",
+                "Qd",
+                "Jd",
+                "9d"
+            ]
+        ],
+        "return": "Flush"
+    },
+    {
+        "args": [
+            [
+                "10h",
+                "Jh",
+                "Qs",
+                "Ks",
+                "Ac"
+            ]
+        ],
+        "return": "Straight"
+    },
+    {
+        "args": [
+            [
+                "3h",
+                "8h",
+                "2s",
+                "3s",
+                "3d"
+            ]
+        ],
+        "return": "Three of a Kind"
+    },
+    {
+        "args": [
+            [
+                "4h",
+                "Ac",
+                "4s",
+                "4d",
+                "4c"
+            ]
+        ],
+        "return": "Four of a Kind"
+    },
+    {
+        "args": [
+            [
+                "3h",
+                "8h",
+                "2s",
+                "3s",
+                "2d"
+            ]
+        ],
+        "return": "Two Pair"
+    },
+    {
+        "args": [
+            [
+                "8h",
+                "8s",
+                "As",
+                "Qh",
+                "Kh"
+            ]
+        ],
+        "return": "Pair"
+    },
+    {
+        "args": [
+            [
+                "Js",
+                "Qs",
+                "10s",
+                "Ks",
+                "As"
+            ]
+        ],
+        "return": "Royal Flush"
+    },
+    {
+        "args": [
+            [
+                "Ah",
+                "3s",
+                "4d",
+                "Js",
+                "Qd"
+            ]
+        ],
+        "return": "High Card"
+    }
+]
