@@ -1,0 +1,122 @@
+[
+    {
+        "args": [
+            44547
+        ],
+        "return": "equal"
+    },
+    {
+        "args": [
+            412420
+        ],
+        "return": "even"
+    },
+    {
+        "args": [
+            128797
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            838768
+        ],
+        "return": "even"
+    },
+    {
+        "args": [
+            371910
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            769431
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            221294
+        ],
+        "return": "equal"
+    },
+    {
+        "args": [
+            859307
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            847617
+        ],
+        "return": "even"
+    },
+    {
+        "args": [
+            348466
+        ],
+        "return": "even"
+    },
+    {
+        "args": [
+            50236
+        ],
+        "return": "equal"
+    },
+    {
+        "args": [
+            133987
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            698570
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            822406
+        ],
+        "return": "even"
+    },
+    {
+        "args": [
+            54313
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            17788
+        ],
+        "return": "even"
+    },
+    {
+        "args": [
+            72083
+        ],
+        "return": "equal"
+    },
+    {
+        "args": [
+            649924
+        ],
+        "return": "odd"
+    },
+    {
+        "args": [
+            968740
+        ],
+        "return": "even"
+    },
+    {
+        "args": [
+            942674
+        ],
+        "return": "equal"
+    }
+]
