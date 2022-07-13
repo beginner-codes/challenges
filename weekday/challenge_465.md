@@ -16,7 +16,7 @@ deepest([1, 4, [1, 4, [1, 4, [1, 4, [5]]]]]) ➞ 5
 ```
 ## Join Us & Share Your Solution
 
-We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!]("https"://discord.gg/sfHykntuGy)**
+We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!](https://discord.gg/sfHykntuGy)**
 
 ## Challenge Tests
 
