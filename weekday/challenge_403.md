@@ -30,7 +30,7 @@ score = 2+5+5+4+6+3+4+5+4+3+5+4+4+4+5+1+5+4 = 73
 
 ## Join Us & Share Your Solution
 
-We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!]("https"://discord.gg/sfHykntuGy)**
+We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!](https://discord.gg/sfHykntuGy)**
 
 ## Challenge Tests
 ```python

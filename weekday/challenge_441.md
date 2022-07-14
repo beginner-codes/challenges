@@ -17,7 +17,7 @@ merge_and_sort([120, 180, 200], [190, 175, 130]) ➞ [120, 130, 175, 180, 190, 2
 
 ## Join Us & Share Your Solution
 
-We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!]("https"://discord.gg/sfHykntuGy)**
+We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!](https://discord.gg/sfHykntuGy)**
 
 ## Challenge Tests
 ```python

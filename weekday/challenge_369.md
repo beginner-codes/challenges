@@ -16,7 +16,7 @@ duplicate_nums([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]) ➞ None
 
 ## Join Us & Share Your Solution
 
-We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!]("https"://discord.gg/sfHykntuGy)**
+We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!](https://discord.gg/sfHykntuGy)**
 
 ## Challenge Tests
 ```python
