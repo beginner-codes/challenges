@@ -1,0 +1,141 @@
+[
+    {
+        "args": [
+            "slap"
+        ],
+        "return": [
+            "lap",
+            "sla"
+        ]
+    },
+    {
+        "args": [
+            "click"
+        ],
+        "return": [
+            "cli",
+            "ick",
+            "lic"
+        ]
+    },
+    {
+        "args": [
+            "cat"
+        ],
+        "return": [
+            "cat"
+        ]
+    },
+    {
+        "args": [
+            "hi"
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            "e"
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            "programming"
+        ],
+        "return": [
+            "amm",
+            "gra",
+            "ing",
+            "min",
+            "mmi",
+            "ogr",
+            "pro",
+            "ram",
+            "rog"
+        ]
+    },
+    {
+        "args": [
+            "antidisestablishmentarianism"
+        ],
+        "return": [
+            "abl",
+            "ani",
+            "ant",
+            "ari",
+            "bli",
+            "dis",
+            "ent",
+            "est",
+            "hme",
+            "ian",
+            "idi",
+            "ise",
+            "ish",
+            "ism",
+            "lis",
+            "men",
+            "nis",
+            "nta",
+            "nti",
+            "ria",
+            "ses",
+            "shm",
+            "sta",
+            "tab",
+            "tar",
+            "tid"
+        ]
+    },
+    {
+        "args": [
+            "zoology"
+        ],
+        "return": [
+            "log",
+            "ogy",
+            "olo",
+            "ool",
+            "zoo"
+        ]
+    },
+    {
+        "args": [
+            "assassination"
+        ],
+        "return": [
+            "ass",
+            "ass",
+            "ati",
+            "ina",
+            "ion",
+            "nat",
+            "sas",
+            "sin",
+            "ssa",
+            "ssi",
+            "tio"
+        ]
+    },
+    {
+        "args": [
+            "bookkeeper"
+        ],
+        "return": [
+            "boo",
+            "eep",
+            "epe",
+            "kee",
+            "kke",
+            "okk",
+            "ook",
+            "per"
+        ]
+    }
+]
