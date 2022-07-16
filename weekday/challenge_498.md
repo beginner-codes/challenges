@@ -24,7 +24,7 @@ three_letter_collection("hi") ➞ []
 
 ## Join Us & Share Your Solution
 
-We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!]("https"://discord.gg/sfHykntuGy)**
+We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!](https://discord.gg/sfHykntuGy)**
 
 ## Challenge Tests
 
@@ -40,7 +40,7 @@ def three_letter_collection(word: str) -> list[str]:
     return []  # Put your code here!!!
 
 
-test(4978, three_letter_collection)  # Tell it which challenge to test against
+test(498, three_letter_collection)  # Tell it which challenge to test against
 ```
 And here's the JSON.
 ```json
