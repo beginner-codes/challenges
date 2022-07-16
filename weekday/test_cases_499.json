@@ -1,0 +1,65 @@
+[
+    {
+        "args": [
+            "sweden",
+            "denmark"
+        ],
+        "return": "swedenmark"
+    },
+    {
+        "args": [
+            "edabit",
+            "iterate"
+        ],
+        "return": "edabiterate"
+    },
+    {
+        "args": [
+            "honey",
+            "milk"
+        ],
+        "return": "honeymilk"
+    },
+    {
+        "args": [
+            "dodge",
+            "dodge"
+        ],
+        "return": "dodge"
+    },
+    {
+        "args": [
+            "colossal",
+            "alligator"
+        ],
+        "return": "colossalligator"
+    },
+    {
+        "args": [
+            "leave",
+            "eavesdrop"
+        ],
+        "return": "leavesdrop"
+    },
+    {
+        "args": [
+            "joshua",
+            "osha"
+        ],
+        "return": "joshuaosha"
+    },
+    {
+        "args": [
+            "diction",
+            "dictionary"
+        ],
+        "return": "dictionary"
+    },
+    {
+        "args": [
+            "massive",
+            "mass"
+        ],
+        "return": "massivemass"
+    }
+]
