@@ -17,7 +17,7 @@ overlap("dodge", "dodge") ➞ "dodge"
 
 ## Join Us & Share Your Solution
 
-We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!]("https"://discord.gg/sfHykntuGy)**
+We're a community of coders who believe the best way to grow is to help others learn. **[Join us on Discord!!!](https://discord.gg/sfHykntuGy)**
 
 ## Challenge Tests
 
@@ -33,7 +33,7 @@ def overlap(word_a: str, word_b: str) -> str:
     return ""  # Put your code here!!!
 
 
-test(498, overlap)  # Tell it which challenge to test against
+test(499, overlap)  # Tell it which challenge to test against
 ```
 And here's the JSON.
 ```json
