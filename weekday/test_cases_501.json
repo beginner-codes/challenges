@@ -1,0 +1,62 @@
+[
+    {
+        "args": [
+            "@beginner.codes"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "@beginner"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "matt@beginner.codes"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "hello.gmail@com"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "bill.gates@microsoft.com"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "hello@email"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "%^%$#%^%"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "www.email.com"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "email"
+        ],
+        "return": false
+    }
+]
