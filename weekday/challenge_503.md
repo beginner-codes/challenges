@@ -90,6 +90,9 @@ And here's the JSON.
 [
     {
         "args": [
+            "hello"
+        ],
+        "return": [
             "hello",
             " hello",
             "  hello",
@@ -101,13 +104,13 @@ And here's the JSON.
             "  hello",
             " hello",
             "hello"
-        ],
-        "return": [
-            "hello"
         ]
     },
     {
         "args": [
+            "Coding"
+        ],
+        "return": [
             "Coding",
             " Coding",
             "  Coding",
@@ -121,13 +124,13 @@ And here's the JSON.
             "  Coding",
             " Coding",
             "Coding"
-        ],
-        "return": [
-            "Coding"
         ]
     },
     {
         "args": [
+            "Wiggle Time"
+        ],
+        "return": [
             "Wiggle Time",
             " Wiggle Time",
             "  Wiggle Time",
@@ -151,13 +154,13 @@ And here's the JSON.
             "  Wiggle Time",
             " Wiggle Time",
             "Wiggle Time"
-        ],
-        "return": [
-            "Wiggle Time"
         ]
     },
     {
         "args": [
+            "the dog"
+        ],
+        "return": [
             "the dog",
             " the dog",
             "  the dog",
@@ -173,13 +176,13 @@ And here's the JSON.
             "  the dog",
             " the dog",
             "the dog"
-        ],
-        "return": [
-            "the dog"
         ]
     },
     {
         "args": [
+            "wiggle wiggle wiggle"
+        ],
+        "return": [
             "wiggle wiggle wiggle",
             " wiggle wiggle wiggle",
             "  wiggle wiggle wiggle",
@@ -221,13 +224,13 @@ And here's the JSON.
             "  wiggle wiggle wiggle",
             " wiggle wiggle wiggle",
             "wiggle wiggle wiggle"
-        ],
-        "return": [
-            "wiggle wiggle wiggle"
         ]
     },
     {
         "args": [
+            "Hello World!"
+        ],
+        "return": [
             "Hello World!",
             " Hello World!",
             "  Hello World!",
@@ -253,13 +256,13 @@ And here's the JSON.
             "  Hello World!",
             " Hello World!",
             "Hello World!"
-        ],
-        "return": [
-            "Hello World!"
         ]
     },
     {
         "args": [
+            "Coding is fun!"
+        ],
+        "return": [
             "Coding is fun!",
             " Coding is fun!",
             "  Coding is fun!",
@@ -289,13 +292,13 @@ And here's the JSON.
             "  Coding is fun!",
             " Coding is fun!",
             "Coding is fun!"
-        ],
-        "return": [
-            "Coding is fun!"
         ]
     },
     {
         "args": [
+            "123456789"
+        ],
+        "return": [
             "123456789",
             " 123456789",
             "  123456789",
@@ -315,13 +318,13 @@ And here's the JSON.
             "  123456789",
             " 123456789",
             "123456789"
-        ],
-        "return": [
-            "123456789"
         ]
     },
     {
         "args": [
+            "qwertyuiop"
+        ],
+        "return": [
             "qwertyuiop",
             " qwertyuiop",
             "  qwertyuiop",
@@ -343,13 +346,13 @@ And here's the JSON.
             "  qwertyuiop",
             " qwertyuiop",
             "qwertyuiop"
-        ],
-        "return": [
-            "qwertyuiop"
         ]
     },
     {
         "args": [
+            "python javascript"
+        ],
+        "return": [
             "python javascript",
             " python javascript",
             "  python javascript",
@@ -384,9 +387,6 @@ And here's the JSON.
             "   python javascript",
             "  python javascript",
             " python javascript",
-            "python javascript"
-        ],
-        "return": [
             "python javascript"
         ]
     }
