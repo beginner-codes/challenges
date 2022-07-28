@@ -1,0 +1,73 @@
+[
+    {
+        "args": [
+            [
+                "WordPress",
+                "Joomla",
+                "Drupal",
+                "Magento",
+                "Shopify",
+                "Blogger"
+            ],
+            "er"
+        ],
+        "return": [
+            "Blogger"
+        ]
+    },
+    {
+        "args": [
+            [
+                "WordPress",
+                "Joomla",
+                "Drupal",
+                "Magento",
+                "Shopify",
+                "Blogger"
+            ],
+            "o"
+        ],
+        "return": [
+            "Blogger",
+            "Joomla",
+            "Magento",
+            "Shopify",
+            "WordPress"
+        ]
+    },
+    {
+        "args": [
+            [
+                "WordPress",
+                "Joomla",
+                "Drupal",
+                "Magento",
+                "Shopify",
+                "Blogger"
+            ],
+            ""
+        ],
+        "return": [
+            "Blogger",
+            "Drupal",
+            "Joomla",
+            "Magento",
+            "Shopify",
+            "WordPress"
+        ]
+    },
+    {
+        "args": [
+            [
+                "WordPress",
+                "Joomla",
+                "Drupal",
+                "Magento",
+                "Shopify",
+                "Blogger"
+            ],
+            "JO"
+        ],
+        "return": []
+    }
+]
