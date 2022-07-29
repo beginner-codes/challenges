@@ -1,0 +1,20 @@
+[
+    {
+        "args": [
+            "One plus one"
+        ],
+        "return": "Two"
+    },
+    {
+        "args": [
+            "zero Plus one"
+        ],
+        "return": "One"
+    },
+    {
+        "args": [
+            "one minus one"
+        ],
+        "return": "Zero"
+    }
+]
