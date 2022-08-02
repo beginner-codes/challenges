@@ -1,0 +1,26 @@
+[
+    {
+        "args": [
+            "ABCD"
+        ],
+        "return": "0 1 2 3"
+    },
+    {
+        "args": [
+            "BCDA"
+        ],
+        "return": "1 2 3 0"
+    },
+    {
+        "args": [
+            "AAA"
+        ],
+        "return": "0 0 0"
+    },
+    {
+        "args": [
+            "XYZ"
+        ],
+        "return": "23 24 25"
+    }
+]
