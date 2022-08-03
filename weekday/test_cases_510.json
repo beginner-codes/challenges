@@ -1,0 +1,65 @@
+[
+    {
+        "args": [
+            []
+        ],
+        "return": "no one online"
+    },
+    {
+        "args": [
+            [
+                "becky325"
+            ]
+        ],
+        "return": "becky325 online"
+    },
+    {
+        "args": [
+            [
+                "becky325",
+                "malcolm888"
+            ]
+        ],
+        "return": "becky325 and malcolm888 online"
+    },
+    {
+        "args": [
+            [
+                "becky325",
+                "malcolm888",
+                "fah32fa"
+            ]
+        ],
+        "return": "becky325, malcolm888 and 1 more online"
+    },
+    {
+        "args": [
+            [
+                "paRIE_to"
+            ]
+        ],
+        "return": "paRIE_to online"
+    },
+    {
+        "args": [
+            [
+                "s234f",
+                "mailbox2"
+            ]
+        ],
+        "return": "s234f and mailbox2 online"
+    },
+    {
+        "args": [
+            [
+                "pap_ier44",
+                "townieBOY",
+                "panda321",
+                "motor_bike5",
+                "sandwichmaker833",
+                "violinist91"
+            ]
+        ],
+        "return": "pap_ier44, townieBOY and 4 more online"
+    }
+]
