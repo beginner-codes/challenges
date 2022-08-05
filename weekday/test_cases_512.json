@@ -1,0 +1,608 @@
+[
+    {
+        "args": [
+            0
+        ],
+        "return": "boom"
+    },
+    {
+        "args": [
+            1
+        ],
+        "return": "boom"
+    },
+    {
+        "args": [
+            2
+        ],
+        "return": "Boom!"
+    },
+    {
+        "args": [
+            3
+        ],
+        "return": "Booom"
+    },
+    {
+        "args": [
+            4
+        ],
+        "return": "Boooom!"
+    },
+    {
+        "args": [
+            5
+        ],
+        "return": "BOOOOOM"
+    },
+    {
+        "args": [
+            6
+        ],
+        "return": "Boooooom!"
+    },
+    {
+        "args": [
+            7
+        ],
+        "return": "Booooooom"
+    },
+    {
+        "args": [
+            8
+        ],
+        "return": "Boooooooom!"
+    },
+    {
+        "args": [
+            9
+        ],
+        "return": "Booooooooom"
+    },
+    {
+        "args": [
+            10
+        ],
+        "return": "BOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            11
+        ],
+        "return": "Booooooooooom"
+    },
+    {
+        "args": [
+            12
+        ],
+        "return": "Boooooooooooom!"
+    },
+    {
+        "args": [
+            13
+        ],
+        "return": "Booooooooooooom"
+    },
+    {
+        "args": [
+            14
+        ],
+        "return": "Boooooooooooooom!"
+    },
+    {
+        "args": [
+            15
+        ],
+        "return": "BOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            16
+        ],
+        "return": "Boooooooooooooooom!"
+    },
+    {
+        "args": [
+            17
+        ],
+        "return": "Booooooooooooooooom"
+    },
+    {
+        "args": [
+            18
+        ],
+        "return": "Boooooooooooooooooom!"
+    },
+    {
+        "args": [
+            19
+        ],
+        "return": "Booooooooooooooooooom"
+    },
+    {
+        "args": [
+            20
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            21
+        ],
+        "return": "Booooooooooooooooooooom"
+    },
+    {
+        "args": [
+            22
+        ],
+        "return": "Boooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            23
+        ],
+        "return": "Booooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            24
+        ],
+        "return": "Boooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            25
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            26
+        ],
+        "return": "Boooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            27
+        ],
+        "return": "Booooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            28
+        ],
+        "return": "Boooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            29
+        ],
+        "return": "Booooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            30
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            31
+        ],
+        "return": "Booooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            32
+        ],
+        "return": "Boooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            33
+        ],
+        "return": "Booooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            34
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            35
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            36
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            37
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            38
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            39
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            40
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            41
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            42
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            43
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            44
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            45
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            46
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            47
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            48
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            49
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            50
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            51
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            52
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            53
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            54
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            55
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            56
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            57
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            58
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            59
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            60
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            61
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            62
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            63
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            64
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            65
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            66
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            67
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            68
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            69
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            70
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            71
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            72
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            73
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            74
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            75
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            76
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            77
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            78
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            79
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            80
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            81
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            82
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            83
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            84
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            85
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            86
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            87
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            88
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            89
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            90
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    },
+    {
+        "args": [
+            91
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            92
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            93
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            94
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            95
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM"
+    },
+    {
+        "args": [
+            96
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            97
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            98
+        ],
+        "return": "Boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom!"
+    },
+    {
+        "args": [
+            99
+        ],
+        "return": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooom"
+    },
+    {
+        "args": [
+            100
+        ],
+        "return": "BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!"
+    }
+]
