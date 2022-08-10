@@ -1,0 +1,51 @@
+[
+    {
+        "args": [
+            "",
+            "a-z"
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            "abcdef",
+            "c-e"
+        ],
+        "return": "ab###f"
+    },
+    {
+        "args": [
+            "bountiful",
+            "a-o"
+        ],
+        "return": "##u#t##u#"
+    },
+    {
+        "args": [
+            "rattle",
+            "r-z"
+        ],
+        "return": "#a##le"
+    },
+    {
+        "args": [
+            "microscopic",
+            "i-i"
+        ],
+        "return": "m#croscop#c"
+    },
+    {
+        "args": [
+            "mount",
+            "a-e"
+        ],
+        "return": "mount"
+    },
+    {
+        "args": [
+            "zebra",
+            "a-z"
+        ],
+        "return": "#####"
+    }
+]
