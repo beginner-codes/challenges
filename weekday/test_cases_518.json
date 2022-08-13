@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "UPPER lower"
+        ],
+        "return": "REWOL reppu"
+    },
+    {
+        "args": [
+            "Beginner.Codes"
+        ],
+        "return": "Sedoc.renNigeb"
+    },
+    {
+        "args": [
+            "addition(3, 2) = 5"
+        ],
+        "return": "5=)2,3(noit id d a"
+    },
+    {
+        "args": [
+            "Hello World!"
+        ],
+        "return": "!dlro Wolleh"
+    },
+    {
+        "args": [
+            "It's known that CSS means Cascading Style Sheets"
+        ],
+        "return": "Stee hsely tsgn IDA csacs Naemsscta Htnwo Nks'ti"
+    },
+    {
+        "args": [
+            "1 23 456"
+        ],
+        "return": "6 54 321"
+    },
+    {
+        "args": [
+            "Where's your dog Daisy?"
+        ],
+        "return": "?ysiadg odru oys 'erehw"
+    }
+]
