@@ -1,0 +1,92 @@
+[
+    {
+        "args": [
+            "0+0+0+0+0+0+0"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "0 + 0 + (3 / (3 - 3))"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "3 / 0"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "4 / (2 + 3 - 5)"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "0 / 0"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "3 / 0"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "23 - 23 / 23"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "2 * 5 - 3"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "2 / 0"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "5343456787543234567 / 743044830483009043909003"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "(-100 + 50 + 50) / (60 - 50 - 10)"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "7 / ((7**2) - ((-7)**2))"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "0-0-0-0-0-0-0-0-0-0"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "0 + 1 + 2 + 3 + 0"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "4 / 3"
+        ],
+        "return": false
+    }
+]
