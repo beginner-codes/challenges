@@ -1,0 +1,146 @@
+[
+    {
+        "args": [
+            "14256"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "123"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "112"
+        ],
+        "return": "Even and Odd are the same"
+    },
+    {
+        "args": [
+            "124"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "6721"
+        ],
+        "return": "Even and Odd are the same"
+    },
+    {
+        "args": [
+            "23456"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "92184"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "45228"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "143"
+        ],
+        "return": "Even and Odd are the same"
+    },
+    {
+        "args": [
+            "12378"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "4321"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "2221"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "12345"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "12"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "4455"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "11234"
+        ],
+        "return": "Even is greater than Odd"
+    },
+    {
+        "args": [
+            "1734"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "213613"
+        ],
+        "return": "Even and Odd are the same"
+    },
+    {
+        "args": [
+            "145"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "34522"
+        ],
+        "return": "Even and Odd are the same"
+    },
+    {
+        "args": [
+            "22471"
+        ],
+        "return": "Even and Odd are the same"
+    },
+    {
+        "args": [
+            "3245"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "9738"
+        ],
+        "return": "Odd is greater than Even"
+    },
+    {
+        "args": [
+            "23456"
+        ],
+        "return": "Even is greater than Odd"
+    }
+]
