@@ -1,0 +1,86 @@
+[
+    {
+        "args": [
+            1
+        ],
+        "return": "Polymorphic"
+    },
+    {
+        "args": [
+            10
+        ],
+        "return": "Amorphic"
+    },
+    {
+        "args": [
+            7
+        ],
+        "return": "Dimorphic"
+    },
+    {
+        "args": [
+            625
+        ],
+        "return": "Polymorphic"
+    },
+    {
+        "args": [
+            9376
+        ],
+        "return": "Polymorphic"
+    },
+    {
+        "args": [
+            9999
+        ],
+        "return": "Quadrimorphic"
+    },
+    {
+        "args": [
+            121
+        ],
+        "return": "Amorphic"
+    },
+    {
+        "args": [
+            501
+        ],
+        "return": "Quadrimorphic"
+    },
+    {
+        "args": [
+            2030
+        ],
+        "return": "Amorphic"
+    },
+    {
+        "args": [
+            3376
+        ],
+        "return": "Enamorphic"
+    },
+    {
+        "args": [
+            3751
+        ],
+        "return": "Quadrimorphic"
+    },
+    {
+        "args": [
+            4
+        ],
+        "return": "Quadrimorphic"
+    },
+    {
+        "args": [
+            0
+        ],
+        "return": "Polymorphic"
+    },
+    {
+        "args": [
+            68
+        ],
+        "return": "Dimorphic"
+    }
+]
