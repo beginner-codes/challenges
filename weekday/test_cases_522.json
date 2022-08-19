@@ -1,0 +1,90 @@
+[
+    {
+        "args": [
+            [
+                "small",
+                "big"
+            ]
+        ],
+        "return": [
+            "big",
+            "small"
+        ]
+    },
+    {
+        "args": [
+            [
+                "big",
+                "cat",
+                "ran",
+                "for",
+                "the",
+                "fat",
+                "rat"
+            ]
+        ],
+        "return": [
+            "big",
+            "cat",
+            "fat",
+            "for",
+            "ran",
+            "rat",
+            "the"
+        ]
+    },
+    {
+        "args": [
+            [
+                "this",
+                "is",
+                "a",
+                "small",
+                "test"
+            ]
+        ],
+        "return": [
+            "a",
+            "is",
+            "test",
+            "this",
+            "small"
+        ]
+    },
+    {
+        "args": [
+            [
+                "let",
+                "us",
+                "try",
+                "some",
+                "long",
+                "test",
+                "to",
+                "see",
+                "if",
+                "this",
+                "works",
+                "as",
+                "it",
+                "should"
+            ]
+        ],
+        "return": [
+            "as",
+            "if",
+            "it",
+            "to",
+            "us",
+            "let",
+            "see",
+            "try",
+            "long",
+            "some",
+            "test",
+            "this",
+            "works",
+            "should"
+        ]
+    }
+]
