@@ -1,0 +1,26 @@
+[
+    {
+        "args": [
+            "00101101"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "10010010"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "11000001"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "11000000"
+        ],
+        "return": true
+    }
+]
