@@ -1,0 +1,42 @@
+[
+    {
+        "args": [
+            "nebulous",
+            1,
+            "#"
+        ],
+        "return": "n#e#b#u#l#o#u#s"
+    },
+    {
+        "args": [
+            "magnify",
+            3,
+            ":"
+        ],
+        "return": "mag:nif:y"
+    },
+    {
+        "args": [
+            "shape-shifting",
+            5,
+            "^"
+        ],
+        "return": "shape^-shif^ting"
+    },
+    {
+        "args": [
+            "poisonous",
+            2,
+            "~"
+        ],
+        "return": "po~is~on~ou~s"
+    },
+    {
+        "args": [
+            "bellow",
+            2,
+            "&"
+        ],
+        "return": "be&ll&ow"
+    }
+]
