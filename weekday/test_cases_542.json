@@ -1,0 +1,38 @@
+[
+    {
+        "args": [
+            "AB[3CD]"
+        ],
+        "return": "ABCDCDCD"
+    },
+    {
+        "args": [
+            "ABCD"
+        ],
+        "return": "ABCD"
+    },
+    {
+        "args": [
+            "IF[2E]LG[5O]D"
+        ],
+        "return": "IFEELGOOOOOD"
+    },
+    {
+        "args": [
+            "MU[2B][2A][2S][2H][2I]RISN[4O]TAMA[4Z]ING"
+        ],
+        "return": "MUBBAASSHHIIRISNOOOOTAMAZZZZING"
+    },
+    {
+        "args": [
+            "AB[2C[2EF]G]"
+        ],
+        "return": "ABCEFEFGCEFEFG"
+    },
+    {
+        "args": [
+            "AB[2[3CD]]"
+        ],
+        "return": "ABCDCDCDCDCDCD"
+    }
+]
