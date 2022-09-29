@@ -1,0 +1,50 @@
+[
+    {
+        "args": [
+            "3 3 2009"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "2 4 2008"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "9 2 2011"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "4 1 2001"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "1 1 2011"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "5 2 2010"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "1 2 2011"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "1 4 2011"
+        ],
+        "return": false
+    }
+]
