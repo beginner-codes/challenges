@@ -1,0 +1,56 @@
+[
+    {
+        "args": [
+            472335975
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            42300981
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            548834
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            886243
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            66
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            65239
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            6
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            1741725
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            92727
+        ],
+        "return": true
+    }
+]
