@@ -1,0 +1,48 @@
+[
+    {
+        "args": [
+            "#343473847#"
+        ],
+        "return": "Two's a pair."
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": "Incompatible."
+    },
+    {
+        "args": [
+            [
+                1,
+                2,
+                3
+            ]
+        ],
+        "return": "Incompatible."
+    },
+    {
+        "args": [
+            "dfdkf49824fdfdfjhd"
+        ],
+        "return": "Two's a pair."
+    },
+    {
+        "args": [
+            "Anna, Banana"
+        ],
+        "return": "anna, BananA"
+    },
+    {
+        "args": [
+            "Cat, dog, and mouse."
+        ],
+        "return": ".at, dog, and mouseC"
+    },
+    {
+        "args": [
+            "[]"
+        ],
+        "return": "]["
+    }
+]
