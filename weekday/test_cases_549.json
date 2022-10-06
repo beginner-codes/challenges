@@ -1,0 +1,68 @@
+[
+    {
+        "args": [
+            "54..4"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "3.2"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "000.000"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "number"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "0000000"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "1234321"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "3.e"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "324"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            ".5"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            ".42.3"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "03"
+        ],
+        "return": true
+    }
+]
