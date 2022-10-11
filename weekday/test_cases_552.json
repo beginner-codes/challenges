@@ -1,0 +1,68 @@
+[
+    {
+        "args": [
+            "the boy ran at the wall"
+        ],
+        "return": "a boy ran at a wall"
+    },
+    {
+        "args": [
+            "this edabit thing is quite neat"
+        ],
+        "return": "this edabit thing is quite neat"
+    },
+    {
+        "args": [
+            "the quick brown fox jumps over the lazy dog"
+        ],
+        "return": "a quick brown fox jumps over a lazy dog"
+    },
+    {
+        "args": [
+            "the lion, witch and the wardrobe"
+        ],
+        "return": "a lion, witch and a wardrobe"
+    },
+    {
+        "args": [
+            "enter the correct password to access the epic program"
+        ],
+        "return": "enter a correct password to access an epic program"
+    },
+    {
+        "args": [
+            "this the random english sentence which you have to pass"
+        ],
+        "return": "this a random english sentence which you have to pass"
+    },
+    {
+        "args": [
+            "the dog and the envelope"
+        ],
+        "return": "a dog and an envelope"
+    },
+    {
+        "args": [
+            "where is the spoon"
+        ],
+        "return": "where is a spoon"
+    },
+    {
+        "args": [
+            "the egg, the spoon and the espionage"
+        ],
+        "return": "an egg, a spoon and an espionage"
+    },
+    {
+        "args": [
+            "the man blew the final candle out and all was dark"
+        ],
+        "return": "a man blew a final candle out and all was dark"
+    },
+    {
+        "args": [
+            "the ant ate the egg salad which the eel had been intending to eat over the weekend"
+        ],
+        "return": "an ant ate an egg salad which an eel had been intending to eat over a weekend"
+    }
+]
