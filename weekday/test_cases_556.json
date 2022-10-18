@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "unEcEsSARilY_loNG_vArIablE_NaME"
+        ],
+        "return": "unecessarilyLongVariableName"
+    },
+    {
+        "args": [
+            "low high_HIGH"
+        ],
+        "return": "lowHighHigh"
+    },
+    {
+        "args": [
+            "camel casing"
+        ],
+        "return": "camelCasing"
+    },
+    {
+        "args": [
+            "Hello World"
+        ],
+        "return": "helloWorld"
+    },
+    {
+        "args": [
+            "snake_case"
+        ],
+        "return": "snakeCase"
+    }
+]
