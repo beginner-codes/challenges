@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "Sphinx of black quartz judge my vow",
+            10
+        ],
+        "return": "blah blah blah blah blah blah blah..."
+    },
+    {
+        "args": [
+            "one two three four five",
+            2
+        ],
+        "return": "one two three blah blah..."
+    },
+    {
+        "args": [
+            "A function is a block of code which only runs when it is called",
+            5
+        ],
+        "return": "A function is a block of code which only blah blah blah blah blah..."
+    },
+    {
+        "args": [
+            "The quadratic formula is negative b plus or minus the square root of b squared subtract four ac all over two a",
+            5
+        ],
+        "return": "The quadratic formula is negative b plus or minus the square root of b squared subtract four blah blah blah blah blah..."
+    }
+]
