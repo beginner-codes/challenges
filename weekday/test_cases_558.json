@@ -1,0 +1,149 @@
+[
+    {
+        "args": [
+            "profession",
+            "profesprofessionsion"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "continuous",
+            "contcontcontinuoconcocontinuousntinuoustinuoususinuousinuous"
+        ],
+        "return": 5
+    },
+    {
+        "args": [
+            "home",
+            "hohohohhohohhhohhomeomemeomeomememeomemememe"
+        ],
+        "return": 10
+    },
+    {
+        "args": [
+            "sweater",
+            "sweatsweswsweatereateraterer"
+        ],
+        "return": 3
+    },
+    {
+        "args": [
+            "relieve",
+            "relierelierelrelierrelieveelieveveieveveve"
+        ],
+        "return": 5
+    },
+    {
+        "args": [
+            "caller",
+            "callcacacalccallcacaccallerallerllerllererallerlerllerllerer"
+        ],
+        "return": 9
+    },
+    {
+        "args": [
+            "measure",
+            "measumememeasumemmeasmmeasureeasureureeasureasurereasureasurere"
+        ],
+        "return": 8
+    },
+    {
+        "args": [
+            "ruin",
+            "rurrurrrrrrururuinininuinuinuinuinuininuinin"
+        ],
+        "return": 10
+    },
+    {
+        "args": [
+            "factory",
+            "ffacfactofactfafactoryctoryoryrytoryactory"
+        ],
+        "return": 5
+    },
+    {
+        "args": [
+            "inflate",
+            "inflate"
+        ],
+        "return": 0
+    },
+    {
+        "args": [
+            "episode",
+            "episoepisepisepiepiepiepisoepisodedesodesodesodeodeodede"
+        ],
+        "return": 7
+    },
+    {
+        "args": [
+            "meet",
+            "mmememmeeteeteteteet"
+        ],
+        "return": 4
+    },
+    {
+        "args": [
+            "paradox",
+            "parparaparadoxdoxadox"
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            "last",
+            "lalastst"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "deal",
+            "dedddealealealal"
+        ],
+        "return": 3
+    },
+    {
+        "args": [
+            "passage",
+            "passpassageage"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "dictate",
+            "dictadicdidictdiddictadictadictateteteictatectateatectatetatete"
+        ],
+        "return": 8
+    },
+    {
+        "args": [
+            "deny",
+            "ddededdddenyenyenyenynynyeny"
+        ],
+        "return": 6
+    },
+    {
+        "args": [
+            "jinx",
+            "jijijjijjijijjinxinxnxnxinxnxinxnxnx"
+        ],
+        "return": 8
+    },
+    {
+        "args": [
+            "silence",
+            "sisilsisilencelenceencelence"
+        ],
+        "return": 3
+    },
+    {
+        "args": [
+            "engagement",
+            "engenengagemengagemeengagementntentgagementagement"
+        ],
+        "return": 4
+    }
+]
