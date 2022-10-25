@@ -1,0 +1,92 @@
+[
+    {
+        "args": [
+            "python$#$\"_guy@overtherainbow.net"
+        ],
+        "return": "pythonguy"
+    },
+    {
+        "args": [
+            "sars-CoV-2@pandemic.org"
+        ],
+        "return": "sarsCoV"
+    },
+    {
+        "args": [
+            "yourname@example.com"
+        ],
+        "return": "yourname"
+    },
+    {
+        "args": [
+            "john64@gmail.com"
+        ],
+        "return": "john"
+    },
+    {
+        "args": [
+            "e@ifdirmvsidso.jeksdjjcoa"
+        ],
+        "return": "e"
+    },
+    {
+        "args": [
+            "Mr.President2050@USofA.gov"
+        ],
+        "return": "MrPresident"
+    },
+    {
+        "args": [
+            "][:;><?/(*^%$E@br.uh"
+        ],
+        "return": "E"
+    },
+    {
+        "args": [
+            "a@b.c"
+        ],
+        "return": "a"
+    },
+    {
+        "args": [
+            "student@exampleschooldistrict.net"
+        ],
+        "return": "student"
+    },
+    {
+        "args": [
+            "Chickenlololol29@yahoo.com"
+        ],
+        "return": "Chickenlololol"
+    },
+    {
+        "args": [
+            "a872894972Bigbear@whateverdomain.xyz"
+        ],
+        "return": "aBigbear"
+    },
+    {
+        "args": [
+            "uhOh-theThirteenthTest@unluc.ky"
+        ],
+        "return": "uhOhtheThirteenthTest"
+    },
+    {
+        "args": [
+            "pamela78_Cole@hotmail.com"
+        ],
+        "return": "pamelaCole"
+    },
+    {
+        "args": [
+            "z50@python.com"
+        ],
+        "return": "z"
+    },
+    {
+        "args": [
+            "t1h2e3q4u5i6c7k8b9r0o1w2n3f4o5x6j7u8m9p0e123456789doverthelazydog@ro.bot"
+        ],
+        "return": "thequickbrownfoxjumpedoverthelazydog"
+    }
+]
