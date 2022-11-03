@@ -1,0 +1,62 @@
+[
+    {
+        "args": [
+            "aaaaa"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "xyzyx"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "zyz"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "qrstuv"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "mnopqrstsrqponm"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "cdefg"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "aba"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "efghihfe"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "aeiou"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "abcdedcba"
+        ],
+        "return": true
+    }
+]
