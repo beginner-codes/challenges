@@ -38,152 +38,127 @@ from __future__ import annotations
 from beginnercodes.challenges import test
 
 
-def sliding_sum(lst: list[int], n: int, k: int) -> list[list[int]]:
+def generate_palindromes(max_num: int) -> list[int]:
     return [] # Put your code here!!!
 
 
-test(563, sliding_sum)  # Tell it which challenge to test against
+test(564, generate_palindromes)  # Tell it which challenge to test against
 ```
 And here's the JSON.
 ```json
 [
     {
         "args": [
-            [
-                1,
-                4,
-                2,
-                3,
-                5,
-                0
-            ],
-            2,
-            5
+            600
         ],
         "return": [
-            [
-                1,
-                4
-            ],
-            [
-                2,
-                3
-            ],
-            [
-                5,
-                0
-            ]
+            454,
+            464,
+            474,
+            484,
+            494,
+            505,
+            515,
+            525,
+            535,
+            545,
+            555,
+            565,
+            575,
+            585,
+            595
         ]
     },
     {
         "args": [
-            [
-                3,
-                2,
-                1,
-                1,
-                3,
-                2
-            ],
-            4,
-            7
+            3443
         ],
         "return": [
-            [
-                3,
-                2,
-                1,
-                1
-            ],
-            [
-                2,
-                1,
-                1,
-                3
-            ],
-            [
-                1,
-                1,
-                3,
-                2
-            ]
+            2002,
+            2112,
+            2222,
+            2332,
+            2442,
+            2552,
+            2662,
+            2772,
+            2882,
+            2992,
+            3003,
+            3113,
+            3223,
+            3333,
+            3443
         ]
     },
     {
         "args": [
-            [
-                3,
-                4,
-                1,
-                9,
-                9,
-                0,
-                3,
-                5,
-                4
-            ],
-            3,
-            8
+            13000
         ],
         "return": [
-            [
-                3,
-                4,
-                1
-            ],
-            [
-                0,
-                3,
-                5
-            ]
+            11511,
+            11611,
+            11711,
+            11811,
+            11911,
+            12021,
+            12121,
+            12221,
+            12321,
+            12421,
+            12521,
+            12621,
+            12721,
+            12821,
+            12921
         ]
     },
     {
         "args": [
-            [
-                5,
-                5,
-                5,
-                5,
-                5
-            ],
-            5,
-            24
+            999999
         ],
-        "return": []
+        "return": [
+            985589,
+            986689,
+            987789,
+            988889,
+            989989,
+            990099,
+            991199,
+            992299,
+            993399,
+            994499,
+            995599,
+            996699,
+            997799,
+            998899,
+            999999
+        ]
     },
     {
         "args": [
-            [
-                5,
-                5,
-                5,
-                5,
-                5
-            ],
-            1,
-            5
+            151
         ],
         "return": [
-            [
-                5
-            ],
-            [
-                5
-            ],
-            [
-                5
-            ],
-            [
-                5
-            ],
-            [
-                5
-            ]
+            11,
+            22,
+            33,
+            44,
+            55,
+            66,
+            77,
+            88,
+            99,
+            101,
+            111,
+            121,
+            131,
+            141,
+            151
         ]
     }
 ]
 ```
 ## Credits
 
-Found on Edabit: [Sliding Sum](https://edabit.com/challenge/PbucHZpWm6ZGEtqki)
+Found on Edabit: [Generate a List of 15 Palindrome Numbers](https://edabit.com/challenge/9QbhjtbkXp3QZNuDu)
