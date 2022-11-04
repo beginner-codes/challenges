@@ -1,0 +1,26 @@
+[
+    {
+        "args": [
+            "A-B-C"
+        ],
+        "return": "ABC"
+    },
+    {
+        "args": [
+            "The-Stealth-Warrior"
+        ],
+        "return": "TheStealthWarrior"
+    },
+    {
+        "args": [
+            "the_stealth_warrior"
+        ],
+        "return": "theStealthWarrior"
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": ""
+    }
+]
