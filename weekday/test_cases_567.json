@@ -1,0 +1,282 @@
+[
+    {
+        "args": [
+            [
+                "OOOOOOOOO---O",
+                "---OOOOOOOOOO",
+                "OOOOO---OOOOO",
+                "O---OOOOOOOOO",
+                "OOOOOOOO---OO",
+                "---OOOOOOOOOO",
+                "OOOOOOOOO---O"
+            ]
+        ],
+        "return": 9051809
+    },
+    {
+        "args": [
+            [
+                "---OOOOOOOOOO",
+                "OOOOOOOOO---O",
+                "OOO---OOOOOOO",
+                "---OOOOOOOOOO",
+                "OO---OOOOOOOO",
+                "OOOOOO---OOOO",
+                "OOOOO---OOOOO"
+            ]
+        ],
+        "return": 930265
+    },
+    {
+        "args": [
+            [
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OOOO---OOOOOO",
+                "OOOOOOO---OOO",
+                "O---OOOOOOOOO",
+                "OOOOOOOO---OO",
+                "OOO---OOOOOOO"
+            ]
+        ],
+        "return": 47183
+    },
+    {
+        "args": [
+            [
+                "OO---OOOOOOOO",
+                "OOOOOO---OOOO",
+                "OOO---OOOOOOO",
+                "OOO---OOOOOOO",
+                "OOO---OOOOOOO",
+                "OO---OOOOOOOO",
+                "---OOOOOOOOOO"
+            ]
+        ],
+        "return": 2633320
+    },
+    {
+        "args": [
+            [
+                "OOOOO---OOOOO",
+                "OOOOOOOO---OO",
+                "OOOOOOOOO---O",
+                "OOO---OOOOOOO",
+                "O---OOOOOOOOO",
+                "OOOOOOOOO---O",
+                "OOOOOO---OOOO"
+            ]
+        ],
+        "return": 5893196
+    },
+    {
+        "args": [
+            [
+                "OOOOO---OOOOO",
+                "---OOOOOOOOOO",
+                "O---OOOOOOOOO",
+                "O---OOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OOOOOOOO---OO",
+                "OO---OOOOOOOO"
+            ]
+        ],
+        "return": 5011082
+    },
+    {
+        "args": [
+            [
+                "OOOOOO---OOOO",
+                "OOOO---OOOOOO",
+                "OOOOOO---OOOO",
+                "OOOOOOOO---OO",
+                "---OOOOOOOOOO",
+                "OOOOOOO---OOO",
+                "OOOOOO---OOOO"
+            ]
+        ],
+        "return": 6468076
+    },
+    {
+        "args": [
+            [
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OOOOOOOOO---O",
+                "OOOOOOOO---OO",
+                "OOOOOOOOO---O",
+                "OO---OOOOOOOO",
+                "OOOOOOOO---OO"
+            ]
+        ],
+        "return": 98928
+    },
+    {
+        "args": [
+            [
+                "OOOOOOOO---OO",
+                "OOOOOOOOO---O",
+                "OOOO---OOOOOO",
+                "OOOOOO---OOOO",
+                "OOOOO---OOOOO",
+                "---OOOOOOOOOO",
+                "OOOO---OOOOOO"
+            ]
+        ],
+        "return": 8946504
+    },
+    {
+        "args": [
+            [
+                "O---OOOOOOOOO",
+                "OOO---OOOOOOO",
+                "OOOOOOO---OOO",
+                "---OOOOOOOOOO",
+                "OOOOOOOO---OO",
+                "OO---OOOOOOOO",
+                "OOOOOOO---OOO"
+            ]
+        ],
+        "return": 1370827
+    },
+    {
+        "args": [
+            [
+                "OOOOOOO---OOO",
+                "OOOOOOOOO---O",
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OO---OOOOOOOO",
+                "---OOOOOOOOOO",
+                "OOOO---OOOOOO"
+            ]
+        ],
+        "return": 7900204
+    },
+    {
+        "args": [
+            [
+                "OOOOOO---OOOO",
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "O---OOOOOOOOO",
+                "OOOOOOOOO---O",
+                "OOOOO---OOOOO",
+                "---OOOOOOOOOO"
+            ]
+        ],
+        "return": 6001950
+    },
+    {
+        "args": [
+            [
+                "OOOOOOO---OOO",
+                "O---OOOOOOOOO",
+                "OOOO---OOOOOO",
+                "O---OOOOOOOOO",
+                "OO---OOOOOOOO",
+                "O---OOOOOOOOO",
+                "OOOOOOO---OOO"
+            ]
+        ],
+        "return": 7141217
+    },
+    {
+        "args": [
+            [
+                "---OOOOOOOOOO",
+                "OOOOOO---OOOO",
+                "OOOOOOO---OOO",
+                "OOOOOOO---OOO",
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OOOOOOOO---OO"
+            ]
+        ],
+        "return": 677008
+    },
+    {
+        "args": [
+            [
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OO---OOOOOOOO",
+                "O---OOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OOOOOOOOO---O"
+            ]
+        ],
+        "return": 2109
+    },
+    {
+        "args": [
+            [
+                "OO---OOOOOOOO",
+                "OO---OOOOOOOO",
+                "OOOOOOO---OOO",
+                "---OOOOOOOOOO",
+                "OOOOOOO---OOO",
+                "OOOO---OOOOOO",
+                "OOOOOOOOO---O"
+            ]
+        ],
+        "return": 2270749
+    },
+    {
+        "args": [
+            [
+                "OO---OOOOOOOO",
+                "OOOOOO---OOOO",
+                "OOOOOOOOO---O",
+                "OOOOOOO---OOO",
+                "OOOOOOOO---OO",
+                "OOOOO---OOOOO",
+                "OOOOOOOO---OO"
+            ]
+        ],
+        "return": 2697858
+    },
+    {
+        "args": [
+            [
+                "OOOOOO---OOOO",
+                "OOOOOO---OOOO",
+                "OOOO---OOOOOO",
+                "OOOOOOO---OOO",
+                "O---OOOOOOOOO",
+                "OOOOOOO---OOO",
+                "OOOOOOO---OOO"
+            ]
+        ],
+        "return": 6647177
+    },
+    {
+        "args": [
+            [
+                "---OOOOOOOOOO",
+                "---OOOOOOOOOO",
+                "OOOOOO---OOOO",
+                "---OOOOOOOOOO",
+                "OOOO---OOOOOO",
+                "O---OOOOOOOOO",
+                "OOOO---OOOOOO"
+            ]
+        ],
+        "return": 60414
+    },
+    {
+        "args": [
+            [
+                "OOOOOOOOO---O",
+                "OOOOOOO---OOO",
+                "OOOOO---OOOOO",
+                "OOOOOOO---OOO",
+                "---OOOOOOOOOO",
+                "O---OOOOOOOOO",
+                "OOO---OOOOOOO"
+            ]
+        ],
+        "return": 9757013
+    }
+]
