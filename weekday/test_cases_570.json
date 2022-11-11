@@ -1,0 +1,77 @@
+[
+    {
+        "args": [
+            [
+                true,
+                false
+            ]
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            [
+                true,
+                true,
+                true,
+                false
+            ]
+        ],
+        "return": 3
+    },
+    {
+        "args": [
+            [
+                true,
+                false,
+                true,
+                true
+            ]
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true
+            ]
+        ],
+        "return": 3
+    },
+    {
+        "args": [
+            [
+                true,
+                false,
+                true
+            ]
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            [
+                true,
+                true,
+                false,
+                true
+            ]
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            [
+                false,
+                false,
+                false
+            ]
+        ],
+        "return": 0
+    }
+]
