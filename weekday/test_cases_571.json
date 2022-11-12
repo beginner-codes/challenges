@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "munch munch munch tasty tasty brunch"
+        ],
+        "return": "u"
+    },
+    {
+        "args": [
+            "Watch the characters dance!"
+        ],
+        "return": "e"
+    },
+    {
+        "args": [
+            "Hello World!"
+        ],
+        "return": "o"
+    },
+    {
+        "args": [
+            "OOI UUI EEI AAI"
+        ],
+        "return": "i"
+    },
+    {
+        "args": [
+            "amy and acts"
+        ],
+        "return": "a"
+    }
+]
