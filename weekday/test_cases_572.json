@@ -1,0 +1,71 @@
+[
+    {
+        "args": [
+            98765
+        ],
+        "return": [
+            "Evil"
+        ]
+    },
+    {
+        "args": [
+            97
+        ],
+        "return": [
+            "Odious",
+            "Pernicious"
+        ]
+    },
+    {
+        "args": [
+            7
+        ],
+        "return": [
+            "Odious",
+            "Pernicious"
+        ]
+    },
+    {
+        "args": [
+            66
+        ],
+        "return": [
+            "Evil",
+            "Pernicious"
+        ]
+    },
+    {
+        "args": [
+            77
+        ],
+        "return": [
+            "Evil"
+        ]
+    },
+    {
+        "args": [
+            987654321
+        ],
+        "return": [
+            "Odious",
+            "Pernicious"
+        ]
+    },
+    {
+        "args": [
+            128
+        ],
+        "return": [
+            "Odious"
+        ]
+    },
+    {
+        "args": [
+            666
+        ],
+        "return": [
+            "Odious",
+            "Pernicious"
+        ]
+    }
+]
