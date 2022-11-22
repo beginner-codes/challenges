@@ -1,0 +1,62 @@
+[
+    {
+        "args": [
+            "The old apple revels in its authority."
+        ],
+        "return": "The old elppa slever in its .ytirohtua"
+    },
+    {
+        "args": [
+            "Reverse"
+        ],
+        "return": "esreveR"
+    },
+    {
+        "args": [
+            "Please wait outside of the house."
+        ],
+        "return": "esaelP wait edistuo of the .esuoh"
+    },
+    {
+        "args": [
+            "Two seats were vacant."
+        ],
+        "return": "Two staes were .tnacav"
+    },
+    {
+        "args": [
+            "The dog is big."
+        ],
+        "return": "The dog is big."
+    },
+    {
+        "args": [
+            "The shooter says goodbye to his love."
+        ],
+        "return": "The retoohs says eybdoog to his .evol"
+    },
+    {
+        "args": [
+            "This is a typical sentence."
+        ],
+        "return": "This is a lacipyt .ecnetnes"
+    },
+    {
+        "args": [
+            "Sixty-Four comes asking for bread."
+        ],
+        "return": "ruoF-ytxiS semoc gniksa for .daerb"
+    },
+    {
+        "args": [
+            "Reverse the order of every word greater than or equal to five characters."
+        ],
+        "return": "esreveR the redro of yreve word retaerg than or lauqe to five .sretcarahc"
+    },
+    {
+        "args": [
+            "Lets all be unique together until we realise we are all the same."
+        ],
+        "return": "Lets all be euqinu rehtegot litnu we esilaer we are all the .emas"
+    }
+]
