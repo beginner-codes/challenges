@@ -1,0 +1,38 @@
+[
+    {
+        "args": [
+            "p.four.five"
+        ],
+        "return": "<p class='four five'></p>"
+    },
+    {
+        "args": [
+            "p.one.two.three"
+        ],
+        "return": "<p class='one two three'></p>"
+    },
+    {
+        "args": [
+            "h3.one"
+        ],
+        "return": "<h3 class='one'></h3>"
+    },
+    {
+        "args": [
+            "h1.a.b.c.d"
+        ],
+        "return": "<h1 class='a b c d'></h1>"
+    },
+    {
+        "args": [
+            "p.one"
+        ],
+        "return": "<p class='one'></p>"
+    },
+    {
+        "args": [
+            "p.a.b.c.d"
+        ],
+        "return": "<p class='a b c d'></p>"
+    }
+]
