@@ -1,0 +1,50 @@
+[
+    {
+        "args": [
+            [
+                "Dub,Dancehall",
+                "Industrial,Heavy Metal",
+                "Techno,Dubstep",
+                "Synth-pop,Euro-Disco",
+                "Industrial,Techno,Minimal"
+            ]
+        ],
+        "return": 9
+    },
+    {
+        "args": [
+            [
+                "Soul",
+                "House,Folk",
+                "Trance,Downtempo,Big Beat,House",
+                "Deep House",
+                "Soul"
+            ]
+        ],
+        "return": 7
+    },
+    {
+        "args": [
+            [
+                "Black Metal,Avantgarde",
+                "Funk",
+                "Deep House,House",
+                "Big Band",
+                "Punk"
+            ]
+        ],
+        "return": 7
+    },
+    {
+        "args": [
+            [
+                "Funk",
+                "Funk",
+                "Funk",
+                "Funk",
+                "Funk"
+            ]
+        ],
+        "return": 1
+    }
+]
