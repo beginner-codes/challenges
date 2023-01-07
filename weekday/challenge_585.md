@@ -2,7 +2,7 @@
 
 Create a function that takes a string consisting of lowercase letters, uppercase letters and numbers and returns the string sorted in the same way as the examples below.
 
-Examples
+## Examples
 ```js
 sorting("eA2a1E") ➞ "aAeE12"
 // Don't repeat letters.
