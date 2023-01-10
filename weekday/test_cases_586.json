@@ -1,0 +1,37 @@
+[
+    {
+        "args": [
+            "paper",
+            "rock"
+        ],
+        "return": "Player 1 wins"
+    },
+    {
+        "args": [
+            "rock",
+            "paper"
+        ],
+        "return": "Player 2 wins"
+    },
+    {
+        "args": [
+            "paper",
+            "scissors"
+        ],
+        "return": "Player 2 wins"
+    },
+    {
+        "args": [
+            "scissors",
+            "scissors"
+        ],
+        "return": "TIE"
+    },
+    {
+        "args": [
+            "scissors",
+            "paper"
+        ],
+        "return": "Player 1 wins"
+    }
+]
