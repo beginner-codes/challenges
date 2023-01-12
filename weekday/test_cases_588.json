@@ -1,0 +1,50 @@
+[
+    {
+        "args": [
+            "Oh my goodness!"
+        ],
+        "return": "Oh my goodness!"
+    },
+    {
+        "args": [
+            "I just!!! can!!! not!!! believe!!! it!!!"
+        ],
+        "return": "I just!!! can!!! not!!! believe!!! it!"
+    },
+    {
+        "args": [
+            "That's a ton!! of cheese!!!!"
+        ],
+        "return": "That's a ton!! of cheese!"
+    },
+    {
+        "args": [
+            "Oh my goodness!!!"
+        ],
+        "return": "Oh my goodness!"
+    },
+    {
+        "args": [
+            "WHAT?"
+        ],
+        "return": "WHAT?"
+    },
+    {
+        "args": [
+            "What went wrong?????????"
+        ],
+        "return": "What went wrong?"
+    },
+    {
+        "args": [
+            "I just cannot believe it."
+        ],
+        "return": "I just cannot believe it."
+    },
+    {
+        "args": [
+            "WHAT!"
+        ],
+        "return": "WHAT!"
+    }
+]
