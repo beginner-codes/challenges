@@ -1,6 +1,6 @@
-# Challenge 590 - Minesweeper Number of Neighbouring Mines
+# Challenge 590 - Minesweeper Number of Neighboring Mines
 
-Create a function that takes a list representation of a Minesweeper board, and returns another board where the value of each cell is the number of neighbouring mines.
+Create a function that takes a list representation of a Minesweeper board, and returns another board where the value of each cell is the number of neighboring mines.
 
 ## Examples
 
