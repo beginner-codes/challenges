@@ -1,0 +1,68 @@
+[
+    {
+        "args": [
+            "EvilClone"
+        ],
+        "return": "EvilClone-inator 9000"
+    },
+    {
+        "args": [
+            "a"
+        ],
+        "return": "a-inator 1000"
+    },
+    {
+        "args": [
+            "Doom"
+        ],
+        "return": "Doominator 4000"
+    },
+    {
+        "args": [
+            "Destroy"
+        ],
+        "return": "Destroyinator 7000"
+    },
+    {
+        "args": [
+            "foo"
+        ],
+        "return": "foo-inator 3000"
+    },
+    {
+        "args": [
+            "Shrink"
+        ],
+        "return": "Shrinkinator 6000"
+    },
+    {
+        "args": [
+            "chu"
+        ],
+        "return": "chu-inator 3000"
+    },
+    {
+        "args": [
+            "Shrek"
+        ],
+        "return": "Shrekinator 5000"
+    },
+    {
+        "args": [
+            "i"
+        ],
+        "return": "i-inator 1000"
+    },
+    {
+        "args": [
+            "bEE"
+        ],
+        "return": "bEE-inator 3000"
+    },
+    {
+        "args": [
+            "CAPITALISE"
+        ],
+        "return": "CAPITALISE-inator 10000"
+    }
+]
