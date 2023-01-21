@@ -1,0 +1,38 @@
+[
+    {
+        "args": [
+            "aabbcd"
+        ],
+        "return": "NO"
+    },
+    {
+        "args": [
+            "abcc"
+        ],
+        "return": "YES"
+    },
+    {
+        "args": [
+            "abccc"
+        ],
+        "return": "NO"
+    },
+    {
+        "args": [
+            "abcdefghhgfedecba"
+        ],
+        "return": "YES"
+    },
+    {
+        "args": [
+            "aabbccddeefghi"
+        ],
+        "return": "NO"
+    },
+    {
+        "args": [
+            "abc"
+        ],
+        "return": "YES"
+    }
+]
