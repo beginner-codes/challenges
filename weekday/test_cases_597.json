@@ -1,0 +1,92 @@
+[
+    {
+        "args": [
+            [
+                "THE EYES",
+                "they see"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "trances",
+                "nectar"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "deltas",
+                "slated"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "assert",
+                "staring"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "arches",
+                "later"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "replays",
+                "adam"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "mastering",
+                "streaming"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "dale",
+                "caller"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "drapes",
+                "compadres"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "parses",
+                "parsecs"
+            ]
+        ],
+        "return": false
+    }
+]
