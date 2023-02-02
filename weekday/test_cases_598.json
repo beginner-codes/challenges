@@ -1,0 +1,74 @@
+[
+    {
+        "args": [
+            "shredded cheese"
+        ],
+        "return": "shredded cheese"
+    },
+    {
+        "args": [
+            "air plane"
+        ],
+        "return": "aired plane"
+    },
+    {
+        "args": [
+            "cheese burger"
+        ],
+        "return": "cheesed burger"
+    },
+    {
+        "args": [
+            "bean toast"
+        ],
+        "return": "beaned toast"
+    },
+    {
+        "args": [
+            "pumpkin pie"
+        ],
+        "return": "pumpkined pie"
+    },
+    {
+        "args": [
+            "lemon cheesecake"
+        ],
+        "return": "lemoned cheesecake"
+    },
+    {
+        "args": [
+            "salt water"
+        ],
+        "return": "salted water"
+    },
+    {
+        "args": [
+            "orange juice"
+        ],
+        "return": "oranged juice"
+    },
+    {
+        "args": [
+            "apple sauce"
+        ],
+        "return": "appled sauce"
+    },
+    {
+        "args": [
+            "girl friend"
+        ],
+        "return": "girled friend"
+    },
+    {
+        "args": [
+            "cheese cake"
+        ],
+        "return": "cheesed cake"
+    },
+    {
+        "args": [
+            "verb noun"
+        ],
+        "return": "verbed noun"
+    }
+]
