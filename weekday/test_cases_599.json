@@ -1,0 +1,107 @@
+[
+    {
+        "args": [
+            "a",
+            "b"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "cupid",
+            "dionysus"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "&!",
+            "!&"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "False",
+            "True"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "futile",
+            "elephant"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "yahtzee",
+            "easy"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "a",
+            "a"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "ratio",
+            "orator"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "mentee",
+            "eminem"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "5556",
+            "65"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "bush",
+            "hubris"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "sparkling",
+            "groups"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "",
+            "abc"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "&",
+            "&"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "",
+            ""
+        ],
+        "return": true
+    }
+]
