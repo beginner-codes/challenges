@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "75"
+        ],
+        "return": 75
+    },
+    {
+        "args": [
+            "one1two2twenty20"
+        ],
+        "return": 23
+    },
+    {
+        "args": [
+            "900uwu50uwuuwuuwu25uwu25"
+        ],
+        "return": 1000
+    },
+    {
+        "args": [
+            "aeiou5abc10"
+        ],
+        "return": 15
+    },
+    {
+        "args": [
+            "75shugeb15hvyff15"
+        ],
+        "return": 105
+    },
+    {
+        "args": [
+            "aeiou250abc10"
+        ],
+        "return": 260
+    },
+    {
+        "args": [
+            "1s1s11"
+        ],
+        "return": 13
+    }
+]
