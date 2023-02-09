@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "Such an amazing bowler."
+        ],
+        "return": "Such an amazing bowler."
+    },
+    {
+        "args": [
+            "A man with no haters."
+        ],
+        "return": "An absolute man with no haters."
+    },
+    {
+        "args": [
+            "A hero of the leaf"
+        ],
+        "return": "An absolute hero of the leaf"
+    },
+    {
+        "args": [
+            "I am a champion!!!"
+        ],
+        "return": "I am an absolute champion!!!"
+    },
+    {
+        "args": [
+            "That place is such a beauty"
+        ],
+        "return": "That place is such an absolute beauty"
+    }
+]
