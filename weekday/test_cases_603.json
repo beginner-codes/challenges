@@ -1,0 +1,62 @@
+[
+    {
+        "args": [
+            387482
+        ],
+        "return": "MEGA MEGA MEGA MEGA milestone"
+    },
+    {
+        "args": [
+            9999.9
+        ],
+        "return": "MEGA MEGA milestone"
+    },
+    {
+        "args": [
+            54
+        ],
+        "return": "not a mega milestone"
+    },
+    {
+        "args": [
+            143
+        ],
+        "return": "MEGA milestone"
+    },
+    {
+        "args": [
+            10000
+        ],
+        "return": "MEGA MEGA MEGA milestone"
+    },
+    {
+        "args": [
+            1000
+        ],
+        "return": "MEGA MEGA milestone"
+    },
+    {
+        "args": [
+            0
+        ],
+        "return": "not a mega milestone"
+    },
+    {
+        "args": [
+            20850088393226388232424
+        ],
+        "return": "MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA MEGA milestone"
+    },
+    {
+        "args": [
+            -9999.9
+        ],
+        "return": "MEGA MEGA milestone"
+    },
+    {
+        "args": [
+            710005
+        ],
+        "return": "MEGA MEGA MEGA MEGA milestone"
+    }
+]
