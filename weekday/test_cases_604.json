@@ -1,0 +1,32 @@
+[
+    {
+        "args": [
+            "foo"
+        ],
+        "return": "foo1"
+    },
+    {
+        "args": [
+            "foobar00599"
+        ],
+        "return": "foobar00600"
+    },
+    {
+        "args": [
+            "foo09999"
+        ],
+        "return": "foo10000"
+    },
+    {
+        "args": [
+            "foo099"
+        ],
+        "return": "foo100"
+    },
+    {
+        "args": [
+            "foobar01002"
+        ],
+        "return": "foobar01003"
+    }
+]
