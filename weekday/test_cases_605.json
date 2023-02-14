@@ -1,0 +1,242 @@
+[
+    {
+        "args": [
+            [
+                "share"
+            ],
+            [
+                "steal"
+            ]
+        ],
+        "return": [
+            2,
+            6
+        ]
+    },
+    {
+        "args": [
+            [
+                "steal"
+            ],
+            [
+                "share"
+            ]
+        ],
+        "return": [
+            6,
+            2
+        ]
+    },
+    {
+        "args": [
+            [
+                "steal",
+                "steal"
+            ],
+            [
+                "share",
+                "share"
+            ]
+        ],
+        "return": [
+            9,
+            1
+        ]
+    },
+    {
+        "args": [
+            [
+                "share",
+                "share",
+                "share"
+            ],
+            [
+                "steal",
+                "share",
+                "steal"
+            ]
+        ],
+        "return": [
+            3,
+            11
+        ]
+    },
+    {
+        "args": [
+            [
+                "steal",
+                "steal",
+                "steal",
+                "steal"
+            ],
+            [
+                "steal",
+                "steal",
+                "steal",
+                "steal"
+            ]
+        ],
+        "return": [
+            3,
+            3
+        ]
+    },
+    {
+        "args": [
+            [
+                "steal",
+                "steal",
+                "steal"
+            ],
+            [
+                "share",
+                "share",
+                "share"
+            ]
+        ],
+        "return": [
+            12,
+            0
+        ]
+    },
+    {
+        "args": [
+            [
+                "share",
+                "steal",
+                "steal",
+                "steal"
+            ],
+            [
+                "share",
+                "share",
+                "steal",
+                "share"
+            ]
+        ],
+        "return": [
+            11,
+            3
+        ]
+    },
+    {
+        "args": [
+            [
+                "steal"
+            ],
+            [
+                "steal"
+            ]
+        ],
+        "return": [
+            3,
+            3
+        ]
+    },
+    {
+        "args": [
+            [
+                "share",
+                "share"
+            ],
+            [
+                "share",
+                "share"
+            ]
+        ],
+        "return": [
+            7,
+            7
+        ]
+    },
+    {
+        "args": [
+            [
+                "share",
+                "share",
+                "steal",
+                "share"
+            ],
+            [
+                "steal",
+                "steal",
+                "steal",
+                "steal"
+            ]
+        ],
+        "return": [
+            0,
+            12
+        ]
+    },
+    {
+        "args": [
+            [
+                "share",
+                "share",
+                "steal",
+                "share"
+            ],
+            [
+                "steal",
+                "share",
+                "steal",
+                "steal"
+            ]
+        ],
+        "return": [
+            3,
+            11
+        ]
+    },
+    {
+        "args": [
+            [
+                "steal",
+                "share",
+                "steal",
+                "steal"
+            ],
+            [
+                "share",
+                "share",
+                "steal",
+                "steal"
+            ]
+        ],
+        "return": [
+            8,
+            4
+        ]
+    },
+    {
+        "args": [
+            [
+                "steal",
+                "share"
+            ],
+            [
+                "share",
+                "steal"
+            ]
+        ],
+        "return": [
+            5,
+            5
+        ]
+    },
+    {
+        "args": [
+            [
+                "share"
+            ],
+            [
+                "share"
+            ]
+        ],
+        "return": [
+            5,
+            5
+        ]
+    }
+]
