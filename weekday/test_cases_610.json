@@ -1,0 +1,56 @@
+[
+    {
+        "args": [
+            "jlm"
+        ],
+        "return": "k"
+    },
+    {
+        "args": [
+            "abdefg"
+        ],
+        "return": "c"
+    },
+    {
+        "args": [
+            "tuvxyz"
+        ],
+        "return": "w"
+    },
+    {
+        "args": [
+            "qrtuv"
+        ],
+        "return": "s"
+    },
+    {
+        "args": [
+            "rsu"
+        ],
+        "return": "t"
+    },
+    {
+        "args": [
+            "ghijklmno"
+        ],
+        "return": "No Missing Letter"
+    },
+    {
+        "args": [
+            "mnopqs"
+        ],
+        "return": "r"
+    },
+    {
+        "args": [
+            "eghij"
+        ],
+        "return": "f"
+    },
+    {
+        "args": [
+            "xyz"
+        ],
+        "return": "No Missing Letter"
+    }
+]
