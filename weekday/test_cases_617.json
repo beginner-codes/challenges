@@ -1,0 +1,64 @@
+[
+    {
+        "args": [
+            [
+                "small",
+                "big",
+                "medium"
+            ],
+            "sazymtb"
+        ],
+        "return": [
+            "small",
+            "medium",
+            "big"
+        ]
+    },
+    {
+        "args": [
+            [
+                "poof",
+                "floof",
+                "loop"
+            ],
+            "flatp"
+        ],
+        "return": [
+            "floof",
+            "loop",
+            "poof"
+        ]
+    },
+    {
+        "args": [
+            [
+                "apple",
+                "banana",
+                "cherry",
+                "date"
+            ],
+            "dbca"
+        ],
+        "return": [
+            "date",
+            "banana",
+            "cherry",
+            "apple"
+        ]
+    },
+    {
+        "args": [
+            [
+                "yellow",
+                "phone",
+                "book"
+            ],
+            "abcdpy"
+        ],
+        "return": [
+            "book",
+            "phone",
+            "yellow"
+        ]
+    }
+]
