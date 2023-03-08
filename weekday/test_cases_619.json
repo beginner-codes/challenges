@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "skies were so beautiful"
+        ],
+        "return": "s---s w--e so b-------l"
+    },
+    {
+        "args": [
+            "so many options"
+        ],
+        "return": "so m--y o-----s"
+    },
+    {
+        "args": [
+            "Harry went to fight the basilisk"
+        ],
+        "return": "H---y w--t to f---t t-e b------k"
+    },
+    {
+        "args": [
+            "the orient express"
+        ],
+        "return": "t-e o----t e-----s"
+    },
+    {
+        "args": [
+            "She rolled her eyes"
+        ],
+        "return": "S-e r----d h-r e--s"
+    },
+    {
+        "args": [
+            "went to the post office"
+        ],
+        "return": "w--t to t-e p--t o----e"
+    },
+    {
+        "args": [
+            "red is not my color"
+        ],
+        "return": "r-d is n-t my c---r"
+    }
+]
