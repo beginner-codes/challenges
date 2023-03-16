@@ -1,0 +1,84 @@
+[
+    {
+        "args": [
+            [
+                "J. L.",
+                "J. B. Priestley",
+                "L. C.",
+                "Suzanne Collins"
+            ]
+        ],
+        "return": [
+            "L. C.",
+            "Suzanne Collins",
+            "J. L.",
+            "J. B. Priestley"
+        ]
+    },
+    {
+        "args": [
+            [
+                "J. K. Rowling",
+                "w. s.",
+                "lewis carroll",
+                "M. M."
+            ]
+        ],
+        "return": [
+            "lewis carroll",
+            "M. M.",
+            "J. K. Rowling",
+            "w. s."
+        ]
+    },
+    {
+        "args": [
+            [
+                "J. L.",
+                "J. B. Priestley",
+                "L. C.",
+                "suzanne collins",
+                "W. S."
+            ]
+        ],
+        "return": [
+            "L. C.",
+            "suzanne collins",
+            "J. L.",
+            "J. B. Priestley",
+            "W. S."
+        ]
+    },
+    {
+        "args": [
+            [
+                "J. L.",
+                "J. B. priestley",
+                "L. C.",
+                "Suzanne Collins"
+            ]
+        ],
+        "return": [
+            "L. C.",
+            "Suzanne Collins",
+            "J. L.",
+            "J. B. priestley"
+        ]
+    },
+    {
+        "args": [
+            [
+                "J. K. Rowling",
+                "W. S.",
+                "Lewis Carroll",
+                "M. M."
+            ]
+        ],
+        "return": [
+            "Lewis Carroll",
+            "M. M.",
+            "J. K. Rowling",
+            "W. S."
+        ]
+    }
+]
