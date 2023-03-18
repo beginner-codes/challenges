@@ -1,0 +1,96 @@
+[
+    {
+        "args": [
+            [
+                "_1.rb",
+                "_2.rb",
+                "_3.rb",
+                "_4.rb"
+            ],
+            "prefix"
+        ],
+        "return": [
+            [
+                "_1.rb"
+            ],
+            [
+                "_2.rb"
+            ],
+            [
+                "_3.rb"
+            ],
+            [
+                "_4.rb"
+            ]
+        ]
+    },
+    {
+        "args": [
+            [
+                "project1.html",
+                "project2.html",
+                "project1.css",
+                "project2.css",
+                "project1.js",
+                "project2.js"
+            ],
+            "suffix"
+        ],
+        "return": [
+            [
+                "project1.html",
+                "project2.html"
+            ],
+            [
+                "project1.css",
+                "project2.css"
+            ],
+            [
+                "project1.js",
+                "project2.js"
+            ]
+        ]
+    },
+    {
+        "args": [
+            [
+                "_1.rb",
+                "_2.rb",
+                "_3.rb",
+                "_4.rb"
+            ],
+            "suffix"
+        ],
+        "return": [
+            [
+                "_1.rb",
+                "_2.rb",
+                "_3.rb",
+                "_4.rb"
+            ]
+        ]
+    },
+    {
+        "args": [
+            [
+                "music_app.js",
+                "music_app.png",
+                "music_app.wav",
+                "tetris.png",
+                "tetris.js"
+            ],
+            "prefix"
+        ],
+        "return": [
+            [
+                "music_app.js",
+                "music_app.png",
+                "music_app.wav"
+            ],
+            [
+                "tetris.png",
+                "tetris.js"
+            ]
+        ]
+    }
+]
