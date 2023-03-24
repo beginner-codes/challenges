@@ -1,0 +1,178 @@
+[
+    {
+        "args": [
+            []
+        ],
+        "return": "Nothing"
+    },
+    {
+        "args": [
+            [
+                "Dislike",
+                "Like",
+                "Dislike"
+            ]
+        ],
+        "return": "Dislike"
+    },
+    {
+        "args": [
+            [
+                "Dislike",
+                "Dislike"
+            ]
+        ],
+        "return": "Nothing"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Like",
+                "Like"
+            ]
+        ],
+        "return": "Like"
+    },
+    {
+        "args": [
+            [
+                "Dislike"
+            ]
+        ],
+        "return": "Dislike"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Like"
+            ]
+        ],
+        "return": "Nothing"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Dislike",
+                "Dislike"
+            ]
+        ],
+        "return": "Nothing"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Like",
+                "Dislike",
+                "Like",
+                "Like",
+                "Like",
+                "Like",
+                "Dislike"
+            ]
+        ],
+        "return": "Dislike"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Like",
+                "Like"
+            ]
+        ],
+        "return": "Like"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike",
+                "Like",
+                "Dislike"
+            ]
+        ],
+        "return": "Dislike"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Dislike"
+            ]
+        ],
+        "return": "Dislike"
+    },
+    {
+        "args": [
+            [
+                "Like",
+                "Like",
+                "Dislike",
+                "Like",
+                "Like",
+                "Like",
+                "Like",
+                "Dislike",
+                "Dislike",
+                "Like",
+                "Like",
+                "Like",
+                "Like",
+                "Dislike",
+                "Dislike",
+                "Like",
+                "Like",
+                "Like",
+                "Dislike",
+                "Dislike"
+            ]
+        ],
+        "return": "Nothing"
+    },
+    {
+        "args": [
+            [
+                "Dislike",
+                "Like"
+            ]
+        ],
+        "return": "Like"
+    }
+]
