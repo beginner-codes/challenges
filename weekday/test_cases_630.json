@@ -1,0 +1,50 @@
+[
+    {
+        "args": [
+            "zzzhhnnttti"
+        ],
+        "return": "zti"
+    },
+    {
+        "args": [
+            "bccddb"
+        ],
+        "return": "Empty String"
+    },
+    {
+        "args": [
+            "abbccddfghiaklmno"
+        ],
+        "return": "afghiaklmno"
+    },
+    {
+        "args": [
+            "qqq"
+        ],
+        "return": "q"
+    },
+    {
+        "args": [
+            "acdqglrfkqyuqfjkxyqvnrtysfrzrmzlygfveulqfpdbhlqdqrrqdqlhbdpfqluevfgylzmrzrfsytrnvqyxkjfquyqkfrlacdqj"
+        ],
+        "return": "acdqgacdqj"
+    },
+    {
+        "args": [
+            "nnncqwerhhhou"
+        ],
+        "return": "ncqwerhou"
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": "Empty String"
+    },
+    {
+        "args": [
+            "rthiioouusss"
+        ],
+        "return": "rths"
+    }
+]
