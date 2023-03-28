@@ -21,11 +21,11 @@ halflife_calculator(1000, 5730, 2) ➞ [250, 11460]
 ```
 ## Examples
 ```python
-halflife_calculator(1600, 6, 3) ➞ [200, 18]
+half_life_calculator(1600, 6, 3) ➞ [200, 18]
 
-halflife_calculator(13, 500, 1) ➞ [6.5, 500]
+half_life_calculator(13, 500, 1) ➞ [6.5, 500]
 
-halflife_calculator(100, 35, 5) ➞ [3.125, 175]
+half_life_calculator(100, 35, 5) ➞ [3.125, 175]
 ```
 ## Notes
 
@@ -47,7 +47,7 @@ from __future__ import annotations
 from beginnercodes.challenges import test
 
 
-def half_life_calculator(mass: int, half_life: int, elapsed_half_lives) -> list[float | int]:
+def half_life_calculator(mass: int, half_life: int, elapsed_half_lives: int) -> list[float | int]:
     return []  # Put your code here!!!
 
 
