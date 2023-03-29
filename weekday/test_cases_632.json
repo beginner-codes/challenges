@@ -1,0 +1,62 @@
+[
+    {
+        "args": [
+            "hheelloo"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "the misty examination pleases into the drab county"
+        ],
+        "return": "x"
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "what if the brainy boss ate the afternoon"
+        ],
+        "return": "w"
+    },
+    {
+        "args": [
+            "the sympathetic mixture rejects into the leafy objective"
+        ],
+        "return": "p"
+    },
+    {
+        "args": [
+            "it was then the frothy word met the round night"
+        ],
+        "return": "a"
+    },
+    {
+        "args": [
+            "the quick brown fox jumps then quickly blows air"
+        ],
+        "return": "f"
+    },
+    {
+        "args": [
+            "it was then the darling top met the whispering wing"
+        ],
+        "return": "d"
+    },
+    {
+        "args": [
+            "b"
+        ],
+        "return": "b"
+    },
+    {
+        "args": [
+            "is the remind zone better than the section"
+        ],
+        "return": "m"
+    }
+]
