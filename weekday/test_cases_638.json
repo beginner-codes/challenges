@@ -1,0 +1,78 @@
+[
+    {
+        "args": [
+            [
+                "greeting=Hello There!",
+                "dismissal=Goodbye!",
+                "thanks=Thank you!"
+            ]
+        ],
+        "return": {
+            "greeting": "Hello There!",
+            "dismissal": "Goodbye!",
+            "thanks": "Thank you!"
+        }
+    },
+    {
+        "args": [
+            [
+                "name=bob",
+                "balance=500",
+                "salary=10000",
+                "friends=0"
+            ]
+        ],
+        "return": {
+            "name": "bob",
+            "balance": "500",
+            "salary": "10000",
+            "friends": "0"
+        }
+    },
+    {
+        "args": [
+            [
+                "1=one",
+                "2=two",
+                "3=three",
+                "4=four"
+            ]
+        ],
+        "return": {
+            "1": "one",
+            "2": "two",
+            "3": "three",
+            "4": "four"
+        }
+    },
+    {
+        "args": [
+            [
+                "bob=human",
+                "lola=dog",
+                "mittens=cat",
+                "todd=frog"
+            ]
+        ],
+        "return": {
+            "bob": "human",
+            "lola": "dog",
+            "mittens": "cat",
+            "todd": "frog"
+        }
+    },
+    {
+        "args": [
+            [
+                "dog=bark",
+                "cat=meow",
+                "cow=moo"
+            ]
+        ],
+        "return": {
+            "dog": "bark",
+            "cat": "meow",
+            "cow": "moo"
+        }
+    }
+]
