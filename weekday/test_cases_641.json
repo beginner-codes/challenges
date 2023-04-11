@@ -1,0 +1,46 @@
+[
+    {
+        "args": [
+            [
+                5,
+                3,
+                6,
+                6,
+                7,
+                9
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "A",
+                2,
+                3
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            [
+                "A",
+                "J",
+                "K",
+                "Q"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            [
+                "A",
+                "J",
+                "K"
+            ]
+        ],
+        "return": false
+    }
+]
