@@ -1,0 +1,58 @@
+[
+    {
+        "args": [
+            [
+                86,
+                48,
+                100,
+                66
+            ]
+        ],
+        "return": "there is no 7 in the list"
+    },
+    {
+        "args": [
+            [
+                76,
+                55,
+                44,
+                32
+            ]
+        ],
+        "return": "Boom!"
+    },
+    {
+        "args": [
+            [
+                33,
+                68,
+                400,
+                5
+            ]
+        ],
+        "return": "there is no 7 in the list"
+    },
+    {
+        "args": [
+            [
+                2,
+                6,
+                7,
+                9,
+                3
+            ]
+        ],
+        "return": "Boom!"
+    },
+    {
+        "args": [
+            [
+                35,
+                4,
+                9,
+                37
+            ]
+        ],
+        "return": "Boom!"
+    }
+]
