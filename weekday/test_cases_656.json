@@ -1,0 +1,92 @@
+[
+    {
+        "args": [
+            [
+                "beginner.codes",
+                "flick",
+                "beginner",
+                "codes"
+            ]
+        ],
+        "return": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "args": [
+            [
+                "flick",
+                11037,
+                3.14,
+                53
+            ]
+        ],
+        "return": [
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "args": [
+            [
+                "flick",
+                "flick",
+                "flick",
+                "flick",
+                "flick"
+            ]
+        ],
+        "return": [
+            false,
+            true,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "args": [
+            []
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            [
+                [
+                    "john",
+                    "smith",
+                    "susan"
+                ],
+                "flick"
+            ]
+        ],
+        "return": [
+            true,
+            false
+        ]
+    },
+    {
+        "args": [
+            [
+                false,
+                false,
+                "flick",
+                "sheep",
+                "flick"
+            ]
+        ],
+        "return": [
+            true,
+            true,
+            false,
+            false,
+            true
+        ]
+    }
+]
