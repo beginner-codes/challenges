@@ -10,13 +10,13 @@ Create a function that takes an array of gold piles and returns a two-element ar
 ## Examples
 ```python
 gold_distribution([4, 2, 9, 5, 2, 7]) ➞ [14, 15]
-# Mubashir will choose 7, Remaining piles = [4, 2, 9, 5, 2]
-# Matt will choose 4, Remaining piles = [2, 9, 5, 2]
-# Mubashir will choose 2, Remaining piles = [9, 5, 2]
-# Matt will choose 9, Remaining piles = [5, 2]
-# Mubashir will choose 5, Remaining piles = [2]
-# Matt will choose 2
-# Mubashir = 7+2+5 = 14, Matt = 4+9+2 = 15
+# You will choose 7, Remaining piles = [4, 2, 9, 5, 2]
+# Your friend will choose 4, Remaining piles = [2, 9, 5, 2]
+# You will choose 2, Remaining piles = [9, 5, 2]
+# Your friend will choose 9, Remaining piles = [5, 2]
+# You will choose 5, Remaining piles = [2]
+# Your friend will choose 2
+# You = 7+2+5 = 14, Your Friend = 4+9+2 = 15
 
 gold_distribution([10, 1000, 2, 1]) ➞ [12, 1001]
 
