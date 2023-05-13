@@ -1,0 +1,30 @@
+[
+    {
+        "args": [
+            "ab c",
+            "abc ab"
+        ],
+        "return": "ba cba"
+    },
+    {
+        "args": [
+            "gaderypoluki",
+            "This is an encrypted message"
+        ],
+        "return": "Thks ks gn dncyrotde mdssgad"
+    },
+    {
+        "args": [
+            "otorhinolaryngological",
+            "My name is Paul"
+        ],
+        "return": "Mr olme hs Plua"
+    },
+    {
+        "args": [
+            "1234567890",
+            "1029384756"
+        ],
+        "return": "2910473865"
+    }
+]
