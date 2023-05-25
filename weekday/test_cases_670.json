@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "abc"
+        ],
+        "return": 1
+    },
+    {
+        "args": [
+            "LVLVLVLV"
+        ],
+        "return": 4
+    },
+    {
+        "args": [
+            "abcabcabc"
+        ],
+        "return": 3
+    },
+    {
+        "args": [
+            "aabaab"
+        ],
+        "return": 2
+    },
+    {
+        "args": [
+            "inkinkinkinkinkink"
+        ],
+        "return": 6
+    },
+    {
+        "args": [
+            "abcdabcdabcdabcdabcdabcdabcd"
+        ],
+        "return": 7
+    },
+    {
+        "args": [
+            "abab"
+        ],
+        "return": 2
+    }
+]
