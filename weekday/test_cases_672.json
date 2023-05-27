@@ -1,0 +1,58 @@
+[
+    {
+        "args": [
+            "bbutl",
+            "beautiful"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "tulb",
+            "beautiful"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "siing",
+            "something"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "sgi",
+            "something"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "butl",
+            "beautiful"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "sg",
+            "something"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "butlz",
+            "beautiful"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "sing",
+            "something"
+        ],
+        "return": true
+    }
+]
