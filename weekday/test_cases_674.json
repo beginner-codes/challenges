@@ -1,0 +1,61 @@
+[
+    {
+        "args": [
+            {
+                "product": "Milk",
+                "price": 1.5
+            }
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            null
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            {
+                "product": "Beer",
+                "price": null
+            }
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            {
+                "product": "Eggs",
+                "price": 0
+            }
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            {
+                "product": "Flour"
+            }
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            {
+                "product": "Cerials",
+                "price": "3.0"
+            }
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            {
+                "product": "Cheese",
+                "price": -1
+            }
+        ],
+        "return": false
+    }
+]
