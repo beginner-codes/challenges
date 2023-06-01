@@ -1,0 +1,51 @@
+[
+    {
+        "args": [
+            {
+                "Apple": "$4",
+                "Honey": "$3",
+                "Fan": "$14",
+                "Bananas": "$4",
+                "Pan": "$100",
+                "Spoon": "$2"
+            },
+            "$100"
+        ],
+        "return": [
+            "Apple",
+            "Bananas",
+            "Fan",
+            "Honey",
+            "Pan",
+            "Spoon"
+        ]
+    },
+    {
+        "args": [
+            {
+                "Phone": "$999",
+                "Speakers": "$300",
+                "Laptop": "$5,000",
+                "PC": "$1200"
+            },
+            "$1"
+        ],
+        "return": "Nothing"
+    },
+    {
+        "args": [
+            {
+                "Water": "$1",
+                "Bread": "$3",
+                "TV": "$1,000",
+                "Fertilizer": "$20"
+            },
+            "$300"
+        ],
+        "return": [
+            "Bread",
+            "Fertilizer",
+            "Water"
+        ]
+    }
+]
