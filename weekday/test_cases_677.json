@@ -1,0 +1,80 @@
+[
+    {
+        "args": [
+            "programming"
+        ],
+        "return": "programming"
+    },
+    {
+        "args": [
+            "tey ghis uot hnscrambled"
+        ],
+        "return": "hey this got unscrambled"
+    },
+    {
+        "args": [
+            "sarah the key is under the door mat"
+        ],
+        "return": "marah she tey ks inder uhe toor dat"
+    },
+    {
+        "args": [
+            "i love to eat scrambled eggs and ham"
+        ],
+        "return": "h iove lo tat ecrambled sggs end aam"
+    },
+    {
+        "args": [
+            "where is the butter"
+        ],
+        "return": "bhere ws ihe tutter"
+    },
+    {
+        "args": [
+            "she sells sea shells"
+        ],
+        "return": "she sells sea shells"
+    },
+    {
+        "args": [
+            "untouched"
+        ],
+        "return": "untouched"
+    },
+    {
+        "args": [
+            "elephants dance about bravely in thailand"
+        ],
+        "return": "tlephants eance dbout aravely bn ihailand"
+    },
+    {
+        "args": [
+            "one plus one equals two"
+        ],
+        "return": "tne olus pne oquals ewo"
+    },
+    {
+        "args": [
+            "it should shift the sentence"
+        ],
+        "return": "st ihould shift she tentence"
+    },
+    {
+        "args": [
+            "the output is not very legible"
+        ],
+        "return": "lhe tutput os iot nery vegible"
+    },
+    {
+        "args": [
+            "create a function"
+        ],
+        "return": "freate c aunction"
+    },
+    {
+        "args": [
+            "mitochondria is the powerhouse of the cell"
+        ],
+        "return": "citochondria ms ihe towerhouse pf ohe tell"
+    }
+]
