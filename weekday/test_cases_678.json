@@ -1,0 +1,50 @@
+[
+    {
+        "args": [
+            "#Finally, a test!"
+        ],
+        "return": "#Finally"
+    },
+    {
+        "args": [
+            "Follow @JavaScript"
+        ],
+        "return": "@JavaScript"
+    },
+    {
+        "args": [
+            "The @committee consists of #eminent #jurists."
+        ],
+        "return": "@committee #eminent #jurists"
+    },
+    {
+        "args": [
+            "@RonaldRoss was awarded the Nobel Prize for his work on the transmission of #malaria."
+        ],
+        "return": "@RonaldRoss #malaria"
+    },
+    {
+        "args": [
+            "Visit us at @beginnercodes"
+        ],
+        "return": "@beginnercodes"
+    },
+    {
+        "args": [
+            "This is #definitely, the @second test"
+        ],
+        "return": "#definitely @second"
+    },
+    {
+        "args": [
+            "#Paris is the capital of #France."
+        ],
+        "return": "#Paris #France"
+    },
+    {
+        "args": [
+            "#Honesty is the best @policy!!"
+        ],
+        "return": "#Honesty @policy"
+    }
+]
