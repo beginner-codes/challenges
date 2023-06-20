@@ -1,0 +1,38 @@
+[
+    {
+        "args": [
+            "alternating caps"
+        ],
+        "return": "AlTeRnAtInG cApS"
+    },
+    {
+        "args": [
+            "The quick brown fox jumps over the lazy dog"
+        ],
+        "return": "ThE qUiCk BrOwN fOx JuMpS oVeR tHe LaZy DoG"
+    },
+    {
+        "args": [
+            "What is your name?"
+        ],
+        "return": "WhAt Is YoUr NaMe?"
+    },
+    {
+        "args": [
+            "The intent is to provide players with a sense of pride and accomplishment for unlocking different heroes."
+        ],
+        "return": "ThE iNtEnT iS tO pRoViDe PlAyErS wItH a SeNsE oF pRiDe AnD aCcOmPlIsHmEnT fOr UnLoCkInG dIfFeReNt HeRoEs."
+    },
+    {
+        "args": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        ],
+        "return": "LoReM iPsUm DoLoR sIt AmEt CoNsEcTeTuR aDiPiSiCiNg ElIt."
+    },
+    {
+        "args": [
+            "OMG this website is awesome!"
+        ],
+        "return": "OmG tHiS wEbSiTe Is AwEsOmE!"
+    }
+]
