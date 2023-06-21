@@ -1,0 +1,65 @@
+[
+    {
+        "args": [
+            9111922229333339,
+            9559669779
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            888,
+            888
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            451999277,
+            41177722899
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            1222345,
+            12345
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            12345,
+            12345
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            10560002,
+            100
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            666789,
+            12345667
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            444,
+            44
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            1,
+            1
+        ],
+        "return": false
+    }
+]
