@@ -1,0 +1,57 @@
+[
+    {
+        "args": [
+            "happiness",
+            "envelope"
+        ],
+        "return": [
+            "enp",
+            "ahis",
+            "lov"
+        ]
+    },
+    {
+        "args": [
+            "kerfuffle",
+            "fluffy"
+        ],
+        "return": [
+            "flu",
+            "ekr",
+            "y"
+        ]
+    },
+    {
+        "args": [
+            "match",
+            "ham"
+        ],
+        "return": [
+            "ahm",
+            "ct",
+            ""
+        ]
+    },
+    {
+        "args": [
+            "sharp",
+            "soap"
+        ],
+        "return": [
+            "aps",
+            "hr",
+            "o"
+        ]
+    },
+    {
+        "args": [
+            "board",
+            "bored"
+        ],
+        "return": [
+            "bdor",
+            "a",
+            "e"
+        ]
+    }
+]
