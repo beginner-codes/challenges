@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "one zero one"
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            "TWO one zero one one zero one zero"
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            "TWO one zero one one zero one zero one"
+        ],
+        "return": "10110101"
+    },
+    {
+        "args": [
+            "One zero zero one zero one one one zero one one zero zero zero zero one zero one one one zero one one zero zero zero zero one zero one one one zero one one zero zero zero zero one zero one one one zero one one zero zero zero zero one zero one one one zero one one zero zero zero zero one zero"
+        ],
+        "return": "1001011101100001011101100001011101100001011101100001011101100001"
+    },
+    {
+        "args": [
+            "one Zero zero one zero zero one one one one one zero oNe one one zero one zerO"
+        ],
+        "return": "1001001111101110"
+    },
+    {
+        "args": [
+            "one one one one zero zero zero zero"
+        ],
+        "return": "11110000"
+    },
+    {
+        "args": [
+            "one zero zero one zero ten one one one one two"
+        ],
+        "return": "10010111"
+    }
+]
