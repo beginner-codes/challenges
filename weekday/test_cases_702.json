@@ -1,0 +1,114 @@
+[
+    {
+        "args": [
+            "3619"
+        ],
+        "return": [
+            "Slide",
+            "Pop",
+            "Slide",
+            "Pirouette"
+        ]
+    },
+    {
+        "args": [
+            "9104"
+        ],
+        "return": [
+            "Arabesque",
+            "Pirouette",
+            "Pirouette",
+            "Pop"
+        ]
+    },
+    {
+        "args": [
+            "0123"
+        ],
+        "return": [
+            "Shimmy",
+            "Pirouette",
+            "Box Step",
+            "Dosado"
+        ]
+    },
+    {
+        "args": [
+            "8765"
+        ],
+        "return": [
+            "Lock",
+            "Lock",
+            "Lock",
+            "Lock"
+        ]
+    },
+    {
+        "args": [
+            "0000"
+        ],
+        "return": [
+            "Shimmy",
+            "Shake",
+            "Pirouette",
+            "Slide"
+        ]
+    },
+    {
+        "args": [
+            "5555"
+        ],
+        "return": [
+            "Headspin",
+            "Dosado",
+            "Pop",
+            "Lock"
+        ]
+    },
+    {
+        "args": [
+            "834"
+        ],
+        "return": "Invalid input."
+    },
+    {
+        "args": [
+            "a95f"
+        ],
+        "return": "Invalid input."
+    },
+    {
+        "args": [
+            "+493"
+        ],
+        "return": "Invalid input."
+    },
+    {
+        "args": [
+            "8888"
+        ],
+        "return": [
+            "Lock",
+            "Arabesque",
+            "Shimmy",
+            "Shake"
+        ]
+    },
+    {
+        "args": [
+            "9742"
+        ],
+        "return": [
+            "Arabesque",
+            "Lock",
+            "Dosado",
+            "Headspin"
+        ]
+    },
+    {
+        "args": [
+            "-324"
+        ],
+        "return": "Invalid input."
+    }
+]
