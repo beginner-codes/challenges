@@ -1,0 +1,51 @@
+[
+    {
+        "args": [
+            "12:00 PM",
+            "12:00 PM"
+        ],
+        "return": "no time passed"
+    },
+    {
+        "args": [
+            "2:00 AM",
+            "3:00 PM"
+        ],
+        "return": "13 hours"
+    },
+    {
+        "args": [
+            "3:00 AM",
+            "9:00 AM"
+        ],
+        "return": "6 hours"
+    },
+    {
+        "args": [
+            "1:00 AM",
+            "1:00 AM"
+        ],
+        "return": "no time passed"
+    },
+    {
+        "args": [
+            "1:00 AM",
+            "3:00 PM"
+        ],
+        "return": "14 hours"
+    },
+    {
+        "args": [
+            "8:00 AM",
+            "8:00 PM"
+        ],
+        "return": "12 hours"
+    },
+    {
+        "args": [
+            "2:00 PM",
+            "4:00 PM"
+        ],
+        "return": "2 hours"
+    }
+]
