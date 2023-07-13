@@ -1,0 +1,86 @@
+[
+    {
+        "args": [
+            1
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            1441
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            102102
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            348
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            2
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            666
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            5
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            3
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            9
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            77778
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            533170
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            65
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            99
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            297
+        ],
+        "return": true
+    }
+]
