@@ -1,0 +1,39 @@
+[
+    {
+        "args": [
+            "The poor ostrich was ostracized."
+        ],
+        "return": [
+            "ostrich",
+            "ostracized"
+        ]
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            "Exercising is a healthy way to burn off energy."
+        ],
+        "return": [
+            "exercising",
+            "is",
+            "a",
+            "off",
+            "energy"
+        ]
+    },
+    {
+        "args": [
+            "A simple life is a happy life for me."
+        ],
+        "return": [
+            "a",
+            "is",
+            "a"
+        ]
+    }
+]
