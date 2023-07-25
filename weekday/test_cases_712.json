@@ -1,0 +1,79 @@
+[
+    {
+        "args": [
+            [
+                "-/>",
+                "10bc",
+                "abc "
+            ]
+        ],
+        "return": [
+            "10bc"
+        ]
+    },
+    {
+        "args": [
+            [
+                "abc",
+                "abc10"
+            ]
+        ],
+        "return": [
+            "abc10"
+        ]
+    },
+    {
+        "args": [
+            [
+                "this IS",
+                "10xYZ",
+                "xy2K77",
+                "Z1K2W0",
+                "xYz"
+            ]
+        ],
+        "return": [
+            "10xYZ",
+            "xy2K77",
+            "Z1K2W0"
+        ]
+    },
+    {
+        "args": [
+            [
+                "rct",
+                "ABC",
+                "Test",
+                "xYz"
+            ]
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            [
+                "abc",
+                "ab10c",
+                "a10bc",
+                "bcd"
+            ]
+        ],
+        "return": [
+            "ab10c",
+            "a10bc"
+        ]
+    },
+    {
+        "args": [
+            [
+                "1",
+                "a",
+                " ",
+                "b"
+            ]
+        ],
+        "return": [
+            "1"
+        ]
+    }
+]
