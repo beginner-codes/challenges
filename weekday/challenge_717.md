@@ -37,7 +37,7 @@ def collatz(a: int, b: int) -> str:
     return ""  # Put your code here!!!
 
 
-test(711, collatz)  # Tell it which challenge to test against
+test(717, collatz)  # Tell it which challenge to test against
 ```
 And here's the JSON.
 ```json
