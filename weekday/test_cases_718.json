@@ -1,0 +1,98 @@
+[
+    {
+        "args": [
+            "the hostess made pecan pie",
+            "h",
+            "p"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "barry the butterfly flew away",
+            "b",
+            "f"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "maria makes money",
+            "m",
+            "o"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "moody muggles",
+            "m",
+            "o"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "moody muggles",
+            "m",
+            "g"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "knaves knew about waterfalls",
+            "k",
+            "w"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "sharp cheddar biscuit",
+            "t",
+            "s"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "taken by the beautiful sunrise",
+            "u",
+            "s"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "precarious kangaroos",
+            "k",
+            "a"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "maria makes money",
+            "m",
+            "i"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "happy birthday",
+            "a",
+            "y"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "a rabbit jumps joyfully",
+            "a",
+            "j"
+        ],
+        "return": true
+    }
+]
