@@ -1,0 +1,86 @@
+[
+    {
+        "args": [
+            "for an angel",
+            "angel forest nymph awaken"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "dool",
+            "ken doll"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "foolish prides",
+            "foolish pride"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "long high add or",
+            "highway road go long"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "world of make believe",
+            "make believe world"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "skin man i",
+            "man in mask"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "sit on top",
+            "its a moo point"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "gate im in",
+            "magnetizing"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "solar to oven",
+            "love desolate rose thorn"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "fill tuck mid",
+            "truck falls dim"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "moreso",
+            "mount rushmore"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "got 2 go",
+            "go go go 2 today"
+        ],
+        "return": true
+    }
+]
