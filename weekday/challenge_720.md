@@ -28,7 +28,7 @@ from __future__ import annotations
 from beginnercodes.challenges import test
 
 
-def change_string(string: str) -> string:
+def change_string(string: str) -> str:
     return ""  # Put your code here!!!
 
 
