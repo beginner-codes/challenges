@@ -1,0 +1,20 @@
+[
+    {
+        "args": [
+            "magicCarrots"
+        ],
+        "return": "magic_carrots"
+    },
+    {
+        "args": [
+            "greatApples for aSmellyRhino"
+        ],
+        "return": "great_apples for a_smelly_rhino"
+    },
+    {
+        "args": [
+            "th1sSh0uldB3FineT00"
+        ],
+        "return": "th1s_sh0uld_b3_fine_t00"
+    }
+]
