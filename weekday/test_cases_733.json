@@ -1,0 +1,42 @@
+[
+  {
+    "args": [
+      [
+        "east",
+        "EAST",
+        "eastEAST"
+      ]
+    ],
+    "return": [
+      "west",
+      "WEST",
+      "westWEST"
+    ]
+  },
+  {
+    "args": [
+      [
+        "eAsT EaSt",
+        "EaSt eAsT"
+      ]
+    ],
+    "return": [
+      "wEsT WeSt",
+      "WeSt wEsT"
+    ]
+  },
+  {
+    "args": [
+      [
+        "east EAST",
+        "e a s t",
+        "E A S T"
+      ]
+    ],
+    "return": [
+      "west WEST",
+      "w e s t",
+      "W E S T"
+    ]
+  }
+]
