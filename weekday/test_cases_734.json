@@ -1,0 +1,32 @@
+[
+  {
+    "args": [
+      "======2+++4+u===+i+"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "+u+====3+mmmmm===m++"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "+d+=3=+s+"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "==+p+++++++++====8+z++++"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "f++d+"
+    ],
+    "return": false
+  }
+]
