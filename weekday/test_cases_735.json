@@ -1,0 +1,50 @@
+[
+  {
+    "args": [
+      111
+    ],
+    "return": "balanced"
+  },
+  {
+    "args": [
+      585585
+    ],
+    "return": "balanced"
+  },
+  {
+    "args": [
+      5855
+    ],
+    "return": "left"
+  },
+  {
+    "args": [
+      5558
+    ],
+    "return": "right"
+  },
+  {
+    "args": [
+      3449
+    ],
+    "return": "right"
+  },
+  {
+    "args": [
+      1143113
+    ],
+    "return": "left"
+  },
+  {
+    "args": [
+      1
+    ],
+    "return": "balanced"
+  },
+  {
+    "args": [
+      11
+    ],
+    "return": "balanced"
+  }
+]
