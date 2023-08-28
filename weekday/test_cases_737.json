@@ -1,0 +1,120 @@
+[
+  {
+    "args": [
+      [
+        "Black-Crowned Night Heron",
+        "Northern Mockingbird",
+        "Eastern Meadowlark",
+        "Dark-Eyed Junco",
+        "Red-Bellied Woodpecker"
+      ]
+    ],
+    "return": [
+      "BCNH",
+      "NOMO",
+      "EAME",
+      "DEJU",
+      "RBWO"
+    ]
+  },
+  {
+    "args": [
+      [
+        "Fox Sparrow",
+        "White-Winged Crossbill",
+        "Veery",
+        "American Coot",
+        "Sora",
+        "Northern Rough-Winged Swallow",
+        "Purple Martin"
+      ]
+    ],
+    "return": [
+      "FOSP",
+      "WWCR",
+      "VEER",
+      "AMCO",
+      "SORA",
+      "NRWS",
+      "PUMA"
+    ]
+  },
+  {
+    "args": [
+      [
+        "American Redstart",
+        "Northern Cardinal",
+        "Pine Grosbeak",
+        "Barred Owl",
+        "Starling",
+        "Cooper's Hawk",
+        "Pigeon"
+      ]
+    ],
+    "return": [
+      "AMRE",
+      "NOCA",
+      "PIGR",
+      "BAOW",
+      "STAR",
+      "COHA",
+      "PIGE"
+    ]
+  },
+  {
+    "args": [
+      [
+        "Common Tern",
+        "Black-Capped Chickadee"
+      ]
+    ],
+    "return": [
+      "COTE",
+      "BCCH"
+    ]
+  },
+  {
+    "args": [
+      [
+        "Great Crested Flycatcher",
+        "Bobolink",
+        "American White Pelican",
+        "Red-Tailed Hawk",
+        "Eastern Screech Owl",
+        "Blue Jay"
+      ]
+    ],
+    "return": [
+      "GCFL",
+      "BOBO",
+      "AWPE",
+      "RTHA",
+      "ESOW",
+      "BLJA"
+    ]
+  },
+  {
+    "args": [
+      [
+        "Scarlet Tanager",
+        "Great Blue Heron",
+        "Eastern Phoebe",
+        "American Black Duck",
+        "Mallard",
+        "Canvasback",
+        "Merlin",
+        "Ovenbird"
+      ]
+    ],
+    "return": [
+      "SCTA",
+      "GBHE",
+      "EAPH",
+      "ABDU",
+      "MALL",
+      "CANV",
+      "MERL",
+      "OVEN"
+    ]
+  }
+]
