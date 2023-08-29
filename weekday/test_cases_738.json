@@ -1,0 +1,50 @@
+[
+  {
+    "args": [
+      "the eagle swooped down low"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "beneficial luggage"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "creative environment"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "this is not a drill"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "the large appliances"
+    ],
+    "return": true
+  },
+  {
+    "args": [
+      "the quick brown fox was sad"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "an open fire"
+    ],
+    "return": false
+  },
+  {
+    "args": [
+      "the sudden applause"
+    ],
+    "return": false
+  }
+]
