@@ -1,0 +1,76 @@
+[
+    {
+        "args": [
+            [
+                "music",
+                "madness",
+                "maniac",
+                "motion"
+            ]
+        ],
+        "return": [
+            "m"
+        ]
+    },
+    {
+        "args": [
+            [
+                "apple",
+                "bandage",
+                "yodel",
+                "make"
+            ]
+        ],
+        "return": [
+            "a",
+            "e"
+        ]
+    },
+    {
+        "args": [
+            [
+                "the",
+                "hills",
+                "are",
+                "alive",
+                "with",
+                "the",
+                "sound",
+                "of",
+                "music"
+            ]
+        ],
+        "return": [
+            "e",
+            "h",
+            "i"
+        ]
+    },
+    {
+        "args": [
+            [
+                "let",
+                "them",
+                "eat",
+                "cake"
+            ]
+        ],
+        "return": [
+            "e"
+        ]
+    },
+    {
+        "args": [
+            [
+                "potion",
+                "master",
+                "professor",
+                "snape"
+            ]
+        ],
+        "return": [
+            "o",
+            "s"
+        ]
+    }
+]
