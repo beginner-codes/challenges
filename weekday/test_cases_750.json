@@ -1,0 +1,79 @@
+[
+    {
+        "args": [
+            "you will start to race",
+            "the waiting Place"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "down by the bay",
+            "where the watermelons grow"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "head straight to town",
+            "give me not a frown"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Sam I am!",
+            "Green eggs and ham."
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "and frequently do?",
+            "you gotta move."
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Sam I am!",
+            "Green eggs and HAM."
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "All that waiting and staying.",
+            "where the band are playing."
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "back to my home",
+            "i dare not go"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "You are off to the races",
+            "a splendid day."
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "your elbow and chin!",
+            "how much can you win?"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "with an unpleasant bump",
+            "in a slump"
+        ],
+        "return": true
+    }
+]
