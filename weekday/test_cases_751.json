@@ -1,0 +1,140 @@
+[
+    {
+        "args": [
+            8337738
+        ],
+        "return": "Neither!"
+    },
+    {
+        "args": [
+            1306031
+        ],
+        "return": "Decimal only."
+    },
+    {
+        "args": [
+            4
+        ],
+        "return": "Decimal only."
+    },
+    {
+        "args": [
+            7115931
+        ],
+        "return": "Binary only."
+    },
+    {
+        "args": [
+            14441
+        ],
+        "return": "Decimal only."
+    },
+    {
+        "args": [
+            585585
+        ],
+        "return": "Decimal and binary."
+    },
+    {
+        "args": [
+            8494948
+        ],
+        "return": "Decimal only."
+    },
+    {
+        "args": [
+            313
+        ],
+        "return": "Decimal and binary."
+    },
+    {
+        "args": [
+            456
+        ],
+        "return": "Neither!"
+    },
+    {
+        "args": [
+            3664663
+        ],
+        "return": "Decimal only."
+    },
+    {
+        "args": [
+            6286333
+        ],
+        "return": "Binary only."
+    },
+    {
+        "args": [
+            7447
+        ],
+        "return": "Decimal and binary."
+    },
+    {
+        "args": [
+            932
+        ],
+        "return": "Neither!"
+    },
+    {
+        "args": [
+            48084
+        ],
+        "return": "Decimal only."
+    },
+    {
+        "args": [
+            1903127
+        ],
+        "return": "Binary only."
+    },
+    {
+        "args": [
+            7
+        ],
+        "return": "Decimal and binary."
+    },
+    {
+        "args": [
+            1
+        ],
+        "return": "Decimal and binary."
+    },
+    {
+        "args": [
+            101
+        ],
+        "return": "Decimal only."
+    },
+    {
+        "args": [
+            9994521
+        ],
+        "return": "Binary only."
+    },
+    {
+        "args": [
+            18985
+        ],
+        "return": "Binary only."
+    },
+    {
+        "args": [
+            5841485
+        ],
+        "return": "Decimal and binary."
+    },
+    {
+        "args": [
+            427787
+        ],
+        "return": "Binary only."
+    },
+    {
+        "args": [
+            1934391
+        ],
+        "return": "Decimal and binary."
+    }
+]
