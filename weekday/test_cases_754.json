@@ -1,0 +1,56 @@
+[
+    {
+        "args": [
+            2924
+        ],
+        "return": "Amicable"
+    },
+    {
+        "args": [
+            5566
+        ],
+        "return": "Neither"
+    },
+    {
+        "args": [
+            5010
+        ],
+        "return": "Neither"
+    },
+    {
+        "args": [
+            8128
+        ],
+        "return": "Perfect"
+    },
+    {
+        "args": [
+            10744
+        ],
+        "return": "Amicable"
+    },
+    {
+        "args": [
+            6
+        ],
+        "return": "Perfect"
+    },
+    {
+        "args": [
+            17296
+        ],
+        "return": "Amicable"
+    },
+    {
+        "args": [
+            498
+        ],
+        "return": "Neither"
+    },
+    {
+        "args": [
+            66992
+        ],
+        "return": "Amicable"
+    }
+]
