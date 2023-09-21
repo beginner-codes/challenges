@@ -1,0 +1,44 @@
+[
+    {
+        "args": [
+            "I have a cat. I have a mat. Things are going swell.",
+            "flat"
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            "I have a cat. I have a mat. Things are going swell.",
+            "cat"
+        ],
+        "return": "I have a cat."
+    },
+    {
+        "args": [
+            "I have a cat. I have a mat. Things are going swell.",
+            "things"
+        ],
+        "return": "Things are going swell."
+    },
+    {
+        "args": [
+            "I have a cat. I have a mat. Things are going swell.",
+            "MAT"
+        ],
+        "return": "I have a mat."
+    },
+    {
+        "args": [
+            "I have a cat. I have a mat. Things are going swell.",
+            "swell"
+        ],
+        "return": "Things are going swell."
+    },
+    {
+        "args": [
+            "I have a cat. I have a mat. Things are going swell.",
+            "Have"
+        ],
+        "return": "I have a cat."
+    }
+]
