@@ -2,7 +2,7 @@
 
 A list that represents a Binary Tree is in the following form:
 ```python
-binary_tree = [value, right, right]
+binary_tree = [value, left, right]
 ```
 When `left` is the left side of the tree and `right` is the right side of the tree.
 
