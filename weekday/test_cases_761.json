@@ -1,0 +1,92 @@
+[
+    {
+        "args": [
+            "#ZCCZCC"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "#123456"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "#CD5C&C"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "#123CCCD"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "#987654"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "#eaecee"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "#EAECEE"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "#Z88!99"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "CD5C5C"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "#CD5C5C"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "#Z88Z99"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "#CCCCCC"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "#CD5C5Z"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "#9876543"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "#CD5C58C"
+        ],
+        "return": false
+    }
+]
