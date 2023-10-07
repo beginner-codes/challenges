@@ -1,0 +1,172 @@
+[
+    {
+        "args": [
+            "Matt Damon",
+            [
+                "madman"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Kristen Stewart",
+            [
+                "trinkets",
+                "war",
+                "set"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Graham Norton",
+            [
+                "graham",
+                "not",
+                "or"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Jeff Goldblum",
+            [
+                "jog",
+                "meld",
+                "bluffs"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Blake Shelton",
+            [
+                "betoken",
+                "all",
+                "she"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Miley Cyrus",
+            [
+                "lyric",
+                "my",
+                "suer"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Chris Pratt",
+            [
+                "chirps",
+                "rat"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Tom Hiddleston",
+            [
+                "tenths",
+                "mood",
+                "lid"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Ryan Reynolds",
+            [
+                "yonder",
+                "sly",
+                "ran"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Justin Bieber",
+            [
+                "injures",
+                "ebb",
+                "it"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Emma Watson",
+            [
+                "mows",
+                "meant",
+                "a"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Daniel Radcliffe",
+            [
+                "clarified",
+                "elf",
+                "and"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Adam Levine",
+            [
+                "medieval",
+                "man"
+            ]
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "Blake Lively",
+            [
+                "key",
+                "veal",
+                "bill"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Natalie Portman",
+            [
+                "ornamental",
+                "pita"
+            ]
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "Taylor Swift",
+            [
+                "stratify",
+                "ow"
+            ]
+        ],
+        "return": false
+    }
+]
