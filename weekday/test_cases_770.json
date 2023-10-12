@@ -1,0 +1,973 @@
+[
+    {
+        "args": [
+            [
+                "knighthood",
+                "parental",
+                "fridge",
+                "clingfilm"
+            ]
+        ],
+        "return": "parental"
+    },
+    {
+        "args": [
+            [
+                "front",
+                "economist",
+                "sector",
+                "camp"
+            ]
+        ],
+        "return": "sector"
+    },
+    {
+        "args": [
+            [
+                "vain",
+                "nature",
+                "garlic",
+                "garlic",
+                "inspire",
+                "thoughtful",
+                "winner",
+                "blade",
+                "pillow",
+                "fair",
+                "goat",
+                "bell",
+                "lounge",
+                "fair"
+            ]
+        ],
+        "return": "thoughtful"
+    },
+    {
+        "args": [
+            [
+                "winner",
+                "twin",
+                "establish"
+            ]
+        ],
+        "return": "establish"
+    },
+    {
+        "args": [
+            [
+                "maze",
+                "human body",
+                "move",
+                "perceive",
+                "maze",
+                "scramble",
+                "flavor",
+                "delicate",
+                "accessible"
+            ]
+        ],
+        "return": "accessible"
+    },
+    {
+        "args": [
+            [
+                "vat",
+                "mirror",
+                "winner",
+                "human body",
+                "potential",
+                "front"
+            ]
+        ],
+        "return": "potential"
+    },
+    {
+        "args": [
+            [
+                "fair",
+                "institution",
+                "vegetarian",
+                "electron",
+                "suntan",
+                "settle",
+                "royalty",
+                "bracket",
+                "conductor",
+                "blade",
+                "camp",
+                "potential",
+                "human body"
+            ]
+        ],
+        "return": "institution"
+    },
+    {
+        "args": [
+            [
+                "adjust",
+                "garlic",
+                "preoccupation",
+                "nature",
+                "garlic",
+                "undermine",
+                "pavement",
+                "payment",
+                "fair",
+                "twin",
+                "expertise",
+                "pillow",
+                "dance",
+                "economist",
+                "establish",
+                "nervous",
+                "sector"
+            ]
+        ],
+        "return": "preoccupation"
+    },
+    {
+        "args": [
+            [
+                "truck",
+                "accessible",
+                "undermine",
+                "unique",
+                "tear",
+                "cat",
+                "avenue",
+                "labour",
+                "goat",
+                "dance",
+                "rise",
+                "scale"
+            ]
+        ],
+        "return": "accessible"
+    },
+    {
+        "args": [
+            [
+                "shine",
+                "admire"
+            ]
+        ],
+        "return": "shine"
+    },
+    {
+        "args": [
+            [
+                "front",
+                "mirror",
+                "shine",
+                "spine",
+                "lay",
+                "obese",
+                "shine",
+                "singer",
+                "straight",
+                "establish",
+                "embarrassment",
+                "admire",
+                "vain",
+                "presidency",
+                "winner",
+                "dance",
+                "inject",
+                "proud",
+                "establish"
+            ]
+        ],
+        "return": "presidency"
+    },
+    {
+        "args": [
+            [
+                "twin",
+                "pillow",
+                "blade",
+                "mobile",
+                "royalty",
+                "undermine",
+                "lay",
+                "front",
+                "fair",
+                "flow",
+                "party",
+                "withdrawal",
+                "sign",
+                "scramble",
+                "accessible",
+                "vain"
+            ]
+        ],
+        "return": "accessible"
+    },
+    {
+        "args": [
+            [
+                "blade",
+                "victory",
+                "thoughtful",
+                "undermine",
+                "royalty",
+                "nature",
+                "pillow"
+            ]
+        ],
+        "return": "thoughtful"
+    },
+    {
+        "args": [
+            [
+                "presidency",
+                "bracket",
+                "flavor",
+                "payment",
+                "nervous",
+                "extort",
+                "sector",
+                "garlic",
+                "limited"
+            ]
+        ],
+        "return": "presidency"
+    },
+    {
+        "args": [
+            [
+                "embarrassment",
+                "bell",
+                "obese",
+                "width",
+                "singer",
+                "strikebreaker",
+                "width",
+                "preoccupation",
+                "nervous"
+            ]
+        ],
+        "return": "preoccupation"
+    },
+    {
+        "args": [
+            [
+                "rise",
+                "dance",
+                "dance",
+                "undermine",
+                "vain",
+                "blade",
+                "pillow",
+                "economist",
+                "freight",
+                "goat",
+                "pavement"
+            ]
+        ],
+        "return": "freight"
+    },
+    {
+        "args": [
+            [
+                "beautiful",
+                "victory",
+                "electron",
+                "goat",
+                "proud",
+                "preoccupation",
+                "nature",
+                "network",
+                "proud",
+                "full",
+                "sensitivity",
+                "royalty",
+                "dance",
+                "scramble"
+            ]
+        ],
+        "return": "preoccupation"
+    },
+    {
+        "args": [
+            [
+                "expertise",
+                "payment",
+                "exception",
+                "attract",
+                "habit",
+                "institution",
+                "embarrassment",
+                "pavement",
+                "accessible",
+                "accessible",
+                "bell",
+                "perceive",
+                "scale"
+            ]
+        ],
+        "return": "institution"
+    },
+    {
+        "args": [
+            [
+                "sector",
+                "conductor",
+                "arrest",
+                "inspire",
+                "harm",
+                "grain",
+                "tear",
+                "vat",
+                "shine",
+                "course",
+                "admire",
+                "shine",
+                "attract",
+                "victory"
+            ]
+        ],
+        "return": "conductor"
+    },
+    {
+        "args": [
+            [
+                "velocity",
+                "mackerel",
+                "woven",
+                "kingsmen"
+            ]
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            [
+                "spine",
+                "presidency",
+                "scale",
+                "goat",
+                "beautiful",
+                "harm",
+                "flavor",
+                "proud",
+                "limited",
+                "battery",
+                "unique",
+                "scramble",
+                "pound",
+                "nature",
+                "flavor",
+                "avenue",
+                "pound"
+            ]
+        ],
+        "return": "presidency"
+    },
+    {
+        "args": [
+            [
+                "vegetarian",
+                "unique",
+                "sensitivity",
+                "goat",
+                "nature",
+                "attract",
+                "suntan",
+                "mobile",
+                "pillow",
+                "economist",
+                "arrest",
+                "galaxy",
+                "proud",
+                "proud"
+            ]
+        ],
+        "return": "attract"
+    },
+    {
+        "args": [
+            [
+                "shine",
+                "scale",
+                "freight",
+                "extort",
+                "withdrawal",
+                "suntan",
+                "grain",
+                "preoccupation",
+                "arrest",
+                "habit",
+                "party",
+                "habit",
+                "sign",
+                "electron",
+                "harm",
+                "grain",
+                "rise",
+                "gesture",
+                "chimney"
+            ]
+        ],
+        "return": "preoccupation"
+    },
+    {
+        "args": [
+            [
+                "embarrassment",
+                "perceive",
+                "front"
+            ]
+        ],
+        "return": "front"
+    },
+    {
+        "args": [
+            [
+                "victory",
+                "embarrassment",
+                "truck",
+                "presidency",
+                "maze",
+                "truck"
+            ]
+        ],
+        "return": "presidency"
+    },
+    {
+        "args": [
+            [
+                "vegetarian",
+                "expertise",
+                "straight",
+                "harm",
+                "course",
+                "network",
+                "preoccupation",
+                "cat",
+                "extort",
+                "full",
+                "limited",
+                "flex",
+                "unique",
+                "singer",
+                "avenue",
+                "establish",
+                "bracket",
+                "mobile"
+            ]
+        ],
+        "return": "preoccupation"
+    },
+    {
+        "args": [
+            [
+                "goat",
+                "institution",
+                "move",
+                "twin",
+                "lay",
+                "embarrassment",
+                "labour"
+            ]
+        ],
+        "return": "institution"
+    },
+    {
+        "args": [
+            [
+                "extort",
+                "galaxy",
+                "garlic",
+                "winner"
+            ]
+        ],
+        "return": "garlic"
+    },
+    {
+        "args": [
+            [
+                "inject",
+                "sensitivity",
+                "party",
+                "withdrawal",
+                "establish",
+                "potential",
+                "rise",
+                "presidency",
+                "galaxy",
+                "tear",
+                "party",
+                "vegetarian",
+                "economist",
+                "cat",
+                "maze",
+                "truck",
+                "lounge",
+                "conductor"
+            ]
+        ],
+        "return": "presidency"
+    },
+    {
+        "args": [
+            [
+                "murder",
+                "vain",
+                "fair",
+                "sign",
+                "establish",
+                "flow",
+                "bell",
+                "truck",
+                "winner",
+                "tear",
+                "avenue",
+                "move",
+                "pillow",
+                "murder",
+                "gesture",
+                "garlic",
+                "unique",
+                "brave",
+                "pass",
+                "avenue"
+            ]
+        ],
+        "return": "establish"
+    },
+    {
+        "args": [
+            [
+                "full",
+                "suntan",
+                "strikebreaker",
+                "front",
+                "truck",
+                "vegetarian",
+                "maze",
+                "shine",
+                "potential",
+                "conductor",
+                "width",
+                "economist",
+                "lounge",
+                "pound",
+                "camp",
+                "sensitivity"
+            ]
+        ],
+        "return": "potential"
+    },
+    {
+        "args": [
+            [
+                "grain",
+                "fair",
+                "settle",
+                "thoughtful",
+                "vain",
+                "admire",
+                "sign"
+            ]
+        ],
+        "return": "thoughtful"
+    },
+    {
+        "args": [
+            [
+                "accessible",
+                "embarrassment",
+                "embarrassment",
+                "extort",
+                "width",
+                "garlic"
+            ]
+        ],
+        "return": "accessible"
+    },
+    {
+        "args": [
+            [
+                "scale",
+                "pass",
+                "act",
+                "sector",
+                "vain",
+                "scale"
+            ]
+        ],
+        "return": "sector"
+    },
+    {
+        "args": [
+            [
+                "spine",
+                "sign",
+                "vegetarian",
+                "victory",
+                "inject",
+                "flex",
+                "embarrassment",
+                "accessible",
+                "battery",
+                "network",
+                "avenue",
+                "singer",
+                "lay",
+                "move"
+            ]
+        ],
+        "return": "accessible"
+    },
+    {
+        "args": [
+            [
+                "pound",
+                "scramble",
+                "labour",
+                "vegetarian",
+                "obese",
+                "delicate",
+                "dictionary",
+                "act",
+                "nature",
+                "shine"
+            ]
+        ],
+        "return": "dictionary"
+    },
+    {
+        "args": [
+            [
+                "institution",
+                "sign",
+                "pass",
+                "cat",
+                "cook",
+                "nervous",
+                "habit",
+                "accessible",
+                "nervous",
+                "lounge",
+                "unique",
+                "undermine",
+                "royalty",
+                "chimney",
+                "obese",
+                "bracket",
+                "habit",
+                "potential",
+                "sector"
+            ]
+        ],
+        "return": "institution"
+    },
+    {
+        "args": [
+            [
+                "galaxy",
+                "presidency",
+                "camp",
+                "pillow",
+                "labour",
+                "pass",
+                "pillow",
+                "suntan",
+                "payment",
+                "economist",
+                "unique"
+            ]
+        ],
+        "return": "presidency"
+    },
+    {
+        "args": [
+            [
+                "fair",
+                "tear",
+                "truck"
+            ]
+        ],
+        "return": "fair"
+    },
+    {
+        "args": [
+            [
+                "vegetarian",
+                "labour",
+                "course",
+                "grain",
+                "freight",
+                "pavement",
+                "nervous",
+                "unique",
+                "mirror",
+                "galaxy",
+                "beautiful",
+                "winner",
+                "winner",
+                "cat",
+                "pillow",
+                "spine",
+                "course",
+                "murder",
+                "pavement",
+                "withdrawal"
+            ]
+        ],
+        "return": "beautiful"
+    },
+    {
+        "args": [
+            [
+                "course",
+                "galaxy",
+                "garlic",
+                "pillow",
+                "camp",
+                "brave",
+                "extort",
+                "conductor",
+                "mirror",
+                "full",
+                "goat",
+                "twin",
+                "cat"
+            ]
+        ],
+        "return": "conductor"
+    },
+    {
+        "args": [
+            [
+                "act",
+                "adjust",
+                "proud",
+                "battery",
+                "tear",
+                "beautiful",
+                "avenue",
+                "thoughtful",
+                "victory",
+                "mobile",
+                "straight"
+            ]
+        ],
+        "return": "thoughtful"
+    },
+    {
+        "args": [
+            [
+                "labour",
+                "pass",
+                "camp",
+                "vegetarian",
+                "freight",
+                "victory",
+                "avenue",
+                "flow",
+                "garlic",
+                "gesture",
+                "nervous",
+                "vat",
+                "preoccupation",
+                "maze",
+                "arrest",
+                "camp",
+                "dictionary",
+                "inspire"
+            ]
+        ],
+        "return": "preoccupation"
+    },
+    {
+        "args": [
+            [
+                "freight",
+                "limited",
+                "straight",
+                "settle",
+                "obese",
+                "shy",
+                "establish",
+                "galaxy",
+                "avenue",
+                "victory",
+                "proud",
+                "dictionary",
+                "conductor",
+                "spine",
+                "pillow",
+                "economist",
+                "habit",
+                "royalty",
+                "strikebreaker",
+                "winner"
+            ]
+        ],
+        "return": "dictionary"
+    },
+    {
+        "args": [
+            [
+                "admire",
+                "scale",
+                "goat",
+                "vat",
+                "rise",
+                "attract",
+                "vegetarian",
+                "economist",
+                "admire",
+                "act",
+                "flavor",
+                "flow",
+                "preoccupation"
+            ]
+        ],
+        "return": "preoccupation"
+    },
+    {
+        "args": [
+            [
+                "width",
+                "straight",
+                "sign",
+                "inspire",
+                "lay",
+                "pavement",
+                "settle",
+                "undermine",
+                "cat",
+                "labour",
+                "adjust",
+                "admire",
+                "scramble",
+                "pavement",
+                "limited",
+                "payment",
+                "withdrawal",
+                "full",
+                "brave"
+            ]
+        ],
+        "return": "straight"
+    },
+    {
+        "args": [
+            [
+                "vat",
+                "suntan",
+                "murder",
+                "dance",
+                "course",
+                "institution"
+            ]
+        ],
+        "return": "institution"
+    },
+    {
+        "args": [
+            [
+                "network",
+                "potential",
+                "maze",
+                "move",
+                "chimney",
+                "straight",
+                "party",
+                "thoughtful",
+                "freight",
+                "obese",
+                "dance",
+                "inspire",
+                "proud",
+                "harm",
+                "human body",
+                "strikebreaker"
+            ]
+        ],
+        "return": "thoughtful"
+    },
+    {
+        "args": [
+            [
+                "electron",
+                "act",
+                "blade",
+                "bell",
+                "straight",
+                "extort",
+                "battery",
+                "maze",
+                "galaxy",
+                "act",
+                "embarrassment"
+            ]
+        ],
+        "return": "electron"
+    },
+    {
+        "args": [
+            [
+                "party",
+                "width",
+                "sector",
+                "withdrawal",
+                "limited",
+                "victory",
+                "presidency",
+                "pillow",
+                "beautiful",
+                "shine"
+            ]
+        ],
+        "return": "presidency"
+    },
+    {
+        "args": [
+            [
+                "institution",
+                "pillow",
+                "straight",
+                "suntan",
+                "presidency",
+                "exception",
+                "expertise",
+                "sensitivity"
+            ]
+        ],
+        "return": "institution"
+    },
+    {
+        "args": [
+            [
+                "limited",
+                "arrest",
+                "harm",
+                "tear",
+                "vain",
+                "bracket",
+                "settle",
+                "settle",
+                "spine",
+                "mobile",
+                "potential",
+                "cat",
+                "winner",
+                "tear"
+            ]
+        ],
+        "return": "potential"
+    },
+    {
+        "args": [
+            [
+                "coding",
+                "crackers",
+                "celebration"
+            ]
+        ],
+        "return": "celebration"
+    }
+]
