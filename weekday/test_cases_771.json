@@ -4,11 +4,11 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 }
             ]
         ],
@@ -19,15 +19,15 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 }
             ]
         ],
@@ -38,31 +38,31 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 }
             ]
         ],
@@ -73,35 +73,35 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -112,27 +112,27 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 }
             ]
         ],
@@ -143,15 +143,15 @@
             [
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 }
             ]
         ],
@@ -162,11 +162,11 @@
             [
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -177,23 +177,23 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 }
             ]
         ],
@@ -204,35 +204,35 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -243,11 +243,11 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 }
             ]
         ],
@@ -258,11 +258,11 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 }
             ]
         ],
@@ -273,11 +273,11 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 }
             ]
         ],
@@ -288,23 +288,23 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 }
             ]
         ],
@@ -315,19 +315,19 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 }
             ]
         ],
@@ -338,11 +338,11 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 }
             ]
         ],
@@ -353,27 +353,27 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 }
             ]
         ],
@@ -384,23 +384,23 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -411,35 +411,35 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 }
             ]
         ],
@@ -450,27 +450,27 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 }
             ]
         ],
@@ -481,31 +481,31 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 }
             ]
         ],
@@ -516,15 +516,15 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -535,35 +535,35 @@
             [
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -574,31 +574,31 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 }
             ]
         ],
@@ -609,11 +609,11 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 }
             ]
         ],
@@ -624,27 +624,27 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 }
             ]
         ],
@@ -655,15 +655,15 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 }
             ]
         ],
@@ -674,23 +674,23 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 }
             ]
         ],
@@ -701,27 +701,27 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 }
             ]
         ],
@@ -732,23 +732,23 @@
             [
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 }
             ]
         ],
@@ -759,15 +759,15 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 }
             ]
         ],
@@ -778,15 +778,15 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 }
             ]
         ],
@@ -797,31 +797,31 @@
             [
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 }
             ]
         ],
@@ -832,27 +832,27 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 }
             ]
         ],
@@ -863,23 +863,23 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 }
             ]
         ],
@@ -890,15 +890,15 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 }
             ]
         ],
@@ -909,31 +909,31 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 }
             ]
         ],
@@ -944,27 +944,27 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 }
             ]
         ],
@@ -975,19 +975,19 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 }
             ]
         ],
@@ -998,35 +998,35 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -1037,15 +1037,15 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 }
             ]
         ],
@@ -1056,35 +1056,35 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 13
+                    "num_sprinkles": 13
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 }
             ]
         ],
@@ -1095,31 +1095,31 @@
             [
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -1130,23 +1130,23 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 }
             ]
         ],
@@ -1157,27 +1157,27 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -1188,27 +1188,27 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 }
             ]
         ],
@@ -1219,23 +1219,23 @@
             [
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 }
             ]
         ],
@@ -1246,35 +1246,35 @@
             [
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 }
             ]
         ],
@@ -1285,19 +1285,19 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 7
+                    "num_sprinkles": 7
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 }
             ]
         ],
@@ -1308,11 +1308,11 @@
             [
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 }
             ]
         ],
@@ -1323,23 +1323,23 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "ChocolateChip",
-                    "sweetness": 3
+                    "num_sprinkles": 3
                 },
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 }
             ]
         ],
@@ -1350,27 +1350,27 @@
             [
                 {
                     "flavor": "Vanilla",
-                    "sweetness": 12
+                    "num_sprinkles": 12
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 34
+                    "num_sprinkles": 34
                 },
                 {
                     "flavor": "Chocolate",
-                    "sweetness": 23
+                    "num_sprinkles": 23
                 },
                 {
                     "flavor": "Strawberry",
-                    "sweetness": 0
+                    "num_sprinkles": 0
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 81
+                    "num_sprinkles": 81
                 },
                 {
                     "flavor": "Plain",
-                    "sweetness": 18
+                    "num_sprinkles": 18
                 }
             ]
         ],
