@@ -1,0 +1,1379 @@
+[
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                }
+            ]
+        ],
+        "return": 17
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                }
+            ]
+        ],
+        "return": 23
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 10
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                }
+            ]
+        ],
+        "return": 18
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                }
+            ]
+        ],
+        "return": 33
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                }
+            ]
+        ],
+        "return": 23
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                }
+            ]
+        ],
+        "return": 33
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                }
+            ]
+        ],
+        "return": 23
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 33
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                }
+            ]
+        ],
+        "return": 23
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                }
+            ]
+        ],
+        "return": 33
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                }
+            ]
+        ],
+        "return": 23
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                }
+            ]
+        ],
+        "return": 33
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                }
+            ]
+        ],
+        "return": 18
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                }
+            ]
+        ],
+        "return": 17
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 13
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 18
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                }
+            ]
+        ],
+        "return": 33
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 7
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                }
+            ]
+        ],
+        "return": 34
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "ChocolateChip",
+                    "sweetness": 3
+                },
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                }
+            ]
+        ],
+        "return": 81
+    },
+    {
+        "args": [
+            [
+                {
+                    "flavor": "Vanilla",
+                    "sweetness": 12
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 34
+                },
+                {
+                    "flavor": "Chocolate",
+                    "sweetness": 23
+                },
+                {
+                    "flavor": "Strawberry",
+                    "sweetness": 0
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 81
+                },
+                {
+                    "flavor": "Plain",
+                    "sweetness": 18
+                }
+            ]
+        ],
+        "return": 81
+    }
+]
