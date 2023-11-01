@@ -1,0 +1,72 @@
+[
+    {
+        "args": [
+            [
+                "one",
+                "",
+                "three"
+            ]
+        ],
+        "return": "one and three"
+    },
+    {
+        "args": [
+            [
+                "one",
+                "two",
+                "three",
+                "four"
+            ]
+        ],
+        "return": "one, two, three and four"
+    },
+    {
+        "args": [
+            [
+                ""
+            ]
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            null
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            [
+                "one",
+                "two",
+                "",
+                "four"
+            ]
+        ],
+        "return": "one, two and four"
+    },
+    {
+        "args": [
+            [
+                "one",
+                "two",
+                ""
+            ]
+        ],
+        "return": "one and two"
+    },
+    {
+        "args": [
+            []
+        ],
+        "return": ""
+    },
+    {
+        "args": [
+            [
+                "one"
+            ]
+        ],
+        "return": "one"
+    }
+]
