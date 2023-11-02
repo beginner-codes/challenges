@@ -1,0 +1,50 @@
+[
+    {
+        "args": [
+            22
+        ],
+        "return": "nines:2, threes:1, ones:1"
+    },
+    {
+        "args": [
+            15
+        ],
+        "return": "nines:1, threes:2, ones:0"
+    },
+    {
+        "args": [
+            10
+        ],
+        "return": "nines:1, threes:0, ones:1"
+    },
+    {
+        "args": [
+            1
+        ],
+        "return": "nines:0, threes:0, ones:1"
+    },
+    {
+        "args": [
+            25
+        ],
+        "return": "nines:2, threes:2, ones:1"
+    },
+    {
+        "args": [
+            7
+        ],
+        "return": "nines:0, threes:2, ones:1"
+    },
+    {
+        "args": [
+            5
+        ],
+        "return": "nines:0, threes:1, ones:2"
+    },
+    {
+        "args": [
+            12
+        ],
+        "return": "nines:1, threes:1, ones:0"
+    }
+]
