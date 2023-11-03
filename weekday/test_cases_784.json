@@ -1,0 +1,74 @@
+[
+    {
+        "args": [
+            "1001"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "101001"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "10101110001100"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "10010"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "10"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "11100011000"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "11001"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "1010"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "1111000010101100"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "101"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "110"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "1100"
+        ],
+        "return": true
+    }
+]
