@@ -1,0 +1,64 @@
+[
+    {
+        "args": [
+            " blue"
+        ],
+        "return": [
+            " Blue",
+            " bLue",
+            " blUe",
+            " bluE"
+        ]
+    },
+    {
+        "args": [
+            "dogs cats pigs"
+        ],
+        "return": [
+            "Dogs cats pigs",
+            "dOgs cats pigs",
+            "doGs cats pigs",
+            "dogS cats pigs",
+            "dogs Cats pigs",
+            "dogs cAts pigs",
+            "dogs caTs pigs",
+            "dogs catS pigs",
+            "dogs cats Pigs",
+            "dogs cats pIgs",
+            "dogs cats piGs",
+            "dogs cats pigS"
+        ]
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            "g"
+        ],
+        "return": [
+            "G"
+        ]
+    },
+    {
+        "args": [
+            " "
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            "green "
+        ],
+        "return": [
+            "Green ",
+            "gReen ",
+            "grEen ",
+            "greEn ",
+            "greeN "
+        ]
+    }
+]
