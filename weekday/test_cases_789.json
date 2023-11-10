@@ -1,0 +1,86 @@
+[
+    {
+        "args": [
+            {
+                "Total": "$3.90",
+                "Difference": "$0.20",
+                "Mouse": "?"
+            }
+        ],
+        "return": {
+            "Total": "$3.90",
+            "Difference": "$0.20",
+            "Mouse": "$1.85"
+        }
+    },
+    {
+        "args": [
+            {
+                "Total": "$1.90",
+                "Difference": "$0.90",
+                "Mouse": "?"
+            }
+        ],
+        "return": {
+            "Total": "$1.90",
+            "Difference": "$0.90",
+            "Mouse": "$0.5"
+        }
+    },
+    {
+        "args": [
+            {
+                "Total": "$1.30",
+                "Difference": "$0.80",
+                "Mouse": "?"
+            }
+        ],
+        "return": {
+            "Total": "$1.30",
+            "Difference": "$0.80",
+            "Mouse": "$0.25"
+        }
+    },
+    {
+        "args": [
+            {
+                "Total": "$20.00",
+                "Difference": "$1.40",
+                "Mouse": "?"
+            }
+        ],
+        "return": {
+            "Total": "$20.00",
+            "Difference": "$1.40",
+            "Mouse": "$9.3"
+        }
+    },
+    {
+        "args": [
+            {
+                "Total": "$0.801",
+                "Difference": "$0.40",
+                "Mouse": "?"
+            }
+        ],
+        "return": {
+            "Total": "$0.801",
+            "Difference": "$0.40",
+            "Mouse": "$0.2"
+        }
+    },
+    {
+        "args": [
+            {
+                "Total": "$10.00",
+                "Difference": "$0.40",
+                "Mouse": "?"
+            }
+        ],
+        "return": {
+            "Total": "$10.00",
+            "Difference": "$0.40",
+            "Mouse": "$4.8"
+        }
+    }
+]
