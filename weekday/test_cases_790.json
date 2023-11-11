@@ -1,0 +1,86 @@
+[
+    {
+        "args": [
+            10
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            6329
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            67
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            10000
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            1327
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            2871
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            89
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            1
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            139
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            9331
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            3970
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            44
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            8888
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            5209
+        ],
+        "return": false
+    }
+]
