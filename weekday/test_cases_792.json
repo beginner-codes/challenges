@@ -1,0 +1,161 @@
+[
+    {
+        "args": [
+            "loves"
+        ],
+        "return": [
+            false,
+            true,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "args": [
+            "exotic"
+        ],
+        "return": [
+            true,
+            false,
+            true,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "args": [
+            "tesh"
+        ],
+        "return": [
+            false,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "args": [
+            "exquisite"
+        ],
+        "return": [
+            true,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "args": [
+            "tesha"
+        ],
+        "return": [
+            false,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "args": [
+            "randomize"
+        ],
+        "return": [
+            false,
+            true,
+            false,
+            false,
+            true,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "args": [
+            "charming"
+        ],
+        "return": [
+            true,
+            false,
+            true,
+            false,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "args": [
+            "esquire"
+        ],
+        "return": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    {
+        "args": [
+            "xavier"
+        ],
+        "return": [
+            false,
+            true,
+            false,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "args": [
+            "adores"
+        ],
+        "return": [
+            true,
+            false,
+            true,
+            false,
+            true,
+            true
+        ]
+    },
+    {
+        "args": [
+            "deep"
+        ],
+        "return": [
+            false,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "args": [
+            "admire"
+        ],
+        "return": [
+            true,
+            false,
+            true,
+            true,
+            false,
+            true
+        ]
+    }
+]
