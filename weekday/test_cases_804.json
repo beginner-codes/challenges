@@ -1,0 +1,64 @@
+[
+    {
+        "args": [
+            "airforces"
+        ],
+        "return": [
+            "ai",
+            "rf",
+            "or",
+            "ce",
+            "s*"
+        ]
+    },
+    {
+        "args": [
+            ""
+        ],
+        "return": []
+    },
+    {
+        "args": [
+            "abcdef"
+        ],
+        "return": [
+            "ab",
+            "cd",
+            "ef"
+        ]
+    },
+    {
+        "args": [
+            "beginnercodes"
+        ],
+        "return": [
+            "be",
+            "gi",
+            "nn",
+            "er",
+            "co",
+            "de",
+            "s*"
+        ]
+    },
+    {
+        "args": [
+            "pak"
+        ],
+        "return": [
+            "pa",
+            "k*"
+        ]
+    },
+    {
+        "args": [
+            "abcdefg"
+        ],
+        "return": [
+            "ab",
+            "cd",
+            "ef",
+            "g*"
+        ]
+    }
+]
