@@ -1,0 +1,65 @@
+[
+    {
+        "args": [
+            "fire",
+            "water",
+            100,
+            100
+        ],
+        "return": 25
+    },
+    {
+        "args": [
+            "grass",
+            "fire",
+            35,
+            5
+        ],
+        "return": 175
+    },
+    {
+        "args": [
+            "grass",
+            "electric",
+            57,
+            19
+        ],
+        "return": 150
+    },
+    {
+        "args": [
+            "fire",
+            "electric",
+            10,
+            2
+        ],
+        "return": 250
+    },
+    {
+        "args": [
+            "grass",
+            "water",
+            100,
+            100
+        ],
+        "return": 100
+    },
+    {
+        "args": [
+            "electric",
+            "fire",
+            100,
+            100
+        ],
+        "return": 50
+    },
+    {
+        "args": [
+            "grass",
+            "water",
+            40,
+            40
+        ],
+        "return": 100
+    }
+]
