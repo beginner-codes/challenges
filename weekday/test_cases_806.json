@@ -1,0 +1,129 @@
+[
+    {
+        "args": [
+            [
+                [
+                    "Enter"
+                ],
+                [
+                    "the"
+                ],
+                [
+                    "Matrix."
+                ]
+            ]
+        ],
+        "return": "Enter the Matrix."
+    },
+    {
+        "args": [
+            [
+                [
+                    "As",
+                    "human"
+                ],
+                [
+                    "long",
+                    "race"
+                ],
+                [
+                    "as",
+                    "will"
+                ],
+                [
+                    "Matrix",
+                    "never"
+                ],
+                [
+                    "exists,",
+                    "be"
+                ],
+                [
+                    "the",
+                    "free."
+                ]
+            ]
+        ],
+        "return": "As long as Matrix exists, the human race will never be free."
+    },
+    {
+        "args": [
+            [
+                [
+                    "Matrix",
+                    "that"
+                ],
+                [
+                    "is",
+                    "system"
+                ],
+                [
+                    "a",
+                    "is"
+                ],
+                [
+                    "system",
+                    "our"
+                ],
+                [
+                    "Neo,",
+                    "enemy."
+                ]
+            ]
+        ],
+        "return": "Matrix is a system Neo, that system is our enemy."
+    },
+    {
+        "args": [
+            [
+                [
+                    "If",
+                    "killed",
+                    "you"
+                ],
+                [
+                    "you",
+                    "in",
+                    "die"
+                ],
+                [
+                    "are",
+                    "Matrix",
+                    "here?"
+                ]
+            ]
+        ],
+        "return": "If you are killed in Matrix you die here?"
+    },
+    {
+        "args": [
+            [
+                [
+                    "Unfortunately,",
+                    "be",
+                    "is.",
+                    "see"
+                ],
+                [
+                    "no",
+                    "told",
+                    "You'll",
+                    "it"
+                ],
+                [
+                    "one",
+                    "what",
+                    "have",
+                    "for"
+                ],
+                [
+                    "can",
+                    "Matrix",
+                    "to",
+                    "yourself."
+                ]
+            ]
+        ],
+        "return": "Unfortunately, no one can be told what Matrix is. You'll have to see it for yourself."
+    }
+]
