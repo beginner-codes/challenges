@@ -1,0 +1,98 @@
+[
+    {
+        "args": [
+            "break"
+        ],
+        "return": [
+            5,
+            "b",
+            "k",
+            "e",
+            "not found"
+        ]
+    },
+    {
+        "args": [
+            "LASA"
+        ],
+        "return": [
+            4,
+            "L",
+            "A",
+            "AS",
+            "@ index 3"
+        ]
+    },
+    {
+        "args": [
+            "programming"
+        ],
+        "return": [
+            11,
+            "p",
+            "g",
+            "a",
+            "@ index 4"
+        ]
+    },
+    {
+        "args": [
+            "Science"
+        ],
+        "return": [
+            7,
+            "S",
+            "e",
+            "e",
+            "@ index 5"
+        ]
+    },
+    {
+        "args": [
+            "spring"
+        ],
+        "return": [
+            6,
+            "s",
+            "g",
+            "ri",
+            "not found"
+        ]
+    },
+    {
+        "args": [
+            "homework"
+        ],
+        "return": [
+            8,
+            "h",
+            "k",
+            "ew",
+            "@ index 5"
+        ]
+    },
+    {
+        "args": [
+            "bad"
+        ],
+        "return": [
+            3,
+            "b",
+            "d",
+            "a",
+            "not found"
+        ]
+    },
+    {
+        "args": [
+            "Computer"
+        ],
+        "return": [
+            8,
+            "C",
+            "r",
+            "pu",
+            "not found"
+        ]
+    }
+]
