@@ -1,0 +1,38 @@
+[
+    {
+        "args": [
+            "RBRGBRBGGRRRBGBBBGG"
+        ],
+        "return": "G"
+    },
+    {
+        "args": [
+            "RBRGBRB"
+        ],
+        "return": "G"
+    },
+    {
+        "args": [
+            "RRR"
+        ],
+        "return": "R"
+    },
+    {
+        "args": [
+            "B"
+        ],
+        "return": "B"
+    },
+    {
+        "args": [
+            "GB"
+        ],
+        "return": "R"
+    },
+    {
+        "args": [
+            "RGBG"
+        ],
+        "return": "B"
+    }
+]
