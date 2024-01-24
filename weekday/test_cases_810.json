@@ -1,0 +1,130 @@
+[
+    {
+        "args": [
+            [
+                "(1, 2)",
+                "(3, 4)",
+                "(5, 6)"
+            ],
+            [
+                "one_two",
+                "three_four",
+                "five_six"
+            ],
+            false
+        ],
+        "return": {
+            "(1, 2)": "one_two",
+            "(3, 4)": "three_four",
+            "(5, 6)": "five_six"
+        }
+    },
+    {
+        "args": [
+            [
+                "1",
+                "2",
+                "3"
+            ],
+            [
+                "one",
+                "two",
+                "three"
+            ],
+            false
+        ],
+        "return": {
+            "1": "one",
+            "2": "two",
+            "3": "three"
+        }
+    },
+    {
+        "args": [
+            [
+                "(1, 2)",
+                "(3, 4)",
+                "(5, 6)"
+            ],
+            [
+                "one_two",
+                "three_four",
+                "five_six"
+            ],
+            true
+        ],
+        "return": {
+            "one_two": "(1, 2)",
+            "three_four": "(3, 4)",
+            "five_six": "(5, 6)"
+        }
+    },
+    {
+        "args": [
+            [
+                "Paris",
+                "Berlin",
+                "Washington"
+            ],
+            [
+                "France",
+                "Germany",
+                "USA"
+            ],
+            true
+        ],
+        "return": {
+            "France": "Paris",
+            "Germany": "Berlin",
+            "USA": "Washington"
+        }
+    },
+    {
+        "args": [
+            [
+                "Paris",
+                "3",
+                "4.5"
+            ],
+            [
+                "France",
+                "is odd",
+                "is half of 9"
+            ],
+            true
+        ],
+        "return": {
+            "France": "Paris",
+            "is odd": "3",
+            "is half of 9": "4.5"
+        }
+    },
+    {
+        "args": [
+            [
+                "1",
+                "2",
+                "3"
+            ],
+            [
+                "one",
+                "two",
+                "three"
+            ],
+            true
+        ],
+        "return": {
+            "one": "1",
+            "two": "2",
+            "three": "3"
+        }
+    },
+    {
+        "args": [
+            [],
+            [],
+            false
+        ],
+        "return": {}
+    }
+]
