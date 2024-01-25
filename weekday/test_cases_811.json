@@ -1,0 +1,326 @@
+[
+    {
+        "args": [
+            "Opera in f"
+        ],
+        "return": "Opera in F minor"
+    },
+    {
+        "args": [
+            "Fugue in g"
+        ],
+        "return": "Fugue in G minor"
+    },
+    {
+        "args": [
+            "Fugue in G"
+        ],
+        "return": "Fugue in G major"
+    },
+    {
+        "args": [
+            "Prelude in Eb"
+        ],
+        "return": "Prelude in Eb major"
+    },
+    {
+        "args": [
+            "Mass in c"
+        ],
+        "return": "Mass in C minor"
+    },
+    {
+        "args": [
+            "Concerto in Bb"
+        ],
+        "return": "Concerto in Bb major"
+    },
+    {
+        "args": [
+            "Fugue in g"
+        ],
+        "return": "Fugue in G minor"
+    },
+    {
+        "args": [
+            "Symphony in f"
+        ],
+        "return": "Symphony in F minor"
+    },
+    {
+        "args": [
+            "Symphony in Eb"
+        ],
+        "return": "Symphony in Eb major"
+    },
+    {
+        "args": [
+            "a Fugue in c"
+        ],
+        "return": "a Fugue in C minor"
+    },
+    {
+        "args": [
+            "Sonata in a"
+        ],
+        "return": "Sonata in A minor"
+    },
+    {
+        "args": [
+            "Prelude in Eb"
+        ],
+        "return": "Prelude in Eb major"
+    },
+    {
+        "args": [
+            "Fugue in F"
+        ],
+        "return": "Fugue in F major"
+    },
+    {
+        "args": [
+            "Sonata in e"
+        ],
+        "return": "Sonata in E minor"
+    },
+    {
+        "args": [
+            "Symphony in eb"
+        ],
+        "return": "Symphony in Eb minor"
+    },
+    {
+        "args": [
+            "Concerto in f#"
+        ],
+        "return": "Concerto in F# minor"
+    },
+    {
+        "args": [
+            "Fugue in c"
+        ],
+        "return": "Fugue in C minor"
+    },
+    {
+        "args": [
+            "Symphony in C#"
+        ],
+        "return": "Symphony in C# major"
+    },
+    {
+        "args": [
+            "Fugue in d"
+        ],
+        "return": "Fugue in D minor"
+    },
+    {
+        "args": [
+            "Opera in eb"
+        ],
+        "return": "Opera in Eb minor"
+    },
+    {
+        "args": [
+            "Fugue in eb"
+        ],
+        "return": "Fugue in Eb minor"
+    },
+    {
+        "args": [
+            "Prelude in Ab"
+        ],
+        "return": "Prelude in Ab major"
+    },
+    {
+        "args": [
+            "Concerto in ab"
+        ],
+        "return": "Concerto in Ab minor"
+    },
+    {
+        "args": [
+            "Requiem in b"
+        ],
+        "return": "Requiem in B minor"
+    },
+    {
+        "args": [
+            "Mass in c#"
+        ],
+        "return": "Mass in C# minor"
+    },
+    {
+        "args": [
+            "Toccata in F#"
+        ],
+        "return": "Toccata in F# major"
+    },
+    {
+        "args": [
+            "Toccata in c"
+        ],
+        "return": "Toccata in C minor"
+    },
+    {
+        "args": [
+            "Fugue in f#"
+        ],
+        "return": "Fugue in F# minor"
+    },
+    {
+        "args": [
+            "Prelude in Bb"
+        ],
+        "return": "Prelude in Bb major"
+    },
+    {
+        "args": [
+            "Mass in eb"
+        ],
+        "return": "Mass in Eb minor"
+    },
+    {
+        "args": [
+            "Symphony in D"
+        ],
+        "return": "Symphony in D major"
+    },
+    {
+        "args": [
+            "Sonata in D"
+        ],
+        "return": "Sonata in D major"
+    },
+    {
+        "args": [
+            "Waltz in f#"
+        ],
+        "return": "Waltz in F# minor"
+    },
+    {
+        "args": [
+            "Symphony in Bb"
+        ],
+        "return": "Symphony in Bb major"
+    },
+    {
+        "args": [
+            "Concerto in c#"
+        ],
+        "return": "Concerto in C# minor"
+    },
+    {
+        "args": [
+            "Concerto in bb"
+        ],
+        "return": "Concerto in Bb minor"
+    },
+    {
+        "args": [
+            "Sonata in e"
+        ],
+        "return": "Sonata in E minor"
+    },
+    {
+        "args": [
+            "Requiem in c#"
+        ],
+        "return": "Requiem in C# minor"
+    },
+    {
+        "args": [
+            "Toccata and Fugue in d"
+        ],
+        "return": "Toccata and Fugue in D minor"
+    },
+    {
+        "args": [
+            "Prelude in D"
+        ],
+        "return": "Prelude in D major"
+    },
+    {
+        "args": [
+            "Toccata in f"
+        ],
+        "return": "Toccata in F minor"
+    },
+    {
+        "args": [
+            "Prelude in c#"
+        ],
+        "return": "Prelude in C# minor"
+    },
+    {
+        "args": [
+            "Fugue in F"
+        ],
+        "return": "Fugue in F major"
+    },
+    {
+        "args": [
+            "Mass in c"
+        ],
+        "return": "Mass in C minor"
+    },
+    {
+        "args": [
+            "Opera in f"
+        ],
+        "return": "Opera in F minor"
+    },
+    {
+        "args": [
+            "Requiem in C"
+        ],
+        "return": "Requiem in C major"
+    },
+    {
+        "args": [
+            "Sonata in A"
+        ],
+        "return": "Sonata in A major"
+    },
+    {
+        "args": [
+            "Prelude in G"
+        ],
+        "return": "Prelude in G major"
+    },
+    {
+        "args": [
+            "Toccata in ab"
+        ],
+        "return": "Toccata in Ab minor"
+    },
+    {
+        "args": [
+            "Requiem in b"
+        ],
+        "return": "Requiem in B minor"
+    },
+    {
+        "args": [
+            "Prelude in C"
+        ],
+        "return": "Prelude in C major"
+    },
+    {
+        "args": [
+            "Sonata in eb"
+        ],
+        "return": "Sonata in Eb minor"
+    },
+    {
+        "args": [
+            "Symphony in eb"
+        ],
+        "return": "Symphony in Eb minor"
+    },
+    {
+        "args": [
+            "Symphony in Ab"
+        ],
+        "return": "Symphony in Ab major"
+    }
+]
