@@ -1,0 +1,51 @@
+[
+    {
+        "args": [
+            100,
+            7
+        ],
+        "return": 0.061
+    },
+    {
+        "args": [
+            9,
+            5
+        ],
+        "return": 0.5
+    },
+    {
+        "args": [
+            4,
+            7
+        ],
+        "return": 2.0
+    },
+    {
+        "args": [
+            -2,
+            -11
+        ],
+        "return": 4.0
+    },
+    {
+        "args": [
+            1,
+            1
+        ],
+        "return": "Any number"
+    },
+    {
+        "args": [
+            12,
+            -4
+        ],
+        "return": -0.455
+    },
+    {
+        "args": [
+            1,
+            2
+        ],
+        "return": "No solution"
+    }
+]
