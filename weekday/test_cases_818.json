@@ -1,0 +1,142 @@
+[
+    {
+        "args": [
+            "diagram",
+            "diargdiadidiadiagramgramagramgramam"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "pioneer",
+            "pionpippipioppionpiopipioneeroneerneereerioneerneeroneerioneeroneereer"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "redeem",
+            "rederedredrredredrerrrederedeememedeemedeemedeeemeemmedeemeemeemem"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "feed",
+            "feefeeded"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "relief",
+            "rrerelirerreerrereliefliefelielifliefliefefliefelfeief"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "broadcast",
+            "broadcbroadcastbroadcastast"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "demand",
+            "dedemdeamademademandndndmandnd"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "show",
+            "sshssshowhowhowowhow"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "diet",
+            "diet"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "survey",
+            "sursursurvsurvssurssursusurveyrveyveyurveyveyurveyeyeyveyvey"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "publicity",
+            "publicppublicityublicityity"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "undermine",
+            "undermiundermundermiunununderundermineminederminedermineneinene"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "nail",
+            "nannnailnailailil"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "sensation",
+            "sensatissenssensastssenensensasenssensensensationsationsationationtionsationatioionantionensationon"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "park",
+            "pppappappapapapapparkarkarkrkrkrkrkkarkrkrarkark"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "pipe",
+            "ppppppipeipeipeipeipeipe"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "salt",
+            "ssaltalt"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "quarrel",
+            "quaquarrquarrelrerell"
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            "current",
+            "currccurrcurcurrcucucurrentrrentrrententrententurrentent"
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            "station",
+            "ststatstasstatistationontationtionionation"
+        ],
+        "return": true
+    }
+]
