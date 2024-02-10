@@ -1,0 +1,74 @@
+[
+    {
+        "args": [
+            915,
+            1748,
+            1973
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            0,
+            4,
+            4
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            70,
+            130,
+            110
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            140,
+            170,
+            220
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            60,
+            60,
+            60
+        ],
+        "return": false
+    },
+    {
+        "args": [
+            145,
+            105,
+            100
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            3,
+            4,
+            5
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            115,
+            277,
+            252
+        ],
+        "return": true
+    },
+    {
+        "args": [
+            -3,
+            4,
+            5
+        ],
+        "return": false
+    }
+]
