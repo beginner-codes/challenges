@@ -1,0 +1,112 @@
+[
+    {
+        "args": [
+            [
+                "I",
+                "IV",
+                "V"
+            ]
+        ],
+        "return": "imperfect"
+    },
+    {
+        "args": [
+            [
+                "V",
+                "IV",
+                "V",
+                "I",
+                "vi"
+            ]
+        ],
+        "return": "no cadence"
+    },
+    {
+        "args": [
+            [
+                "I",
+                "IV",
+                "I",
+                "V",
+                "IV"
+            ]
+        ],
+        "return": "interrupted"
+    },
+    {
+        "args": [
+            [
+                "V",
+                "IV",
+                "I"
+            ]
+        ],
+        "return": "plagal"
+    },
+    {
+        "args": [
+            [
+                "V",
+                "IV",
+                "V",
+                "III",
+                "vi"
+            ]
+        ],
+        "return": "no cadence"
+    },
+    {
+        "args": [
+            [
+                "V",
+                "IV",
+                "V",
+                "I"
+            ]
+        ],
+        "return": "perfect"
+    },
+    {
+        "args": [
+            [
+                "ii",
+                "V",
+                "I"
+            ]
+        ],
+        "return": "perfect"
+    },
+    {
+        "args": [
+            [
+                "I",
+                "IV",
+                "I",
+                "V",
+                "vi"
+            ]
+        ],
+        "return": "interrupted"
+    },
+    {
+        "args": [
+            [
+                "I",
+                "IV",
+                "I"
+            ]
+        ],
+        "return": "plagal"
+    },
+    {
+        "args": [
+            [
+                "I",
+                "III",
+                "IV",
+                "V"
+            ]
+        ],
+        "return": "imperfect"
+    }
+]
