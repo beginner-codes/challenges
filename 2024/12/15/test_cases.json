@@ -1,0 +1,122 @@
+[
+  {
+    "parameters": [
+      0
+    ],
+    "expected_result": "1"
+  },
+  {
+    "parameters": [
+      1
+    ],
+    "expected_result": "1"
+  },
+  {
+    "parameters": [
+      2
+    ],
+    "expected_result": "2"
+  },
+  {
+    "parameters": [
+      3
+    ],
+    "expected_result": "3"
+  },
+  {
+    "parameters": [
+      4
+    ],
+    "expected_result": "5"
+  },
+  {
+    "parameters": [
+      28
+    ],
+    "expected_result": "514229"
+  },
+  {
+    "parameters": [
+      47
+    ],
+    "expected_result": "4807526976"
+  },
+  {
+    "parameters": [
+      49
+    ],
+    "expected_result": "12586269025"
+  },
+  {
+    "parameters": [
+      67
+    ],
+    "expected_result": "72723460248141"
+  },
+  {
+    "parameters": [
+      72
+    ],
+    "expected_result": "806515533049393"
+  },
+  {
+    "parameters": [
+      90
+    ],
+    "expected_result": "4660046610375530309"
+  },
+  {
+    "parameters": [
+      91
+    ],
+    "expected_result": "7540113804746346429"
+  },
+  {
+    "parameters": [
+      93
+    ],
+    "expected_result": "19740274219868223167"
+  },
+  {
+    "parameters": [
+      106
+    ],
+    "expected_result": "10284720757613717413913"
+  },
+  {
+    "parameters": [
+      123
+    ],
+    "expected_result": "36726740705505779255899443"
+  },
+  {
+    "parameters": [
+      126
+    ],
+    "expected_result": "155576970220531065681649693"
+  },
+  {
+    "parameters": [
+      132
+    ],
+    "expected_result": "2791715456571051233611642553"
+  },
+  {
+    "parameters": [
+      143
+    ],
+    "expected_result": "555565404224292694404015791808"
+  },
+  {
+    "parameters": [
+      146
+    ],
+    "expected_result": "2353412818241252672952597492098"
+  },
+  {
+    "parameters": [
+      153
+    ],
+    "expected_result": "68330027629092351019822533679447"
+  }
+]
