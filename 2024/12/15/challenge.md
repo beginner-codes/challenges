@@ -23,7 +23,7 @@ Numbers in the sequence get very large very quickly with the 10,000th number bei
 You can download test cases with this command:
 
 ```shell
-curl https://raw.githubusercontent.com/beginner-codes/challenges/refs/heads/main/challenges/2024/12/15/test_cases.json > 20241215_test_cases.json
+curl https://raw.githubusercontent.com/beginner-codes/challenges/refs/heads/main/2024/12/15/test_cases.json > 20241215_test_cases.json
 ```
 
 They're stored as JSON using this schema:
