@@ -32,8 +32,6 @@ parentheses(4) => [
 ]
 ```
 
-Numbers in the sequence get very large very quickly with the 10,000th number being 2,090 digits long and only the 93rd exceeding the limits of a 64 bit unsigned int. So depending on the language chosen you might need to use some more advanced concepts to generate larger values.
-
 ## Test Cases
 
 You can download test cases with this command:
