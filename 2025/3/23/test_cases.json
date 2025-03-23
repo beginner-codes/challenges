@@ -1,0 +1,122 @@
+[
+  {
+    "parameters": [
+      "I"
+    ],
+    "expected_result": "1"
+  },
+  {
+    "parameters": [
+      "II"
+    ],
+    "expected_result": "2"
+  },
+  {
+    "parameters": [
+      "IV"
+    ],
+    "expected_result": "4"
+  },
+  {
+    "parameters": [
+      "V"
+    ],
+    "expected_result": "5"
+  },
+  {
+    "parameters": [
+      "VII"
+    ],
+    "expected_result": "7"
+  },
+  {
+    "parameters": [
+      "IX"
+    ],
+    "expected_result": "9"
+  },
+  {
+    "parameters": [
+      "X"
+    ],
+    "expected_result": "10"
+  },
+  {
+    "parameters": [
+      "XX"
+    ],
+    "expected_result": "20"
+  },
+  {
+    "parameters": [
+      "XXV"
+    ],
+    "expected_result": "25"
+  },
+  {
+    "parameters": [
+      "XXXVII"
+    ],
+    "expected_result": "37"
+  },
+  {
+    "parameters": [
+      "XXXIX"
+    ],
+    "expected_result": "39"
+  },
+  {
+    "parameters": [
+      "XL"
+    ],
+    "expected_result": "40"
+  },
+  {
+    "parameters": [
+      "L"
+    ],
+    "expected_result": "50"
+  },
+  {
+    "parameters": [
+      "CD"
+    ],
+    "expected_result": "400"
+  },
+  {
+    "parameters": [
+      "D"
+    ],
+    "expected_result": "500"
+  },
+  {
+    "parameters": [
+      "CM"
+    ],
+    "expected_result": "900"
+  },
+  {
+    "parameters": [
+      "M"
+    ],
+    "expected_result": "1000"
+  },
+  {
+    "parameters": [
+      "MCCCXXXVII"
+    ],
+    "expected_result": "1337"
+  },
+  {
+    "parameters": [
+      "MCMXCIV"
+    ],
+    "expected_result": "1994"
+  },
+  {
+    "parameters": [
+      "MMMCMXCIX"
+    ],
+    "expected_result": "3999"
+  }
+]
